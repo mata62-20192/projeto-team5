@@ -1,3 +1,5 @@
+package src.br.ufba.mata62.SistemaAcademico;
+
 public class Coordernador extends Professor{
 
   public void adicionarAluno(Aluno aluno);

@@ -1,3 +1,5 @@
+package src.br.ufba.mata62.SistemaAcademico;
+
 public class Universidade{
 
   private String nome;

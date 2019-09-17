@@ -1,3 +1,5 @@
+package src.br.ufba.mata62.SistemaAcademico;
+
 import java.util.ArrayList;
 
 public class MateriaCursada{
