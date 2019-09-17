@@ -1,4 +1,4 @@
-package src.br.ufba.mata62.SistemaAcademico;
+package br.ufba.mata62.SistemaAcademico;
 
 import java.util.ArrayList;
 
