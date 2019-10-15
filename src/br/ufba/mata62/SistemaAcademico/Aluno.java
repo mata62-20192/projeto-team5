@@ -6,15 +6,36 @@ public class Aluno extends Pessoa{
   private boolean matriculado;
   private boolean graduado;
   private Float score;
+  private Curso curso;
+  private Historico historico;
+  private Matricula matricula;
 
-  public Aluno(String nome, String matricula, String senha, String rg, String cpf, int semestre, boolean matriculado, boolean graduado, Float score){
+  public Aluno(String nome, String matricula, String senha, String rg, String cpf, 
+		  		String codigoCurso){
     super(nome, matricula, senha, rg, cpf);
-    this.semestre = semestre;
-    this.matriculado = matriculado;
-    this.graduado = graduado;
-    this.score = score;
+    
+    for(int index = 0; index < Universidade.getCursos().size(); index++) {
+    	if(codigoCurso.equals(Universidade.getCursos().get(index).getCodigo())) {
+    		this.curso = Universidade.getCursos().get(index);
+    		break;
+    	}
+    }
+    
+    this.historico = new Historico(curso);    
+  }
+  
+  public void matricula() {
+	  matricula = new Matricula(historico, curso);
+  }
+  
+  public void calculaSemestre() {
+	  
   }
 
+  public void calculaScore() {
+	  score = historico.calculaScore();
+  }
+  
   // GETTERS E SETTERS
 
   public void setSemestre(int semestre){
@@ -48,5 +69,12 @@ public class Aluno extends Pessoa{
   public Float getScore(){
     return score;
   }
-
+  
+  public Curso getCurso() {
+	  return curso;
+  }
+  
+  public Historico getHistorico() {
+	  return historico;
+  }
 }

@@ -1,58 +1,73 @@
 package br.ufba.mata62.SistemaAcademico;
 
+import java.util.Iterator;
+import java.util.TreeSet;
+
+import enums.Turno;
+
 public class Curso{
 
   private String nome;
-  private String sigla;
+  private String codigo;
   private int numeroSemestres;
   private int ch;
-  //private enum turno;
+  
+  //TreeSet organiza disciplinas pelo semestre
+  private TreeSet<DisciplinaSelecionada> disciplinaSelecionada;
 
-  public Curso(String nome, String sigla, int numeroSemestres, int ch){
+  //Instanciar curso sem disciplinas
+  	public Curso(String nome, String codigo){
     this.nome = nome;
-    this.sigla = sigla;
+    this.codigo = codigo;
+    disciplinaSelecionada = new TreeSet<DisciplinaSelecionada>();
+  }
+  
+  //Instanciar curso com disciplinas
+  	public Curso(String nome, String codigo, 
+		  TreeSet<DisciplinaSelecionada> disciplinaSelecionada){
+    this.nome = nome;
+    this.codigo = codigo;
     this.numeroSemestres = numeroSemestres;
-    this.ch = ch;
+    this.disciplinaSelecionada = disciplinaSelecionada;
   }
 
+  //Método para retornar uma discipliaSelecionada pelo seu código
+  	 public DisciplinaSelecionada getDisciplinaSelecionada(String codigo) {
+  		 Iterator<DisciplinaSelecionada> iterator = disciplinaSelecionada.iterator();
+  		 while(iterator.hasNext()) {
+  			 DisciplinaSelecionada aux = iterator.next();
+  			 
+  			 if(aux.getDisciplina().getCodigo().equals(codigo))
+  				 return aux;
+  		 }
+  		 return null;
+  	 }
+  	
   // GETTERS E SETTERS
+ public void adicionaDisciplinaSelecionada(DisciplinaSelecionada disciplinaSelecionada) {
+	 this.disciplinaSelecionada.add(disciplinaSelecionada);
+ }
 
-  public void setNome(String nome){
-    this.nome = nome;
-  }
+ public TreeSet<DisciplinaSelecionada> getDisciplinaSelecionada() {
+	return disciplinaSelecionada;
+ }
 
-  public void setSigla(String sigla){
-    this.sigla = sigla;
-  }
-
-  public void setNumeroSemestres(String numero){
-    this.numeroSemestres = numero;
-  }
-
-  public void setCh(int ch){
-    this.ch = ch;
-  }
-
-  // FALTA ENUM TURNO
-
+ //Getters
   public String getNome(){
     return nome;
   }
 
-  public String getSigla(){
-    return sigla;
+  public String getCodigo(){
+    return codigo;
   }
 
-  public int get NumeroSemestres(){
+  public int getNumeroSemestres(){
     return numeroSemestres;
   }
 
   public int getCh(){
     return ch;
   }
-
-  // FALTA ENUM TURNO
-
 
 }
 

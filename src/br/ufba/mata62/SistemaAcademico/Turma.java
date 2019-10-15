@@ -1,24 +1,23 @@
 package br.ufba.mata62.SistemaAcademico;
 
+import java.sql.Time;
+import java.util.Date;
+
 public class Turma{
 
   private Disciplina disciplina;
   private String codigo;
   private int capacidade;
-  private Calendar horario;
+  private Time horario;
+  private Professor professor;
 
-  public Turma(Disciplina disciplina, String codigo, int capacidade, Calendar horario){
+  public Turma(Disciplina disciplina, String codigo, int capacidade, Time horario,
+		  		Professor professor){
     this.disciplina = disciplina;
     this.codigo = codigo;
     this.capacidade = capacidade;
     this.horario = horario;
-  }
-
-  public Turma(String nome, String codigo, Disciplina, int ch, String codigoTurma, int capacidade, Calendar horario){
-    super(nome, codigoDisciplina, ch);
-    this.codigo = codigo;
-    this.capacidade = capacidade;
-    this.horario = horario;
+    this.professor = professor;
   }
 
   // GETTERS E SETTERS
@@ -35,11 +34,19 @@ public class Turma{
     this.capacidade = capacidade;
   }
 
-  public void setHorario(Calendar horario){
+  public void setHorario(Time horario){
     this.horario = horario;
   }
 
-  public void getDisciplina(){
+  public void setProfessor(Professor professor) {
+	this.professor = professor;
+}
+
+public Professor getProfessor() {
+	return professor;
+}
+
+public Disciplina getDisciplina(){
     return disciplina;
   }
 
@@ -51,7 +58,7 @@ public class Turma{
     return capacidade;
   }
 
-  public Calendar getHorario(){
+  public Date getHorario(){
     return horario;
   }
 

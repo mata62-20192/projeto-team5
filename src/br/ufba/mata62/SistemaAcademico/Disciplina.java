@@ -14,23 +14,11 @@ public class Disciplina{
 
   //GETTES E SETTERS
 
-  public void setNome(String nome){
-    this.nome = nome;
-  }
-
-  public void setCodigo{
-    this.codigo = codigo;
-  }
-
-  public void setCh{
-    this.ch = ch;
-  }
-
   public String getNome(){
     return nome;
   }
 
-  public String getCodigo{
+  public String getCodigo(){
     return codigo;
   }
 

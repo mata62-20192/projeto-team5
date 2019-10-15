@@ -1,12 +1,12 @@
 package br.ufba.mata62.SistemaAcademico;
 
-public class Pessoa{
+public abstract class Pessoa{
   
-  private String nome;
-  private String matricula;
-  private String senha;
-  private String rg;
-  private String cpf;
+  private final String nome;
+  private final String matricula;
+  private final String senha;
+  private final String rg;
+  private final String cpf;
 
   public Pessoa(String nome, String matricula, String senha, String rg, String cpf){
     this.nome = nome;
@@ -17,27 +17,6 @@ public class Pessoa{
   }
 
   // GETTES E SETTERS
-
-  private void setNome(String nome){
-    this.nome = nome;
-  }
-
-  public void setMatricula(String matricula){
-    this.matricula = matricula;
-  }
-
-  public void setSenha(String senha){
-    this.senha = senha;
-  }
-
-  public void setRg(String rg){
-    this.rg = rg;
-  }
-
-  public void setCpf(String cpf){
-    this.cpf = cpf;
-  }
-  
   public String getNome(){
     return nome;
   }

@@ -1,31 +1,35 @@
 package br.ufba.mata62.SistemaAcademico;
 
-public class DisciplinaCursada extends DisciplinaSelecionada{
+public class DisciplinaCursada{
 
+  DisciplinaSelecionada disciplinaSelecionada;	
   private boolean concluida;
   private Float nota;
 
-  public DisciplinaCursada(String nome, String codigo, int ch, ArrayList<Disciplina> preRequisito, boolean obrigatoria, int semestre, boolean concluida, Float nota){
-    super(nome, codigo, ch, preRequisito, obrigatoria, semestre);
-    this.concluida = concluida;
-    this.nota = nota;
+  public DisciplinaCursada(DisciplinaSelecionada disciplinaSelecionada){
+	  this.disciplinaSelecionada = disciplinaSelecionada;
+	  this.concluida = false;
+	  this.nota = (float) -1;
   }
 
   // GETTERS E SETTERS
-
-  private void setConcluida(boolean concluida){
+  public void setConcluida(boolean concluida){
     this.concluida = concluida;
   }
 
-  private void setNota(String nome, String codigo, int ch, Float nota){
-    this.nota = nota;
-  }
+  public void setNota(Float nota){
+	    this.nota = nota;
+	  }
+  
+  public DisciplinaSelecionada getDisciplinaSelecionada() {
+	return disciplinaSelecionada;
+}
 
-  private boolean estaConcluida(){
+  public boolean getConcluida(){
     return concluida;
   }
 
-  private Float getNota(){
+  public Float getNota(){
     return nota;
   }
 
