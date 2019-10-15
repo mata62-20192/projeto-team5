@@ -1,0 +1,36 @@
+    1  git
+    2  cd Downloads/
+    3  git clone
+    4  git clone https://github.com/mata62-20192/projeto-team5.git
+    5  ls
+    6  cd projeto-team5
+    7  git status
+    8  git remote 
+    9  git remote -v 
+   10  ls
+   11  git branch 
+   12  cd ..
+   13  ls
+   14  unzip projeto-team5-master.zip 
+   15  ls
+   16  unzip projeto-team5-master.zip pppp
+   17  cd projeto-team5
+   18  git status
+   19  git add src/br/ufba/mata62/SistemaAcademico/Aluno.java
+   20  git status
+   21  git add .
+   22  git status
+   23  git reset HEAD src/LeitorTXT/LeitorTXT.java
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "Read text files with courses and its respectives subjects"
+   28  git config --global user.email "eugeniodias5@hotmail.com"
+   29  git config --global user.name "Eugenio Dias Ribeiro Neto"
+   30  git status
+   31  git commit -m "Read text files with courses and its respectives subjects"
+   32  git status
+   33  git push -u origin master 
+   34  git status
+   35  history
+   36  history > cmds.txt
