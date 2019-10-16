@@ -1,20 +1,23 @@
 package br.ufba.mata62.SistemaAcademico;
 
+import enums.Conceito;
+
 public class DisciplinaCursada{
 
   DisciplinaSelecionada disciplinaSelecionada;	
-  private boolean concluida;
+  private Conceito conceito;
   private Float nota;
 
   public DisciplinaCursada(DisciplinaSelecionada disciplinaSelecionada){
 	  this.disciplinaSelecionada = disciplinaSelecionada;
-	  this.concluida = false;
+	  this.conceito = Conceito.NAOFEITA;
 	  this.nota = (float) -1;
   }
+  
 
   // GETTERS E SETTERS
-  public void setConcluida(boolean concluida){
-    this.concluida = concluida;
+  public void setConceito(Conceito conceito){
+    this.conceito = conceito;
   }
 
   public void setNota(Float nota){
@@ -25,8 +28,8 @@ public class DisciplinaCursada{
 	return disciplinaSelecionada;
 }
 
-  public boolean getConcluida(){
-    return concluida;
+  public Conceito getConceito(){
+    return conceito;
   }
 
   public Float getNota(){

@@ -23,10 +23,10 @@ public class LeitorTXT {
 		int i, j, semestre, ch, materias;
 		boolean obrigatoria;
 		
+		int totalSemestres = 0; //Verifica o número total de semestres do curso
+		
 		for(i = 0; i < numCursos; i++) {
-			//Informações do curso
-			//scanner.skip("\n");
-			
+			//Informações do curso			
 			scanner.nextLine();
 			
 			nome = scanner.nextLine();
@@ -35,11 +35,10 @@ public class LeitorTXT {
 			
 			
 			Curso curso = new Curso(nome, codigo);
+			totalSemestres = 0;
 			
 			for(j = 0; j < materias; j++) {
-				//Informações da matéria
-				//scanner.skip("\n");
-				
+				//Informações da matéria	
 				scanner.nextLine();
 
 				
@@ -64,9 +63,12 @@ public class LeitorTXT {
 					obrigatoria = false;
 				
 				curso.adicionaDisciplinaSelecionada(new DisciplinaSelecionada(
-													codigo, new ArrayList<String>(), 
+													disciplina, new ArrayList<Disciplina>(), 
 													obrigatoria, semestre));
+				if(semestre > totalSemestres) 
+					totalSemestres = semestre;
 			}
+			curso.setNumeroSemestres(totalSemestres);
 			universidade.adicionaCurso(curso);
 		}
 		

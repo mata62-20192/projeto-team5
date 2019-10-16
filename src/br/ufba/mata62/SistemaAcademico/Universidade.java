@@ -2,6 +2,8 @@ package br.ufba.mata62.SistemaAcademico;
 
 import java.util.ArrayList;
 
+import buscadores.BuscaEmLista;
+
 public class Universidade{
 
   private String nome;
@@ -10,8 +12,8 @@ public class Universidade{
   private ArrayList<Aluno> alunos;
   private ArrayList<Professor> professores;
   private Coordernador coordenador;
-  private static ArrayList<Disciplina> disciplinas;
-  private static ArrayList<Curso> cursos;
+  private ArrayList<Disciplina> disciplinas;
+  private ArrayList<Curso> cursos;
 
   public Universidade(String nome, String sigla, String semestre, 
 		  				ArrayList<Disciplina> disciplinas){
@@ -64,27 +66,30 @@ public void iniciaSemestre() {
 	  disciplinas.add(disciplina);
   }
   
-//Método que muda um professor na lista
-public void setProfessor(Professor professor, int index) {
-	this.professores.set(index, professor);
-}
+	//Método que muda um professor na lista
+	public void setProfessor(Professor professor, int index) {
+		this.professores.set(index, professor);
+	}
+	
+	//Método que muda um aluno na lista
+	public void setAluno(Aluno aluno, int index) {
+		this.alunos.set(index, aluno);
+	}
 
-//Método que muda um aluno na lista
-public void setAluno(Aluno aluno, int index) {
-	this.alunos.set(index, aluno);
-}
-
-  // GETTERS E SETTERS
+	// GETTERS E SETTERS
   
 	//Pegar uma disciplina pelo código
-  public Disciplina getDisciplina(String codigo) {
-	  for(int index = 0; index < disciplinas.size(); index++) {
-		  if(codigo.equals(disciplinas.get(index).getCodigo()))
-				  return disciplinas.get(index);
-	  }
-	  return null;
+  public Disciplina getDisciplina(String codigoDisciplina) {
+	  BuscaEmLista busca = new BuscaEmLista();
+	  return busca.getDisciplina(disciplinas, codigoDisciplina);
   }
-
+  
+  //Pegar um curso pelo código
+  public Curso getCurso(String codigoCurso) {
+	  BuscaEmLista busca = new BuscaEmLista();
+	  return busca.getCurso(cursos, codigoCurso);
+  }
+  
   public String getNome(){
     return nome;
   }
@@ -93,25 +98,25 @@ public void setAluno(Aluno aluno, int index) {
 	return alunos;
 }
 
-public ArrayList<Professor> getProfessores() {
-	return professores;
-}
-
-public static ArrayList<Disciplina> getDisciplinas() {
-	return disciplinas;
-}
-
-public static ArrayList<Curso> getCursos() {
-	return cursos;
-}
-
-public Coordernador getCoordenador() {
-	return coordenador;
-}
-
-public void setCoordenador(Coordernador coordenador) {
-	this.coordenador = coordenador;
-}
+	public ArrayList<Professor> getProfessores() {
+		return professores;
+	}
+	
+	public ArrayList<Disciplina> getDisciplinas() {
+		return disciplinas;
+	}
+	
+	public ArrayList<Curso> getCursos() {
+		return cursos;
+	}
+	
+	public Coordernador getCoordenador() {
+		return coordenador;
+	}
+	
+	public void setCoordenador(Coordernador coordenador) {
+		this.coordenador = coordenador;
+	}
 
   public String getSigla(){
     return sigla;

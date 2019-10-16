@@ -5,50 +5,22 @@ import java.util.ArrayList;
 public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada>{
 
   private Disciplina disciplina;	
-  private ArrayList<Disciplina> preRequisito;
+  private ArrayList<Disciplina> preRequisitos;
   private boolean obrigatoria;
   private int semestre;
 
-  public DisciplinaSelecionada(String codigoDisciplina, ArrayList<String> codigosPreRequisitos, 
+  public DisciplinaSelecionada(Disciplina disciplina, ArrayList<Disciplina> preRequisitos, 
 		  						boolean obrigatoria, int semestre){
 	this.obrigatoria = obrigatoria;
+	this.disciplina = disciplina;
 	
 	if(obrigatoria)
 		this.semestre = semestre;
 	else
 		this.semestre = 0;
 	
-	//Pelos códigos, serão encontrados os pré-requisitos na lista de disciplinas da universidade
-    int index = 0;
-    int index2 = 0;
-
-    if(!codigosPreRequisitos.isEmpty()) {
-    	preRequisito = new ArrayList<Disciplina>();
-    while(index < codigosPreRequisitos.size()) {
-    	
-        while(index2 < Universidade.getDisciplinas().size()) {
-        	
-        	if(codigosPreRequisitos.get(index).equals(Universidade.getDisciplinas().get(index2).getCodigo())) {
-        		preRequisito.add(Universidade.getDisciplinas().get(index));
-        		break;
-        		}
-
-        	index2++;
-        	}
-        index2 = 0;
-        index++;
-    	}
-    }
+	this.preRequisitos = preRequisitos;
     
-    //Pelo código, será encontrada a disciplina de DisciplinaSelecionada, na lista da universidade
-    index = 0;
-    while(index < Universidade.getDisciplinas().size()) {
-    	if(codigoDisciplina.equals(Universidade.getDisciplinas().get(index).getCodigo())) {
-    	this.disciplina = Universidade.getDisciplinas().get(index);
-    	break;
-    	}
-    index++;
-    }
   }
   
   //Implementando TreeSet
@@ -72,7 +44,7 @@ public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada>{
   // GETTERS E SETTERS
 
   public ArrayList<Disciplina> getPreRequisito(){
-    return preRequisito;
+    return preRequisitos;
   }
 
   public Disciplina getDisciplina() {

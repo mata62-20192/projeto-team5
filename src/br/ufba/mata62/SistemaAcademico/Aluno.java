@@ -11,17 +11,11 @@ public class Aluno extends Pessoa{
   private Matricula matricula;
 
   public Aluno(String nome, String matricula, String senha, String rg, String cpf, 
-		  		String codigoCurso){
+		  		Curso curso){
     super(nome, matricula, senha, rg, cpf);
     
-    for(int index = 0; index < Universidade.getCursos().size(); index++) {
-    	if(codigoCurso.equals(Universidade.getCursos().get(index).getCodigo())) {
-    		this.curso = Universidade.getCursos().get(index);
-    		break;
-    	}
-    }
-    
-    this.historico = new Historico(curso);    
+    this.curso = curso;
+    this.historico = new Historico(this);    
   }
   
   public void matricula() {

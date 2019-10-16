@@ -1,16 +1,10 @@
 package br.ufba.mata62.SistemaAcademico;
 
-import java.awt.List;
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.Scanner;
 
 import LeitorTXT.LeitorTXT;
-import enums.Contrato;
-import enums.Nivel;
-import enums.Turno;
+
 
 public class main {
 
@@ -43,11 +37,11 @@ public class main {
 		/*********************************************************/
 		/* Imprimindo  disciplinas de engenharia de computação, que tem código 186140 
 		  As disciplinas são impressas em ordem de semestre e por último as optativas*/
-		 /*
+		/* 
 		Curso curso = null;
-		for(int index = 0; index < Universidade.getCursos().size(); index++) {
-			if(Universidade.getCursos().get(index).getCodigo().equals("186140")) {
-				curso = Universidade.getCursos().get(index);
+		for(int index = 0; index < universidade.getCursos().size(); index++) {
+			if(universidade.getCursos().get(index).getCodigo().equals("186140")) {
+				curso = universidade.getCursos().get(index);
 				break;
 			}
 		}
@@ -55,7 +49,7 @@ public class main {
 		for(DisciplinaSelecionada d : curso.getDisciplinaSelecionada())
 			System.out.println(d.getDisciplina().getNome());
 		*/
-		
+	
 		
 		
 		
@@ -69,13 +63,15 @@ public class main {
 		
 		
 		/*********************************************************/
-		/*Criando coordenador e um aluno de engenharia de computação, passando o código 186140 do curso para o aluno*/
+		/*Criando coordenador e um aluno de engenharia de computação, 
+		  passando o código 186140 do curso para o aluno*/
+		
 		/*
 		Coordernador coordenador = new Coordernador("Coordenador", "Matricula", "Senha", 
 				"rg", "cpf", Contrato.DEFINITIVO, Nivel.DOUTORADO, universidade);
 		
 		Aluno aluno = new Aluno("Aluno", "Matricula", "Senha", "1111", 
-				"1112365", "186140");
+				"1112365", universidade.getCurso("186140"));
 		
 		coordenador.adicionarAluno(aluno);	
 			
@@ -88,14 +84,11 @@ public class main {
 			for(DisciplinaCursada disciplinaCursada : aluno.getHistorico().getDisciplinaCursada())
 				System. out .println(disciplinaCursada.getNota());
 		
-		
-		
-		
-			
+					
 			 	//Imprimindo score do aluno
 				System.out.println("Score: " + aluno.getScore());
-		*/		
-
+			
+		*/
 	}
 		
 }

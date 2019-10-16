@@ -1,0 +1,5 @@
+package enums;
+
+public enum Conceito {
+	APROVADO, REPROVADONOTA, REPOVADOFALTA, DISPENSA, TRANCAMENTO, NAOFEITA;
+}

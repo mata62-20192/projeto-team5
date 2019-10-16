@@ -1,9 +1,7 @@
 package br.ufba.mata62.SistemaAcademico;
 
-import java.util.Iterator;
 import java.util.TreeSet;
-
-import enums.Turno;
+import buscadores.BuscaEmArvore;
 
 public class Curso{
 
@@ -27,47 +25,44 @@ public class Curso{
 		  TreeSet<DisciplinaSelecionada> disciplinaSelecionada){
     this.nome = nome;
     this.codigo = codigo;
-    this.numeroSemestres = numeroSemestres;
     this.disciplinaSelecionada = disciplinaSelecionada;
   }
 
-  //Método para retornar uma discipliaSelecionada pelo seu código
+  //Método para retornar uma disciplinaSelecionada pelo seu código
   	 public DisciplinaSelecionada getDisciplinaSelecionada(String codigo) {
-  		 Iterator<DisciplinaSelecionada> iterator = disciplinaSelecionada.iterator();
-  		 while(iterator.hasNext()) {
-  			 DisciplinaSelecionada aux = iterator.next();
-  			 
-  			 if(aux.getDisciplina().getCodigo().equals(codigo))
-  				 return aux;
-  		 }
-  		 return null;
+  		 BuscaEmArvore busca = new BuscaEmArvore();
+  		 return busca.getElemento(disciplinaSelecionada, codigo);
   	 }
   	
   // GETTERS E SETTERS
- public void adicionaDisciplinaSelecionada(DisciplinaSelecionada disciplinaSelecionada) {
-	 this.disciplinaSelecionada.add(disciplinaSelecionada);
- }
+  	 public void adicionaDisciplinaSelecionada(DisciplinaSelecionada disciplinaSelecionada) {
+  		 this.disciplinaSelecionada.add(disciplinaSelecionada);
+  	 }
 
- public TreeSet<DisciplinaSelecionada> getDisciplinaSelecionada() {
-	return disciplinaSelecionada;
- }
+  	 public TreeSet<DisciplinaSelecionada> getDisciplinaSelecionada() {
+  		 return disciplinaSelecionada;
+  	 }
+  	 
+  	 public void setNumeroSemestres(int num) {
+  		 this.numeroSemestres = num;
+  	 }
 
- //Getters
-  public String getNome(){
-    return nome;
-  }
+  	 //Getters
+  	 public String getNome(){
+  		 return nome;
+  	 }
 
-  public String getCodigo(){
-    return codigo;
-  }
+  	public String getCodigo(){
+  		return codigo;
+  	}
 
-  public int getNumeroSemestres(){
-    return numeroSemestres;
-  }
+  	public int getNumeroSemestres(){
+  		return numeroSemestres;
+  	}
 
-  public int getCh(){
-    return ch;
-  }
+  	public int getCh(){
+  		return ch;
+  	}
 
 }
 
