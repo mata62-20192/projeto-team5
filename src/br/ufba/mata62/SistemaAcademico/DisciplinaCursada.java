@@ -14,6 +14,12 @@ public class DisciplinaCursada{
 	  this.nota = (float) -1;
   }
   
+  public boolean equals(String codigo) {
+	  if(disciplinaSelecionada.equals(codigo)) 
+		  return true;
+	  
+		return false;
+  }
 
   // GETTERS E SETTERS
   public void setConceito(Conceito conceito){

@@ -1,40 +1,40 @@
 package br.ufba.mata62.SistemaAcademico;
 
-public abstract class Pessoa{
-  
-  private final String nome;
-  private final String matricula;
-  private final String senha;
-  private final String rg;
-  private final String cpf;
+public abstract class Pessoa {
 
-  public Pessoa(String nome, String matricula, String senha, String rg, String cpf){
-    this.nome = nome;
-    this.matricula = matricula;
-    this.senha = senha;
-    this.rg = rg;
-    this.cpf = cpf;
-  }
+	private final String nome;
+	private final String matricula;
+	private final String senha;
+	private final String rg;
+	private final String cpf;
 
-  // GETTES E SETTERS
-  public String getNome(){
-    return nome;
-  }
+	public Pessoa(String nome, String matricula, String senha, String rg, String cpf) {
+		this.nome = nome;
+		this.matricula = matricula;
+		this.senha = senha;
+		this.rg = rg;
+		this.cpf = cpf;
+	}
 
-  public String getMatricula(){
-    return matricula;
-  }
+	// GETTES E SETTERS
+	public String getNome() {
+		return nome;
+	}
 
-  public String getSenha(){
-    return senha;
-  }
+	public String getMatricula() {
+		return matricula;
+	}
 
-  public String getRg(){
-    return rg;
-  }
+	public String getSenha() {
+		return senha;
+	}
 
-  public String getCpf(){
-    return cpf;
-  }
-  
+	public String getRg() {
+		return rg;
+	}
+
+	public String getCpf() {
+		return cpf;
+	}
+
 }

@@ -12,6 +12,13 @@ public class Disciplina{
     this.ch = ch;
   }
 
+  public boolean equals(String codigo) {
+	  if(this.codigo.equals(codigo))
+		  return true;
+	  
+	 return false;
+  }
+  
   //GETTES E SETTERS
 
   public String getNome(){

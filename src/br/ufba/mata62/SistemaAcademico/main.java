@@ -4,6 +4,8 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 import LeitorTXT.LeitorTXT;
+import enums.Contrato;
+import enums.Nivel;
 
 
 public class main {
@@ -21,6 +23,7 @@ public class main {
 		
 		
 		/*********************************************************/
+		
 		// Imprimindo disciplinas da universidade, lidas no txt 
 		for(Disciplina d : universidade.getDisciplinas())
 			System.out.println(d.getNome());
@@ -74,7 +77,7 @@ public class main {
 				"1112365", universidade.getCurso("186140"));
 		
 		coordenador.adicionarAluno(aluno);	
-			
+		
 		//Dando nota de 7.3 ao aluno para a disciplina MATA02 (primeira disciplina)
 		//As disciplinas sem notas, ficam com -1.0
 		coordenador.darNota(aluno, "MATA02", (float)7.3);

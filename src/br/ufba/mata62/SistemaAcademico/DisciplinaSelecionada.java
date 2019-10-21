@@ -1,62 +1,70 @@
 package br.ufba.mata62.SistemaAcademico;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
-public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada>{
+public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada> {
 
-  private Disciplina disciplina;	
-  private ArrayList<Disciplina> preRequisitos;
-  private boolean obrigatoria;
-  private int semestre;
+	private Disciplina disciplina;
+	private ArrayList<Disciplina> preRequisitos;
+	private boolean obrigatoria;
+	private int semestre;
 
-  public DisciplinaSelecionada(Disciplina disciplina, ArrayList<Disciplina> preRequisitos, 
-		  						boolean obrigatoria, int semestre){
-	this.obrigatoria = obrigatoria;
-	this.disciplina = disciplina;
-	
-	if(obrigatoria)
-		this.semestre = semestre;
-	else
-		this.semestre = 0;
-	
-	this.preRequisitos = preRequisitos;
-    
-  }
-  
-  //Implementando TreeSet
-  //Organiza por semestre. Caso o semestre seja o mesmo,
-  //organiza por ordem alfabética
-  @Override
-  public int compareTo(DisciplinaSelecionada o) {
-	if(semestre != 0) {  //Se a matéria é obrigatória
-  	if(semestre - o.semestre != 0)
-  		return semestre - o.semestre;
-  	else
-  		return disciplina.getNome().compareTo(o.getDisciplina().getNome());
+	public DisciplinaSelecionada(Disciplina disciplina, ArrayList<Disciplina> preRequisitos, boolean obrigatoria,
+			int semestre) {
+		this.obrigatoria = obrigatoria;
+		this.disciplina = disciplina;
+
+		if (obrigatoria)
+			this.semestre = semestre;
+		else
+			this.semestre = 0;
+
+		this.preRequisitos = preRequisitos;
+
 	}
-	else				//Se for optativa, vai pro final e é organizado por nome
-	  	if(semestre - o.semestre != 0)
-	  		return o.semestre - semestre;
-	  	else
-	  		return disciplina.getNome().compareTo(o.getDisciplina().getNome());
-  }
 
-  // GETTERS E SETTERS
+	// Implementando TreeSet
+	// Organiza por semestre. Caso o semestre seja o mesmo,
+	// organiza por ordem alfabética
+	@Override
+	public int compareTo(DisciplinaSelecionada o) {
+		if (semestre != 0) { // Se a matéria é obrigatória
+			if (semestre - o.semestre != 0)
+				return semestre - o.semestre;
+			else
+				return disciplina.getNome().compareTo(o.getDisciplina().getNome());
+		} else // Se for optativa, vai pro final e é organizado por nome
+		if (semestre - o.semestre != 0)
+			return o.semestre - semestre;
+		else
+			return disciplina.getNome().compareTo(o.getDisciplina().getNome());
+	}
 
-  public ArrayList<Disciplina> getPreRequisito(){
-    return preRequisitos;
-  }
+	public boolean equals(String codigo) {
+		if (disciplina.equals(codigo))
+			return true;
 
-  public Disciplina getDisciplina() {
-	return disciplina;
-  }
+		return false;
+	}
 
-  public boolean isObrigatoria() {
-	return obrigatoria;
-  }
+	// GETTERS E SETTERS
 
-  public int getSemestre() {
-	return semestre;
-  }
+	public List<Disciplina> getPreRequisito() {
+		return Collections.unmodifiableList(preRequisitos);
+	}
+
+	public Disciplina getDisciplina() {
+		return disciplina;
+	}
+
+	public boolean isObrigatoria() {
+		return obrigatoria;
+	}
+
+	public int getSemestre() {
+		return semestre;
+	}
 
 }
