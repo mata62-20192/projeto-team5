@@ -1,48 +1,48 @@
-Curso: COMPUTA«√O - LICENCIATURA  - NOTURNO - SALVADOR
-CÛdigo: 196120
+Curso: COMPUTA√á√ÉO - LICENCIATURA  - NOTURNO - SALVADOR
+C√≥digo: 196120
 CH: 4811 Horas
-N˙mero de semestres: 9
+N√∫mero de semestres: 9
 
 
 
 
 
-                IMPRESS√O DE CURRÕCULO
+                IMPRESS√ÉO DE CURR√çCULO
 
 
 
                 Semestre 1
 
-EDCB80  FILOSOFIA DA EDUCA«√O                                       68    OB  
-MATA01  GEOMETRIA  ANALÕTICA                                        68    OB  
-MATA37  INTRODU«√O ¿ L”GICA DE PROGRAMA«√O                          68    OB  
-MATA42  MATEM¡TICA DISCRETA I                                       68    OB  
-MATA39  SEMIN¡RIOS DE INTRODU«√O AO CURSO                           51    OB  
+EDCB80  FILOSOFIA DA EDUCA√á√ÉO                                       68    OB  
+MATA01  GEOMETRIA  ANAL√çTICA                                        68    OB  
+MATA37  INTRODU√á√ÉO √Ä L√ìGICA DE PROGRAMA√á√ÉO                          68    OB  
+MATA42  MATEM√ÅTICA DISCRETA I                                       68    OB  
+MATA39  SEMIN√ÅRIOS DE INTRODU√á√ÉO AO CURSO                           51    OB  
 
 
                 Semestre 2
 
-MATA68  COMPUTADOR, …TICA E SOCIEDADE                               51    OB  
-EDC287  EDUCA«√O E TECNOLOGIAS CONTEMPOR¬NEAS                       68    OB  
+MATA68  COMPUTADOR, √âTICA E SOCIEDADE                               51    OB  
+EDC287  EDUCA√á√ÉO E TECNOLOGIAS CONTEMPOR√ÇNEAS                       68    OB  
 MATD04  ESTRUTURAS DE DADOS                                         68    OB  
-MATC73  INTRODU«√O ¿ L”GICA MATEM¡TICA                              68    OB  
-MATC81  SISTEMAS B¡SICOS DE COMPUTA«√O: ARQUITETURA E SOFTWARE      68    OB  
+MATC73  INTRODU√á√ÉO √Ä L√ìGICA MATEM√ÅTICA                              68    OB  
+MATC81  SISTEMAS B√ÅSICOS DE COMPUTA√á√ÉO: ARQUITETURA E SOFTWARE      68    OB  
 
 
                 Semestre 3
 
-EDCA01  FUNDAMENTOS PSICOL”GICOS DA EDUCA«√O                        68    OB  
-MATC94  INTRODU«√O AS LINGUAGENS FORMAIS E TEORIA DA COMPUTA«√O     68    OB  
-MAT236  M…TODOS ESTATÕSTICOS                                        68    OB  
-MATA55  PROGRAMA«√O ORIENTADA A OBJETOS                             68    OB  
+EDCA01  FUNDAMENTOS PSICOL√ìGICOS DA EDUCA√á√ÉO                        68    OB  
+MATC94  INTRODU√á√ÉO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTA√á√ÉO     68    OB  
+MAT236  M√âTODOS ESTAT√çSTICOS                                        68    OB  
+MATA55  PROGRAMA√á√ÉO ORIENTADA A OBJETOS                             68    OB  
 
 
                 Semestre 4
 
-EDCA11  DID¡TICA E PRAXIS PEDAG”GICA  I                             68    OB  
+EDCA11  DID√ÅTICA E PRAXIS PEDAG√ìGICA  I                             68    OB  
 MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  
-MATA41  INFORM¡TICA NA EDUCA«√O                                     68    OB  
-LETE46  Libras-LÌngua Brasileira de Sinais                          34    OB  
+MATA41  INFORM√ÅTICA NA EDUCA√á√ÉO                                     68    OB  
+LETE46  Libras-L√≠ngua Brasileira de Sinais                          34    OB  
 MATA59  REDES DE COMPUTADORES I                                     68    OB  
 MATC82  SISTEMAS WEB                                                68    OB  
 
@@ -50,73 +50,73 @@ MATC82  SISTEMAS WEB                                                68    OB
                 Semestre 5
 
 MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OB  
-EDC286  AVALIA«√O DA APRENDIZAGEM                                   68    OB  
-MATD05  BANCO DE DADOS E APLICA«’ES                                 68    OB  
-EDCA12  DID¡TICA E PRAXIS PEDAG”GICA II                             68    OB  
-MATB19  SISTEMAS MULTIMÕDIA                                         68    OB  
+EDC286  AVALIA√á√ÉO DA APRENDIZAGEM                                   68    OB  
+MATD05  BANCO DE DADOS E APLICA√á√ïES                                 68    OB  
+EDCA12  DID√ÅTICA E PRAXIS PEDAG√ìGICA II                             68    OB  
+MATB19  SISTEMAS MULTIM√çDIA                                         68    OB  
 
 
                 Semestre 6
 
-MATC68  EST¡GIO SUPERVISIONADO I                                    68    OB  
-MATC72  INTERA«√O HUMANO-COMPUTADOR                                 68    OB  
-MATB22  LABORAT”RIO DE INFORM¡TICA NA EDUCA«√O                      51    OB  
+MATC68  EST√ÅGIO SUPERVISIONADO I                                    68    OB  
+MATC72  INTERA√á√ÉO HUMANO-COMPUTADOR                                 68    OB  
+MATB22  LABORAT√ìRIO DE INFORM√ÅTICA NA EDUCA√á√ÉO                      51    OB  
 MATC78  PROJETO DE SOFTWARE EDUCATIVO                               68    OB  
-MATC76  PR¡TICA DE ENSINO DE COMPUTA«√O I                           68    OB  
+MATC76  PR√ÅTICA DE ENSINO DE COMPUTA√á√ÉO I                           68    OB  
 
 
                 Semestre 7
 
-MATC69  EST¡GIO SUPERVISIONADO II                                   68    OB  
-MATB20  INTELIG NCIA ARTIFICIAL EM EDUCA«√O                         68    OB  
-MATC79  PROJETOS INTERDISCIPLINARES: CONCEP«√O E PR¡TICA            68    OB  
-MATC77  PR¡TICA DE ENSINO DE COMPUTA«√O II                          68    OB  
+MATC69  EST√ÅGIO SUPERVISIONADO II                                   68    OB  
+MATB20  INTELIG√äNCIA ARTIFICIAL EM EDUCA√á√ÉO                         68    OB  
+MATC79  PROJETOS INTERDISCIPLINARES: CONCEP√á√ÉO E PR√ÅTICA            68    OB  
+MATC77  PR√ÅTICA DE ENSINO DE COMPUTA√á√ÉO II                          68    OB  
 
 
                 Semestre 8
 
-MATC70  EST¡GIO SUPERVISIONADO III                                  102   OB  
+MATC70  EST√ÅGIO SUPERVISIONADO III                                  102   OB  
 
 
                 Semestre 9
 
-MATC71  EST¡GIO SUPERVISIONADO IV                                   170   OB  
+MATC71  EST√ÅGIO SUPERVISIONADO IV                                   170   OB  
 
 
                 Optativas 
 
-EDC273  ANTROPOLOGIA DA EDUCA«√O                                    68    OP  
-MATA02  C¡LCULO A                                                   102   OP  
+EDC273  ANTROPOLOGIA DA EDUCA√á√ÉO                                    68    OP  
+MATA02  C√ÅLCULO A                                                   102   OP  
 MATC83  DESENVOLVIMENTO DE OBJETOS DE APRENDIZAGEM                  68    OP  
 EDC251  DIMENSAO ESTETICA DA EDUCACAO                               102   OP  
 EDC267  EDUCACAO AMBIENTAL                                          102   OP  
 EDC248  EDUCACAO E IDENTIDADE CULTURAL                              68    OP  
-EDC001  EDUCA«√O ABERTA, CONTINUADA E ¿ DIST¬NCIA                   68    OP  
+EDC001  EDUCA√á√ÉO ABERTA, CONTINUADA E √Ä DIST√ÇNCIA                   68    OP  
 MAT220  EMPREENDEDORES EM INFORMATICA                               68    OP  
 MATA63  ENGENHARIA DE SOFTWARE II                                   68    OP  
 MAT198  FUNDAMENTOS DE MATEMATICA  ELEMENTAR  I-A                   102   OP  
 EDC274  HISTORIA DA EDUCACAO  1                                     68    OP  
-EDCA05  HIST”RIA DA EDUCA«√O BRASILEIRA                             68    OP  
+EDCA05  HIST√ìRIA DA EDUCA√á√ÉO BRASILEIRA                             68    OP  
 LET358  INGLES INSTRUMENTAL III  N-100                              51    OP  
 LET359  INGLES INSTRUMENTAL IV  N-100                               51    OP  
-MATA64  INTELIG NCIA ARTIFICIAL                                     68    OP  
+MATA64  INTELIG√äNCIA ARTIFICIAL                                     68    OP  
 EDC266  INTRODUCAO A INFORMATICA  NA EDUCACAO                       102   OP  
-MATB09  LABORAT”RIO DE BANCO DE DADOS                               51    OP  
-MATB16  LABORAT”RIO DE INTELIG NCIA ARTIFICIAL                      51    OP  
-MATA57  LABORAT”RIO DE PROGRAMA«√O I                                51    OP  
-MATC75  LABORAT”RIO DE PROGRAMA«√O VISUAL                           51    OP  
-MATC84  LABORAT”RIO DE PROGRAMA«√O WEB                              51    OP  
-EDC303  METODOLOGIA DO ENSINO DA MATEM¡TICA                         68    OP  
-EDC314  METODOLOGIA DO ENSINO DE CI NCIAS NATURAIS                  68    OP  
+MATB09  LABORAT√ìRIO DE BANCO DE DADOS                               51    OP  
+MATB16  LABORAT√ìRIO DE INTELIG√äNCIA ARTIFICIAL                      51    OP  
+MATA57  LABORAT√ìRIO DE PROGRAMA√á√ÉO I                                51    OP  
+MATC75  LABORAT√ìRIO DE PROGRAMA√á√ÉO VISUAL                           51    OP  
+MATC84  LABORAT√ìRIO DE PROGRAMA√á√ÉO WEB                              51    OP  
+EDC303  METODOLOGIA DO ENSINO DA MATEM√ÅTICA                         68    OP  
+EDC314  METODOLOGIA DO ENSINO DE CI√äNCIAS NATURAIS                  68    OP  
 EDCA40  METODOLOGIA DO ENSINO FUNDAMENTAL                           68    OP  
-EDC272  ORGANIZA«√O DA EDUCACAO BRASILEIRA 1                        68    OP  
+EDC272  ORGANIZA√á√ÉO DA EDUCACAO BRASILEIRA 1                        68    OP  
 EDC289  PESQUISA EM EDUCACAO                                        68    OP  
-MATC85  PRODU«√O DE MATERIAL EDUCATIVO DIGITAL                      51    OP  
+MATC85  PRODU√á√ÉO DE MATERIAL EDUCATIVO DIGITAL                      51    OP  
 EDC200  PROJETOS DE ENSINO DE CIENCIAS                              51    OP  
-MATB24  ROB”TICA INTELIGENTE                                        51    OP  
-EDCB81  SOCIOLOGIA DA EDUCA«√O                                      68    OP  
-MATC86  TECNOLOGIAS DIGITAIS COMO ESTRAT…GIAS DE APRENDIZAGEM       51    OP  
-EDC321  TEE - POL MICAS CONTEMPOR¬NEAS                              68    OP  
-MATB05  T”PICOS EM INTELIG NCIA ARTIFICIAL                          51    OP  
-MATC87  T”PICOS EM PROGRAMA«√O PARA EDUCA«√O                        51    OP  
-MATB26  T”PICOS EM SISTEMAS MULTIMÕDIA                              51    OP  
+MATB24  ROB√ìTICA INTELIGENTE                                        51    OP  
+EDCB81  SOCIOLOGIA DA EDUCA√á√ÉO                                      68    OP  
+MATC86  TECNOLOGIAS DIGITAIS COMO ESTRAT√âGIAS DE APRENDIZAGEM       51    OP  
+EDC321  TEE - POL√äMICAS CONTEMPOR√ÇNEAS                              68    OP  
+MATB05  T√ìPICOS EM INTELIG√äNCIA ARTIFICIAL                          51    OP  
+MATC87  T√ìPICOS EM PROGRAMA√á√ÉO PARA EDUCA√á√ÉO                        51    OP  
+MATB26  T√ìPICOS EM SISTEMAS MULTIM√çDIA                              51    OP  

@@ -1,107 +1,107 @@
 Aluno: Fulano Sicrano
-MatrÌcula: 4
-Curso: SISTEMAS DE INFORMA«√O - BACHARELADO  - NOTURNO - SALVADOR
-Score: 4.75
-Carga hor·ria cursada: 1054 Horas
+Matr√≠cula: 4
+Curso: SISTEMAS DE INFORMA√á√ÉO - BACHARELADO  - NOTURNO - SALVADOR
+Score: 4.52
+Carga hor√°ria cursada: 1156 Horas
 
 
 
 
 
-                IMPRESS√O DE HIST”RICO
+                IMPRESS√ÉO DE HIST√ìRICO
 
 
 
                 Semestre 1
 
-MATA68  COMPUTADOR, …TICA E SOCIEDADE                               51    OB  3,88  REPROVADONOTA  
-MATA02  C¡LCULO A                                                   102   OB  7,47  APROVADO  
-MATA37  INTRODU«√O ¿ L”GICA DE PROGRAMA«√O                          68    OB  6,94  APROVADO  
-MATA42  MATEM¡TICA DISCRETA I                                       68    OB  8,75  APROVADO  
-MATA39  SEMIN¡RIOS DE INTRODU«√O AO CURSO                           51    OB  9,50  APROVADO  
+MATA68  COMPUTADOR, √âTICA E SOCIEDADE                               51    OB  0,24  REPROVADONOTA  
+MATA02  C√ÅLCULO A                                                   102   OB  0,87  REPROVADONOTA  
+MATA37  INTRODU√á√ÉO √Ä L√ìGICA DE PROGRAMA√á√ÉO                          68    OB  7,44  APROVADO  
+MATA42  MATEM√ÅTICA DISCRETA I                                       68    OB  2,47  REPROVADONOTA  
+MATA39  SEMIN√ÅRIOS DE INTRODU√á√ÉO AO CURSO                           51    OB  1,60  REPROVADONOTA  
 
 
                 Semestre 2
 
-MATC90  CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES            68    OB  5,85  APROVADO  
-ADME99  ECONOMIA DA INOVA«√O                                        68    OB  2,92  REPROVADONOTA  
-MATD04  ESTRUTURAS DE DADOS                                         68    OB  8,43  APROVADO  
-MATC92  FUNDAMENTOS DE SISTEMAS DE INFORMA«√O                       68    OB  4,54  REPROVADONOTA  
-MATC73  INTRODU«√O ¿ L”GICA MATEM¡TICA                              68    OB  5,34  APROVADO  
+MATC90  CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES            68    OB  2,14  REPROVADONOTA  
+ADME99  ECONOMIA DA INOVA√á√ÉO                                        68    OB  5,73  APROVADO  
+MATD04  ESTRUTURAS DE DADOS                                         68    OB  1,83  REPROVADONOTA  
+MATC92  FUNDAMENTOS DE SISTEMAS DE INFORMA√á√ÉO                       68    OB  9,92  APROVADO  
+MATC73  INTRODU√á√ÉO √Ä L√ìGICA MATEM√ÅTICA                              68    OB  2,64  REPROVADONOTA  
 
 
                 Semestre 3
 
-ADM001  INTRODUCAO ¿  ADMINISTRACAO                                 68    OB  7,25  APROVADO  
-MATC94  INTRODU«√O AS LINGUAGENS FORMAIS E TEORIA DA COMPUTA«√O     68    OB  3,81  REPROVADONOTA  
-MATA55  PROGRAMA«√O ORIENTADA A OBJETOS                             68    OB  7,24  APROVADO  
-MATA58  SISTEMAS OPERACIONAIS                                       68    OB  3,49  REPROVADONOTA  
-MATA07  ¡LGEBRA LINEAR A                                            68    OB  2,81  REPROVADONOTA  
+ADM001  INTRODUCAO √Ä  ADMINISTRACAO                                 68    OB  1,99  REPROVADONOTA  
+MATC94  INTRODU√á√ÉO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTA√á√ÉO     68    OB  7,87  APROVADO  
+MATA55  PROGRAMA√á√ÉO ORIENTADA A OBJETOS                             68    OB  2,08  REPROVADONOTA  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  2,75  REPROVADONOTA  
+MATA07  √ÅLGEBRA LINEAR A                                            68    OB  7,47  APROVADO  
 
 
                 Semestre 4
 
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  5,75  APROVADO  
-MAT236  M…TODOS ESTATÕSTICOS                                        68    OB  3,40  REPROVADONOTA  
-LETA09  OFICINA DE LEITURA E PRODU«√O DE TEXTOS                     68    OB  0,23  REPROVADONOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  3,01  REPROVADONOTA  
-MATC82  SISTEMAS WEB                                                68    OB  3,07  REPROVADONOTA  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  1,32  REPROVADONOTA  
+MAT236  M√âTODOS ESTAT√çSTICOS                                        68    OB  9,59  APROVADO  
+LETA09  OFICINA DE LEITURA E PRODU√á√ÉO DE TEXTOS                     68    OB  7,24  APROVADO  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  5,92  APROVADO  
+MATC82  SISTEMAS WEB                                                68    OB  9,18  APROVADO  
 
 
                 Semestre 5
 
-MATA60  BANCO DE DADOS                                              68    OB  3,80  REPROVADONOTA  
-MATA63  ENGENHARIA DE SOFTWARE II                                   68    OB  0,25  REPROVADONOTA  
-MATC84  LABORAT”RIO DE PROGRAMA«√O WEB                              51    OB  7,55  APROVADO  
-ADM211  M…TODOS QUANTITATIVOS APLICADOS ¿ ADMINISTRA«√O             51    OB  2,50  REPROVADONOTA  
-MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMA«√O                     68    OB  5,35  APROVADO  
+MATA60  BANCO DE DADOS                                              68    OB  6,35  APROVADO  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OB  6,39  APROVADO  
+MATC84  LABORAT√ìRIO DE PROGRAMA√á√ÉO WEB                              51    OB  1,99  REPROVADONOTA  
+ADM211  M√âTODOS QUANTITATIVOS APLICADOS √Ä ADMINISTRA√á√ÉO             51    OB  2,17  REPROVADONOTA  
+MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMA√á√ÉO                     68    OB  4,77  REPROVADONOTA  
 
 
                 Semestre 6
 
-MATC89  APLICA«’ES PARA DISPOSITIVOS M”VEIS                         68    OB  7,20  APROVADO  
-MAT220  EMPREENDEDORES EM INFORMATICA                               68    OB  1,47  REPROVADONOTA  
-MATB09  LABORAT”RIO DE BANCO DE DADOS                               51    OB  7,28  APROVADO  
-MATA76  LINGUAGENS PARA APLICA«√O COMERCIAL                         51    OB  6,23  APROVADO  
-ADMF01  SISTEMAS DE APOIO ¿ DECIS√O                                 85    OB  4,56  REPROVADONOTA  
+MATC89  APLICA√á√ïES PARA DISPOSITIVOS M√ìVEIS                         68    OB  7,01  APROVADO  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OB  4,40  REPROVADONOTA  
+MATB09  LABORAT√ìRIO DE BANCO DE DADOS                               51    OB  6,03  APROVADO  
+MATA76  LINGUAGENS PARA APLICA√á√ÉO COMERCIAL                         51    OB  0,45  REPROVADONOTA  
+ADMF01  SISTEMAS DE APOIO √Ä DECIS√ÉO                                 85    OB  5,83  APROVADO  
 
 
                 Semestre 7
 
-MATA64  INTELIG NCIA ARTIFICIAL                                     68    OB  4,38  REPROVADONOTA  
-MATC72  INTERA«√O HUMANO-COMPUTADOR                                 68    OB  7,52  APROVADO  
-MATB02  QUALIDADE DE SOFTWARE                                       51    OB  4,45  REPROVADONOTA  
-MATC99  SEGURAN«A E AUDITORIA DE SISTEMAS DE INFORMA«√O             68    OB  3,51  REPROVADONOTA  
-MATB19  SISTEMAS MULTIMÕDIA                                         68    OB  1,84  REPROVADONOTA  
+MATA64  INTELIG√äNCIA ARTIFICIAL                                     68    OB  1,12  REPROVADONOTA  
+MATC72  INTERA√á√ÉO HUMANO-COMPUTADOR                                 68    OB  1,84  REPROVADONOTA  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OB  4,04  REPROVADONOTA  
+MATC99  SEGURAN√áA E AUDITORIA DE SISTEMAS DE INFORMA√á√ÉO             68    OB  9,30  APROVADO  
+MATB19  SISTEMAS MULTIM√çDIA                                         68    OB  3,28  REPROVADONOTA  
 
 
                 Semestre 9
 
-MATC97  TCC BACHARELADO SISTEMAS DE INFORMA«√O I                    51    OB  2,18  REPROVADONOTA  
+MATC97  TCC BACHARELADO SISTEMAS DE INFORMA√á√ÉO I                    51    OB  3,99  REPROVADONOTA  
 
 
                 Semestre 10
 
-MATC98  TCC BACHARELADO SISTEMAS DE INFORMA«√O II                   136   OB  2,12  REPROVADONOTA  
+MATC98  TCC BACHARELADO SISTEMAS DE INFORMA√á√ÉO II                   136   OB  8,17  APROVADO  
 
 
                 Optativas 
 
-MATC88  ADMINISTRA«√O DE REDES DE COMPUTADORES                      51    OP  ---  NAOFEITA  
+MATC88  ADMINISTRA√á√ÉO DE REDES DE COMPUTADORES                      51    OP  ---  NAOFEITA  
 MATC91  COMUNIDADES E AMBIENTES VIRTUAIS                            51    OP  ---  NAOFEITA  
 FCC024  CONTABILIDADE DE CUSTOS                                     68    OP  ---  NAOFEITA  
 ECO001  FUNDAMENTOS DE ECONOMIA                                     51    OP  ---  NAOFEITA  
-MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÕDOS                        51    OP  ---  NAOFEITA  
-MATD55  INFORM¡TICA EM SA⁄DE PARA SISTEMAS DE INFORMA«√O            51    OP  ---  NAOFEITA  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBU√çDOS                        51    OP  ---  NAOFEITA  
+MATD55  INFORM√ÅTICA EM SA√öDE PARA SISTEMAS DE INFORMA√á√ÉO            51    OP  ---  NAOFEITA  
 ADM241  INTRODUCAO AO MARKETING                                     51    OP  ---  NAOFEITA  
-MATC93  INTRODU«√O A WEB SEM¬NTICA                                  51    OP  ---  NAOFEITA  
-MATC95  LABORAT”RIO DE INFORM¡TICA M…DICA                           51    OP  ---  NAOFEITA  
-MATB16  LABORAT”RIO DE INTELIG NCIA ARTIFICIAL                      51    OP  ---  NAOFEITA  
-MATA57  LABORAT”RIO DE PROGRAMA«√O I                                51    OP  ---  NAOFEITA  
-LETC84  LEITURA DE TEXTOS ACAD MICOS EM LINGUA INGLESA              68    OP  ---  NAOFEITA  
+MATC93  INTRODU√á√ÉO A WEB SEM√ÇNTICA                                  51    OP  ---  NAOFEITA  
+MATC95  LABORAT√ìRIO DE INFORM√ÅTICA M√âDICA                           51    OP  ---  NAOFEITA  
+MATB16  LABORAT√ìRIO DE INTELIG√äNCIA ARTIFICIAL                      51    OP  ---  NAOFEITA  
+MATA57  LABORAT√ìRIO DE PROGRAMA√á√ÉO I                                51    OP  ---  NAOFEITA  
+LETC84  LEITURA DE TEXTOS ACAD√äMICOS EM LINGUA INGLESA              68    OP  ---  NAOFEITA  
 LETA15  LEITURA DE TEXTOS EM LINGUA INGLESA                         68    OP  ---  NAOFEITA  
-LETE46  Libras-LÌngua Brasileira de Sinais                          34    OP  ---  NAOFEITA  
-MATC96  ORGANIZA«√O, GERENCIAMENTO E RECUPERA«√O DA INFORMA«√O      51    OP  ---  NAOFEITA  
-MATA49  PROGRAMA«√O DE SOFTWARE B¡SICO                              68    OP  ---  NAOFEITA  
-MATD01  TELEMEDICINA E IMAGENS M…DICAS                              51    OP  ---  NAOFEITA  
-MATD02  T”PICOS EM SISTEMAS DE INFORMA«√O                           51    OP  ---  NAOFEITA  
+LETE46  Libras-L√≠ngua Brasileira de Sinais                          34    OP  ---  NAOFEITA  
+MATC96  ORGANIZA√á√ÉO, GERENCIAMENTO E RECUPERA√á√ÉO DA INFORMA√á√ÉO      51    OP  ---  NAOFEITA  
+MATA49  PROGRAMA√á√ÉO DE SOFTWARE B√ÅSICO                              68    OP  ---  NAOFEITA  
+MATD01  TELEMEDICINA E IMAGENS M√âDICAS                              51    OP  ---  NAOFEITA  
+MATD02  T√ìPICOS EM SISTEMAS DE INFORMA√á√ÉO                           51    OP  ---  NAOFEITA  

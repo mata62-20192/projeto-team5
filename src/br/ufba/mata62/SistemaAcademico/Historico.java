@@ -20,13 +20,16 @@ public class Historico {
 
 		disciplinaCursada = new ArrayList<DisciplinaCursada>();
 
-		// Adicionando lista de matériaCursada do histórico, que é igual a lista
-		// de matériaSelecionada do curso
+		// Adicionando lista de matï¿½riaCursada do histï¿½rico, que ï¿½ igual a lista
+		// de matï¿½riaSelecionada do curso
+		
+		System.out.println(aluno.getCurso());
+
 		this.preencheHistorico(disciplinaCursada, aluno.getCurso().getDisciplinaSelecionada());
 	}
 
-	// Preenche histórico com disciplinas do curso
-	// Private pois só pode ser feito uma vez
+	// Preenche histï¿½rico com disciplinas do curso
+	// Private pois sï¿½ pode ser feito uma vez
 	private void preencheHistorico(ArrayList<DisciplinaCursada> lista, Set<DisciplinaSelecionada> arvore) {
 		Iterator<DisciplinaSelecionada> iterator = arvore.iterator();
 
@@ -72,7 +75,7 @@ public class Historico {
 		this.disciplinaCursada.set(index, disciplinaCursada);
 	}
 
-	// Método para achar uma disciplinaCursada pelo código
+	// Mï¿½todo para achar uma disciplinaCursada pelo cï¿½digo
 	public DisciplinaCursada getDisciplinaCursada(String codigoDisciplina) {
 		for (int index = 0; index < disciplinaCursada.size(); index++) {
 			if (disciplinaCursada.get(index).equals(codigoDisciplina))
@@ -81,7 +84,7 @@ public class Historico {
 		return null;
 	}
 
-	// Método para achar a posição da disciplina na lista
+	// Mï¿½todo para achar a posiï¿½ï¿½o da disciplina na lista
 	public int getDisciplinaCursadaIndex(String codigoDisciplina) {
 
 		DisciplinaCursada aux = this.getDisciplinaCursada(codigoDisciplina);

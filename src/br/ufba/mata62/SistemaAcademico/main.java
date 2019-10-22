@@ -7,13 +7,14 @@ import java.util.Random;
 
 import enums.Contrato;
 import enums.Nivel;
+import escritores.EscreveHTML;
 import escritores.EscreveTXT;
 import leitorTXT.LeitorTXT;
 
 public class main {
 
 	public static void darNotas(Coordernador coordenador, List<Aluno> alunos) {
-		// Dá notas aleatórias para os alunos nas matérias obrigatórias.
+		// Dï¿½ notas aleatï¿½rias para os alunos nas matï¿½rias obrigatï¿½rias.
 		// Utilizado apenas para teste
 
 		for (int i = 0; i < alunos.size(); i++) {
@@ -47,8 +48,8 @@ public class main {
 
 		Integer matricula = 1;
 
-		// Criando alunos aleatórios
-		// Criando aluno de engenharia de computação
+		// Criando alunos aleatï¿½rios
+		// Criando aluno de engenharia de computaï¿½ï¿½o
 		Aluno aluno = new Aluno("Fulano", (matricula++).toString(), "Senha", "rg", "cpf",
 				universidade.getCurso("186140"));
 
@@ -69,10 +70,12 @@ public class main {
 				universidade.getCurso("195140"));
 		coordenador.adicionarAluno(aluno4);
 
-		// Dando notas aleatórias para as disciplinas obrigatórias
+		// Dando notas aleatï¿½rias para as disciplinas obrigatï¿½rias
 		darNotas(coordenador, universidade.getAlunos());
 
 		EscreveTXT.escreveListaAlunos(universidade.getAlunos());
+		
+		EscreveHTML.escreveHistoricoHTML(aluno.getHistorico());
 	}
 
 }

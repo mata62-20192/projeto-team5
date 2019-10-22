@@ -1,61 +1,61 @@
-Curso: CI NCIA DA COMPUTA«√O - BACHARELADO  - SALVADOR
-CÛdigo: 112140
+Curso: CI√äNCIA DA COMPUTA√á√ÉO - BACHARELADO  - SALVADOR
+C√≥digo: 112140
 CH: 7174 Horas
-N˙mero de semestres: 8
+N√∫mero de semestres: 8
 
 
 
 
 
-                IMPRESS√O DE CURRÕCULO
+                IMPRESS√ÉO DE CURR√çCULO
 
 
 
                 Semestre 1
 
-MATA02  C¡LCULO A                                                   102   OB  
-MATA01  GEOMETRIA  ANALÕTICA                                        68    OB  
-MATA37  INTRODU«√O ¿ L”GICA DE PROGRAMA«√O                          68    OB  
-MATA42  MATEM¡TICA DISCRETA I                                       68    OB  
-MATA38  PROJETO DE CIRCUITOS L”GICOS                                68    OB  
-MATA39  SEMIN¡RIOS DE INTRODU«√O AO CURSO                           51    OB  
+MATA02  C√ÅLCULO A                                                   102   OB  
+MATA01  GEOMETRIA  ANAL√çTICA                                        68    OB  
+MATA37  INTRODU√á√ÉO √Ä L√ìGICA DE PROGRAMA√á√ÉO                          68    OB  
+MATA42  MATEM√ÅTICA DISCRETA I                                       68    OB  
+MATA38  PROJETO DE CIRCUITOS L√ìGICOS                                68    OB  
+MATA39  SEMIN√ÅRIOS DE INTRODU√á√ÉO AO CURSO                           51    OB  
 
 
                 Semestre 2
 
 MATA48  ARQUITETURA DE COMPUTADORES                                 68    OB  
-MATA95  COMPLEMENTOS DE C¡LCULO                                     102   OB  
+MATA95  COMPLEMENTOS DE C√ÅLCULO                                     102   OB  
 MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  
-MATA57  LABORAT”RIO DE PROGRAMA«√O I                                51    OB  
-MATA97  MATEM¡TICA DISCRETA II                                      68    OB  
-MATA07  ¡LGEBRA LINEAR A                                            68    OB  
+MATA57  LABORAT√ìRIO DE PROGRAMA√á√ÉO I                                51    OB  
+MATA97  MATEM√ÅTICA DISCRETA II                                      68    OB  
+MATA07  √ÅLGEBRA LINEAR A                                            68    OB  
 
 
                 Semestre 3
 
-FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS EL…TRICOS      102   OB  
-MATA50  LINGUAGENS FORMAIS E AUT‘MATOS                              68    OB  
-MATA47  L”GICA PARA COMPUTA«√O                                      68    OB  
-MAT236  M…TODOS ESTATÕSTICOS                                        68    OB  
-MATA49  PROGRAMA«√O DE SOFTWARE B¡SICO                              68    OB  
-MATA55  PROGRAMA«√O ORIENTADA A OBJETOS                             68    OB  
+FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS EL√âTRICOS      102   OB  
+MATA50  LINGUAGENS FORMAIS E AUT√îMATOS                              68    OB  
+MATA47  L√ìGICA PARA COMPUTA√á√ÉO                                      68    OB  
+MAT236  M√âTODOS ESTAT√çSTICOS                                        68    OB  
+MATA49  PROGRAMA√á√ÉO DE SOFTWARE B√ÅSICO                              68    OB  
+MATA55  PROGRAMA√á√ÉO ORIENTADA A OBJETOS                             68    OB  
 
 
                 Semestre 4
 
-MATA52  AN¡LISE E PROJETO DE ALGORITMOS                             68    OB  
+MATA52  AN√ÅLISE E PROJETO DE ALGORITMOS                             68    OB  
 MATA61  COMPILADORES                                                68    OB  
-MATA68  COMPUTADOR, …TICA E SOCIEDADE                               51    OB  
-FCHC45  METODOLOGIA E EXPRESS√O T…CNICO-CIENTÕFICA                  68    OB  
+MATA68  COMPUTADOR, √âTICA E SOCIEDADE                               51    OB  
+FCHC45  METODOLOGIA E EXPRESS√ÉO T√âCNICO-CIENT√çFICA                  68    OB  
 MATA58  SISTEMAS OPERACIONAIS                                       68    OB  
-MATA51  TEORIA DA COMPUTA«√O                                        68    OB  
+MATA51  TEORIA DA COMPUTA√á√ÉO                                        68    OB  
 
 
                 Semestre 5
 
 MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  
 MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OB  
-MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMA«√O A                   68    OB  
+MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMA√á√ÉO A                   68    OB  
 MATA59  REDES DE COMPUTADORES I                                     68    OB  
 MATA53  TEORIA DOS GRAFOS                                           68    OB  
 
@@ -63,10 +63,10 @@ MATA53  TEORIA DOS GRAFOS                                           68    OB
                 Semestre 6
 
 MATA60  BANCO DE DADOS                                              68    OB  
-MATA65  COMPUTA«√O GR¡FICA                                          68    OB  
+MATA65  COMPUTA√á√ÉO GR√ÅFICA                                          68    OB  
 MATE11  ENGENHARIA DE SOFTWARE II-A                                 68    OB  
-MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÕDOS                        51    OB  
-MATA64  INTELIG NCIA ARTIFICIAL                                     68    OB  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBU√çDOS                        51    OB  
+MATA64  INTELIG√äNCIA ARTIFICIAL                                     68    OB  
 
 
                 Semestre 7
@@ -82,82 +82,82 @@ MATA67  PROJETO FINAL DE CURSO II                                   136   OB
                 Optativas 
 
 ADM170  ADMINISTRACAO CONTABIL I                                    68    OP  
-MATC88  ADMINISTRA«√O DE REDES DE COMPUTADORES                      51    OP  
+MATC88  ADMINISTRA√á√ÉO DE REDES DE COMPUTADORES                      51    OP  
 MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  
 MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  
-MATA71  AN¡LISE NUM…RICA                                            68    OP  
-ENG229  APLICA«’ES  INDUSTRIAIS  DA  COMPUTA«√O                     68    OP  
-MATC89  APLICA«’ES PARA DISPOSITIVOS M”VEIS                         68    OP  
-MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÕDOS                       51    OP  
+MATA71  AN√ÅLISE NUM√âRICA                                            68    OP  
+ENG229  APLICA√á√ïES  INDUSTRIAIS  DA  COMPUTA√á√ÉO                     68    OP  
+MATC89  APLICA√á√ïES PARA DISPOSITIVOS M√ìVEIS                         68    OP  
+MATA89  ARQUITETURAS DE SISTEMAS DISTRIBU√çDOS                       51    OP  
 ENG646  AUTOMACAO DE SISTEMAS                                       51    OP  
-MAT174  CALCULO NUM…RICO  I                                         68    OP  
+MAT174  CALCULO NUM√âRICO  I                                         68    OP  
 FCC001  CONTABILIDADE GERAL I                                       68    OP  
 ENG648  CONTROLE E AUTOMACAO DE PROCESSOS                           51    OP  
-MATA04  C¡LCULO C                                                   102   OP  
-MATA05  C¡LCULO D                                                   102   OP  
-EDC001  EDUCA«√O ABERTA, CONTINUADA E ¿ DIST¬NCIA                   68    OP  
+MATA04  C√ÅLCULO C                                                   102   OP  
+MATA05  C√ÅLCULO D                                                   102   OP  
+EDC001  EDUCA√á√ÉO ABERTA, CONTINUADA E √Ä DIST√ÇNCIA                   68    OP  
 ADM171  ELEMENTOS E ANALISES DE CUSTOS                              68    OP  
-ENG336  ELETR‘NICA  DIGITAL                                         68    OP  
-ENGC40  ELETR‘NICA DIGITAL                                          34    OP  
+ENG336  ELETR√îNICA  DIGITAL                                         68    OP  
+ENGC40  ELETR√îNICA DIGITAL                                          34    OP  
 MAT220  EMPREENDEDORES EM INFORMATICA                               68    OP  
-MATB65  EMPREENDIMENTOS E INFORM¡TICA                               68    OP  
-MATB03  EVOLU«√O DE SOFTWARE                                        51    OP  
+MATB65  EMPREENDIMENTOS E INFORM√ÅTICA                               68    OP  
+MATB03  EVOLU√á√ÉO DE SOFTWARE                                        51    OP  
 ECO001  FUNDAMENTOS DE ECONOMIA                                     51    OP  
-ADM243  GER NCIA CONTEMPOR¬NEA                                      68    OP  
-MATA41  INFORM¡TICA NA EDUCA«√O                                     68    OP  
+ADM243  GER√äNCIA CONTEMPOR√ÇNEA                                      68    OP  
+MATA41  INFORM√ÅTICA NA EDUCA√á√ÉO                                     68    OP  
 LET358  INGLES INSTRUMENTAL III  N-100                              51    OP  
 LET359  INGLES INSTRUMENTAL IV  N-100                               51    OP  
-MATB20  INTELIG NCIA ARTIFICIAL EM EDUCA«√O                         68    OP  
-MATC72  INTERA«√O HUMANO-COMPUTADOR                                 68    OP  
+MATB20  INTELIG√äNCIA ARTIFICIAL EM EDUCA√á√ÉO                         68    OP  
+MATC72  INTERA√á√ÉO HUMANO-COMPUTADOR                                 68    OP  
 ADM241  INTRODUCAO AO MARKETING                                     51    OP  
-ADM001  INTRODUCAO ¿  ADMINISTRACAO                                 68    OP  
-MATC93  INTRODU«√O A WEB SEM¬NTICA                                  51    OP  
-MATB17  LAB. DE COMPUTA«√O GR¡FICA E PROCESSAMENTO DE IMAGENS       51    OP  
-MATB09  LABORAT”RIO DE BANCO DE DADOS                               51    OP  
-MATA73  LABORAT”RIO DE CIRCUITOS DIGITAIS                           51    OP  
-MATB11  LABORAT”RIO DE COMPILADORES                                 51    OP  
-MATB14  LABORAT”RIO DE ENGENHARIA DE SOFTWARE                       51    OP  
-MATB22  LABORAT”RIO DE INFORM¡TICA NA EDUCA«√O                      51    OP  
-MATB16  LABORAT”RIO DE INTELIG NCIA ARTIFICIAL                      51    OP  
-MATA80  LABORAT”RIO DE PROGRAMA«√O II                               51    OP  
-MATC84  LABORAT”RIO DE PROGRAMA«√O WEB                              51    OP  
-MATB01  LABORAT”RIO DE REDES DE COMPUTADORES                        51    OP  
-MATA81  LABORAT”RIO DE SISTEMAS OPERACIONAIS                        51    OP  
-ENGG52  LABORAT”RIO INTEGRADO I-A                                   34    OP  
-ENGG53  LABORAT”RIO INTEGRADO II-A                                  34    OP  
-MATA76  LINGUAGENS PARA APLICA«√O COMERCIAL                         51    OP  
-LETE46  Libras-LÌngua Brasileira de Sinais                          34    OP  
-MATB29  L”GICA MATEM¡TICA                                           68    OP  
-MATA69  MODELAGEM E SIMULA«√O DE SISTEMAS                           68    OP  
-MATB13  M…TODOS FORMAIS                                             51    OP  
-MATC96  ORGANIZA«√O, GERENCIAMENTO E RECUPERA«√O DA INFORMA«√O      51    OP  
-FISA76  OSCILA«’ES E ONDAS ELETROMAGN…TICAS                         102   OP  
+ADM001  INTRODUCAO √Ä  ADMINISTRACAO                                 68    OP  
+MATC93  INTRODU√á√ÉO A WEB SEM√ÇNTICA                                  51    OP  
+MATB17  LAB. DE COMPUTA√á√ÉO GR√ÅFICA E PROCESSAMENTO DE IMAGENS       51    OP  
+MATB09  LABORAT√ìRIO DE BANCO DE DADOS                               51    OP  
+MATA73  LABORAT√ìRIO DE CIRCUITOS DIGITAIS                           51    OP  
+MATB11  LABORAT√ìRIO DE COMPILADORES                                 51    OP  
+MATB14  LABORAT√ìRIO DE ENGENHARIA DE SOFTWARE                       51    OP  
+MATB22  LABORAT√ìRIO DE INFORM√ÅTICA NA EDUCA√á√ÉO                      51    OP  
+MATB16  LABORAT√ìRIO DE INTELIG√äNCIA ARTIFICIAL                      51    OP  
+MATA80  LABORAT√ìRIO DE PROGRAMA√á√ÉO II                               51    OP  
+MATC84  LABORAT√ìRIO DE PROGRAMA√á√ÉO WEB                              51    OP  
+MATB01  LABORAT√ìRIO DE REDES DE COMPUTADORES                        51    OP  
+MATA81  LABORAT√ìRIO DE SISTEMAS OPERACIONAIS                        51    OP  
+ENGG52  LABORAT√ìRIO INTEGRADO I-A                                   34    OP  
+ENGG53  LABORAT√ìRIO INTEGRADO II-A                                  34    OP  
+MATA76  LINGUAGENS PARA APLICA√á√ÉO COMERCIAL                         51    OP  
+LETE46  Libras-L√≠ngua Brasileira de Sinais                          34    OP  
+MATB29  L√ìGICA MATEM√ÅTICA                                           68    OP  
+MATA69  MODELAGEM E SIMULA√á√ÉO DE SISTEMAS                           68    OP  
+MATB13  M√âTODOS FORMAIS                                             51    OP  
+MATC96  ORGANIZA√á√ÉO, GERENCIAMENTO E RECUPERA√á√ÉO DA INFORMA√á√ÉO      51    OP  
+FISA76  OSCILA√á√ïES E ONDAS ELETROMAGN√âTICAS                         102   OP  
 ADM011  PESQUISA  OPERACIONAL                                       68    OP  
-MATE13  PROGRAMA«√O CONCORRENTE, DISTRIBUÕDA E PARALELA             51    OP  
-MATA77  PROGRAMA«√O FUNCIONAL                                       68    OP  
+MATE13  PROGRAMA√á√ÉO CONCORRENTE, DISTRIBU√çDA E PARALELA             51    OP  
+MATA77  PROGRAMA√á√ÉO FUNCIONAL                                       68    OP  
 IPSA39  PSICOLOGIA DAS RELACOES HUMANAS                             68    OP  
 MATB02  QUALIDADE DE SOFTWARE                                       51    OP  
 MATA85  REDES DE COMPUTADORES II                                    68    OP  
-MATB24  ROB”TICA INTELIGENTE                                        51    OP  
-MATA87  SEGURAN«A DA INFORMA«√O                                     68    OP  
-MATC99  SEGURAN«A E AUDITORIA DE SISTEMAS DE INFORMA«√O             68    OP  
-MATB23  SEMIN¡RIOS EM EMPREENDEDORISMO                              51    OP  
-MATA75  SEM¬NTICA DE LINGUAGEM DE PROGRAMA«√O                       68    OP  
+MATB24  ROB√ìTICA INTELIGENTE                                        51    OP  
+MATA87  SEGURAN√áA DA INFORMA√á√ÉO                                     68    OP  
+MATC99  SEGURAN√áA E AUDITORIA DE SISTEMAS DE INFORMA√á√ÉO             68    OP  
+MATB23  SEMIN√ÅRIOS EM EMPREENDEDORISMO                              51    OP  
+MATA75  SEM√ÇNTICA DE LINGUAGEM DE PROGRAMA√á√ÉO                       68    OP  
 MATA82  SISTEMAS DE TEMPO REAL                                      68    OP  
-MATB19  SISTEMAS MULTIMÕDIA                                         68    OP  
+MATB19  SISTEMAS MULTIM√çDIA                                         68    OP  
 MATC82  SISTEMAS WEB                                                68    OP  
 MATB27  TEORIA DAS CATEGORIAS                                       68    OP  
-MATA72  T”PICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  
-MATB10  T”PICOS EM BANCO DE DADOS                                   51    OP  
-MATB12  T”PICOS EM COMPILADORES                                     51    OP  
-MATA74  T”PICOS EM COMPUTA«√O E ALGORITMOS                          51    OP  
-MATB04  T”PICOS EM COMPUTA«√O GR¡FICA E PROCESSAMENTO DE IMAGENS    0    OP  
-MATB25  T”PICOS EM ENGENHARIA DE SOFTWARE                           51    OP  
-MATB05  T”PICOS EM INTELIG NCIA ARTIFICIAL                          51    OP  
-MATA79  T”PICOS EM PROGRAMA«√O                                      51    OP  
-MATA86  T”PICOS EM REDES DE COMPUTADORES                            51    OP  
-MATB06  T”PICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  
-MATB26  T”PICOS EM SISTEMAS MULTIMÕDIA                              51    OP  
-MATA83  T”PICOS EM SISTEMAS OPERACIONAIS                            51    OP  
-MATB15  VALIDA«√O DE SOFTWARE                                       51    OP  
-MATB28  ¡LGEBRA LINEAR B                                            68    OP  
+MATA72  T√ìPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  
+MATB10  T√ìPICOS EM BANCO DE DADOS                                   51    OP  
+MATB12  T√ìPICOS EM COMPILADORES                                     51    OP  
+MATA74  T√ìPICOS EM COMPUTA√á√ÉO E ALGORITMOS                          51    OP  
+MATB04  T√ìPICOS EM COMPUTA√á√ÉO GR√ÅFICA E PROCESSAMENTO DE IMAGENS    0    OP  
+MATB25  T√ìPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  
+MATB05  T√ìPICOS EM INTELIG√äNCIA ARTIFICIAL                          51    OP  
+MATA79  T√ìPICOS EM PROGRAMA√á√ÉO                                      51    OP  
+MATA86  T√ìPICOS EM REDES DE COMPUTADORES                            51    OP  
+MATB06  T√ìPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  
+MATB26  T√ìPICOS EM SISTEMAS MULTIM√çDIA                              51    OP  
+MATA83  T√ìPICOS EM SISTEMAS OPERACIONAIS                            51    OP  
+MATB15  VALIDA√á√ÉO DE SOFTWARE                                       51    OP  
+MATB28  √ÅLGEBRA LINEAR B                                            68    OP  

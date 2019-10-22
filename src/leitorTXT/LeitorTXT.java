@@ -15,7 +15,8 @@ public class LeitorTXT {
 	public static void leitor(Universidade universidade) {
 		Scanner scanner = null;
 		try {
-			File file = new File("universidade.txt");
+			File file = new File("universidadeutf8.txt");
+			System.out.println(file.getAbsolutePath());
 			scanner = new Scanner(file);
 
 			int numCursos = scanner.nextInt();
@@ -24,21 +25,21 @@ public class LeitorTXT {
 			int i, j, semestre, ch, materias;
 			boolean obrigatoria;
 
-			int totalSemestres = 0; // Verifica o número total de semestres do curso
+			int totalSemestres = 0; // Verifica o nï¿½mero total de semestres do curso
 
 			for (i = 0; i < numCursos; i++) {
-				// Informações do curso
+				// Informaï¿½ï¿½es do curso
 				scanner.nextLine();
 
 				nome = scanner.nextLine();
 				codigo = scanner.nextLine();
 				materias = scanner.nextInt();
-
+				
 				Curso curso = new Curso(nome, codigo);
 				totalSemestres = 0;
 
 				for (j = 0; j < materias; j++) {
-					// Informações da matéria
+					// Informaï¿½ï¿½es da matï¿½ria
 					scanner.nextLine();
 
 					nome = scanner.nextLine();
@@ -47,14 +48,14 @@ public class LeitorTXT {
 					natureza = scanner.next();
 					ch = scanner.nextInt();
 					curriculo = scanner.next();
-
+					
 					Disciplina disciplina = universidade.getDisciplina(codigo);
 					if (disciplina == null) {
 						disciplina = new Disciplina(nome, codigo, ch);
 						universidade.adicionaDisciplina(disciplina);
 					}
 
-					// Vendo se a matéria é obrigatória ou não
+					// Vendo se a matï¿½ria ï¿½ obrigatï¿½ria ou nï¿½o
 					if (natureza.equals("OB"))
 						obrigatoria = true;
 					else
