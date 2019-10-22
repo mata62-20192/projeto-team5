@@ -41,17 +41,17 @@ public class EscreveHTML {
             
             //Onde o html será escrito
             StringBuilder string = new StringBuilder();
-            string.append("<!DOCTYPE html><html><head><title>Histórico "+ aluno.getNome() +"</title></head><body>");
-            string.append("<h3>Aluno: " + aluno.getNome() + "</h3>");
-            string.append("<h3>Matrícula: " + aluno.getMatricula() + "</h3>");         
-            string.append("<h3>Curso: " + aluno.getCurso().getNome() + "</h3>");
-            string.append("<h3>Score: " + aluno.getScore() + "</h3>");
-            string.append("<h3>Carga horária cursada: " + historico.getchCursada() + " Horas</h3>");
+            string.append("<!DOCTYPE html><html><head><title>Hist�rico "+ aluno.getNome() +"</title><style>td{padding: 5px;}</style></head><body>");
+            string.append("<p>Aluno: " + aluno.getNome() + "</p>");
+            string.append("<p>Matr��cula: " + aluno.getMatricula() + "</p>");         
+            string.append("<p>Curso: " + aluno.getCurso().getNome() + "</p>");
+            string.append("<p>Score: " + aluno.getScore() + "</p>");
+            string.append("<p>Carga hor�ria cursada: " + historico.getchCursada() + " Horas</p>");
             
             for(int i=0; i<5; i++)
                 string.append("<br>");
  
-            string.append("<h1>IMPRESSÃO DE HISTÓRICO</h1>");
+            string.append("<h1>IMPRESS�O DE HIST�RICO</h1>");
             
             
             //código, nome, carga horária, natureza, nota e conceito 
@@ -61,6 +61,7 @@ public class EscreveHTML {
 
                 string.append("<br><br>");
                 string.append("<h2>Semestre 1</h2><br>");
+                string.append("<table>");
 
             
             for(int index = 0; index < historico.getDisciplinaCursada().size(); index++) {
@@ -71,17 +72,20 @@ public class EscreveHTML {
                 if(semestreAtual != aux.getSemestre() && aux.getSemestre() != 0) {
                     //Se o semestreAtual é diferente do semestre da matéria e ela não
                     //é optativa
+                		string.append("</table>");
                         string.append("<h2>Semestre " + aux.getSemestre() + "</h2><br>");
+                        string.append("<table>");
                         semestreAtual = aux.getSemestre();
                 }
                 
                 else if(semestreAtual != aux.getSemestre() && aux.getSemestre() == 0){
                         string.append("<br><br>");
+                        string.append("</table><table>");
                         string.append("<h2>Optativas</h2><br>");
                         semestreAtual = aux.getSemestre();
                 }
                 
-                string.append("<table><tr>");
+                string.append("<tr>");
                 string.append("<td>" + aux.getCodigo() + "</td>");
                 
                 string.append("<td>" + aux.getNome() + "</td>");

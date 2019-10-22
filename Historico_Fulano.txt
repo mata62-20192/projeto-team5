@@ -1,8 +1,8 @@
 Aluno: Fulano
 Matrícula: 1
 Curso: ENGENHARIA DE COMPUTAÇÃO - BACHARELADO  - NOTURNO - SALVADOR
-Score: 4.6
-Carga horária cursada: 1564 Horas
+Score: 5.44
+Carga horária cursada: 2397 Horas
 
 
 
@@ -14,103 +14,103 @@ Carga horária cursada: 1564 Horas
 
                 Semestre 1
 
-MATA02  CÁLCULO A                                                   102   OB  9,36  APROVADO  
-FIS121  FISICA GERAL E EXPERIMENTAL  I-E                            102   OB  7,09  APROVADO  
-MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  0,22  REPROVADONOTA  
-QUI029  QUIMICA GERAL                                               68    OB  0,05  REPROVADONOTA  
+MATA02  CÁLCULO A                                                   102   OB  5,95  APROVADO  
+FIS121  FISICA GERAL E EXPERIMENTAL  I-E                            102   OB  2,52  REPROVADONOTA  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  8,86  APROVADO  
+QUI029  QUIMICA GERAL                                               68    OB  9,72  APROVADO  
 
 
                 Semestre 2
 
-MATA03  CÁLCULO B                                                   102   OB  6,41  APROVADO  
-FIS122  FISICA  GERAL E EXPERIMENTAL  II-E                          102   OB  7,66  APROVADO  
-ENGG51  INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO                       34    OB  9,85  APROVADO  
-ENGC26  SISTEMAS LÓGICOS                                            34    OB  5,41  APROVADO  
-MATA07  ÁLGEBRA LINEAR A                                            68    OB  8,21  APROVADO  
+MATA03  CÁLCULO B                                                   102   OB  5,87  APROVADO  
+FIS122  FISICA  GERAL E EXPERIMENTAL  II-E                          102   OB  6,61  APROVADO  
+ENGG51  INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO                       34    OB  2,44  REPROVADONOTA  
+ENGC26  SISTEMAS LÓGICOS                                            34    OB  0,75  REPROVADONOTA  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  8,04  APROVADO  
 
 
                 Semestre 3
 
-MATA04  CÁLCULO C                                                   102   OB  6,02  APROVADO  
-ENGC40  ELETRÔNICA DIGITAL                                          34    OB  1,14  REPROVADONOTA  
-FIS123  FISICA  GERAL E EXPERIMENTAL  III-E                         102   OB  0,78  REPROVADONOTA  
-MATA97  MATEMÁTICA DISCRETA II                                      68    OB  1,45  REPROVADONOTA  
-ENGA47  TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA         34    OB  6,91  APROVADO  
+MATA04  CÁLCULO C                                                   102   OB  8,55  APROVADO  
+ENGC40  ELETRÔNICA DIGITAL                                          34    OB  5,52  APROVADO  
+FIS123  FISICA  GERAL E EXPERIMENTAL  III-E                         102   OB  1,88  REPROVADONOTA  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  5,51  APROVADO  
+ENGA47  TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA         34    OB  3,64  REPROVADONOTA  
 
 
                 Semestre 4
 
-ENGC32  ANÁLISE DE CIRCUITOS  I                                     68    OB  4,44  REPROVADONOTA  
-ENG269  CIÊNCIAS DO AMBIENTE                                        68    OB  6,85  APROVADO  
-MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  2,37  REPROVADONOTA  
-ENGC30  MECÂNICA DOS SÓLIDOS                                        68    OB  3,06  REPROVADONOTA  
-MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  0,91  REPROVADONOTA  
+ENGC32  ANÁLISE DE CIRCUITOS  I                                     68    OB  6,49  APROVADO  
+ENG269  CIÊNCIAS DO AMBIENTE                                        68    OB  7,26  APROVADO  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  5,12  APROVADO  
+ENGC30  MECÂNICA DOS SÓLIDOS                                        68    OB  5,54  APROVADO  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  1,14  REPROVADONOTA  
 
 
                 Semestre 5
 
-ENGC25  ANALISE DE CIRCUITOS II                                     68    OB  2,15  REPROVADONOTA  
-ENGC41  DISPOSITIVOS  ELETRÔNICOS                                   68    OB  9,64  APROVADO  
-ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OB  3,60  REPROVADONOTA  
-MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  0,73  REPROVADONOTA  
-ENGG62  METODOLOGIA E EXPRESSÃO  DO CONHECIMENTO CIENTÍFICO         34    OB  3,28  REPROVADONOTA  
-ENGC24  SINAIS E SISTEMAS I                                         68    OB  0,08  REPROVADONOTA  
+ENGC25  ANALISE DE CIRCUITOS II                                     68    OB  8,59  APROVADO  
+ENGC41  DISPOSITIVOS  ELETRÔNICOS                                   68    OB  2,54  REPROVADONOTA  
+ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OB  5,60  APROVADO  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  7,41  APROVADO  
+ENGG62  METODOLOGIA E EXPRESSÃO  DO CONHECIMENTO CIENTÍFICO         34    OB  6,94  APROVADO  
+ENGC24  SINAIS E SISTEMAS I                                         68    OB  8,58  APROVADO  
 
 
                 Semestre 6
 
-MAT174  CALCULO NUMÉRICO  I                                         68    OB  7,69  APROVADO  
-MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  3,16  REPROVADONOTA  
-ENG370  FENÔMENOS DE TRANSPORTES I                                  68    OB  0,44  REPROVADONOTA  
-ENGC33  SINAIS E SISTEMAS  II                                       68    OB  9,23  APROVADO  
-ENGC50  SISTEMAS MICROPROCESSADOS                                   68    OB  6,89  APROVADO  
+MAT174  CALCULO NUMÉRICO  I                                         68    OB  5,27  APROVADO  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  3,03  REPROVADONOTA  
+ENG370  FENÔMENOS DE TRANSPORTES I                                  68    OB  7,10  APROVADO  
+ENGC33  SINAIS E SISTEMAS  II                                       68    OB  8,59  APROVADO  
+ENGC50  SISTEMAS MICROPROCESSADOS                                   68    OB  1,58  REPROVADONOTA  
 
 
                 Semestre 7
 
-MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  4,85  REPROVADONOTA  
-ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OB  5,96  APROVADO  
-ENGC63  PROCESSAMENTO DIGITAL DE SINAIS                             68    OB  1,88  REPROVADONOTA  
-MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  4,45  REPROVADONOTA  
-MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  1,16  REPROVADONOTA  
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  8,82  APROVADO  
+ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OB  3,20  REPROVADONOTA  
+ENGC63  PROCESSAMENTO DIGITAL DE SINAIS                             68    OB  6,04  APROVADO  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  8,20  APROVADO  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  7,51  APROVADO  
 
 
                 Semestre 8
 
-ENGG54  LABORATÓRIO INTEGRADO III-A                                 34    OB  1,31  REPROVADONOTA  
-ENGG56  PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS                    68    OB  2,16  REPROVADONOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  6,25  APROVADO  
-MATA58  SISTEMAS OPERACIONAIS                                       68    OB  9,35  APROVADO  
-MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  1,01  REPROVADONOTA  
+ENGG54  LABORATÓRIO INTEGRADO III-A                                 34    OB  3,19  REPROVADONOTA  
+ENGG56  PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS                    68    OB  4,55  REPROVADONOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  8,57  APROVADO  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  1,59  REPROVADONOTA  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  5,59  APROVADO  
 
 
                 Semestre 9
 
-MATA61  COMPILADORES                                                68    OB  5,46  APROVADO  
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  1,19  REPROVADONOTA  
-ENGG57  LABORATÓRIO INTEGRADO IV-A                                  34    OB  4,47  REPROVADONOTA  
-ENGD33  PROGRAMAÇÃO EM TEMPO REAL PARA SISTEMAS EMBARCADOS          68    OB  2,53  REPROVADONOTA  
-MATA82  SISTEMAS DE TEMPO REAL                                      68    OB  8,89  APROVADO  
+MATA61  COMPILADORES                                                68    OB  7,14  APROVADO  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  6,54  APROVADO  
+ENGG57  LABORATÓRIO INTEGRADO IV-A                                  34    OB  3,81  REPROVADONOTA  
+ENGD33  PROGRAMAÇÃO EM TEMPO REAL PARA SISTEMAS EMBARCADOS          68    OB  4,89  REPROVADONOTA  
+MATA82  SISTEMAS DE TEMPO REAL                                      68    OB  0,27  REPROVADONOTA  
 
 
                 Semestre 10
 
-ECO151  ECONOMIA E FINANÇAS                                         68    OB  1,94  REPROVADONOTA  
-ENGG58  INTERFACE HOMEM-MÁQUINA                                     68    OB  0,67  REPROVADONOTA  
-ENGG55  REDES INDUSTRIAIS                                           68    OB  7,95  APROVADO  
+ECO151  ECONOMIA E FINANÇAS                                         68    OB  6,25  APROVADO  
+ENGG58  INTERFACE HOMEM-MÁQUINA                                     68    OB  0,44  REPROVADONOTA  
+ENGG55  REDES INDUSTRIAIS                                           68    OB  7,33  APROVADO  
 
 
                 Semestre 11
 
-ENGG59  ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO                         170   OB  4,74  REPROVADONOTA  
-ENGG60  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO  I      17    OB  7,61  APROVADO  
+ENGG59  ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO                         170   OB  8,85  APROVADO  
+ENGG60  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO  I      17    OB  5,99  APROVADO  
 
 
                 Semestre 12
 
-ADM012  ADMINISTRACAO                                               68    OB  8,26  APROVADO  
-DIR175  LEGISLAÇÃO SOCIAL                                           68    OB  8,49  APROVADO  
-ENGG61  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II      17    OB  8,29  APROVADO  
+ADM012  ADMINISTRACAO                                               68    OB  9,76  APROVADO  
+DIR175  LEGISLAÇÃO SOCIAL                                           68    OB  1,85  REPROVADONOTA  
+ENGG61  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II      17    OB  1,49  REPROVADONOTA  
 
 
                 Optativas 
