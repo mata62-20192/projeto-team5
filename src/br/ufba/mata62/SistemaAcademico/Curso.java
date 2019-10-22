@@ -1,7 +1,8 @@
 package br.ufba.mata62.SistemaAcademico;
 
+import java.util.Collections;
 import java.util.Iterator;
-
+import java.util.Set;
 import java.util.TreeSet;
 
 public class Curso {
@@ -49,13 +50,14 @@ public class Curso {
 		return null;
 	}
 
-	// GETTERS E SETTERS
 	public void adicionaDisciplinaSelecionada(DisciplinaSelecionada disciplinaSelecionada) {
+		this.ch += disciplinaSelecionada.getCh();
 		this.disciplinaSelecionada.add(disciplinaSelecionada);
 	}
 
-	public TreeSet<DisciplinaSelecionada> getDisciplinaSelecionada() {
-		return disciplinaSelecionada;
+	// GETTERS E SETTERS
+	public Set<DisciplinaSelecionada> getDisciplinaSelecionada() {
+		return Collections.unmodifiableSet(disciplinaSelecionada);
 	}
 
 	public void setNumeroSemestres(int num) {

@@ -1,0 +1,164 @@
+Aluno: Beltrano
+Matrícula: 3
+Curso: CIÊNCIA DA COMPUTAÇÃO - BACHARELADO  - SALVADOR
+Score: 4.76
+Carga horária cursada: 1190 Horas
+
+
+
+
+
+                IMPRESSÃO DE HISTÓRICO
+
+
+
+                Semestre 1
+
+MATA02  CÁLCULO A                                                   102   OB  4,83  REPROVADONOTA  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  6,11  APROVADO  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  0,94  REPROVADONOTA  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  6,66  APROVADO  
+MATA38  PROJETO DE CIRCUITOS LÓGICOS                                68    OB  7,72  APROVADO  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  1,38  REPROVADONOTA  
+
+
+                Semestre 2
+
+MATA48  ARQUITETURA DE COMPUTADORES                                 68    OB  6,22  APROVADO  
+MATA95  COMPLEMENTOS DE CÁLCULO                                     102   OB  6,06  APROVADO  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  9,67  APROVADO  
+MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OB  5,00  APROVADO  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  0,02  REPROVADONOTA  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  4,34  REPROVADONOTA  
+
+
+                Semestre 3
+
+FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS ELÉTRICOS      102   OB  5,54  APROVADO  
+MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OB  7,67  APROVADO  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  1,53  REPROVADONOTA  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  5,90  APROVADO  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  3,41  REPROVADONOTA  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  2,89  REPROVADONOTA  
+
+
+                Semestre 4
+
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  7,68  APROVADO  
+MATA61  COMPILADORES                                                68    OB  3,67  REPROVADONOTA  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  3,90  REPROVADONOTA  
+FCHC45  METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA                  68    OB  7,17  APROVADO  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  3,54  REPROVADONOTA  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  4,33  REPROVADONOTA  
+
+
+                Semestre 5
+
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  3,51  REPROVADONOTA  
+MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OB  4,76  REPROVADONOTA  
+MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO A                   68    OB  4,45  REPROVADONOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  9,52  APROVADO  
+MATA53  TEORIA DOS GRAFOS                                           68    OB  2,04  REPROVADONOTA  
+
+
+                Semestre 6
+
+MATA60  BANCO DE DADOS                                              68    OB  1,19  REPROVADONOTA  
+MATA65  COMPUTAÇÃO GRÁFICA                                          68    OB  4,25  REPROVADONOTA  
+MATE11  ENGENHARIA DE SOFTWARE II-A                                 68    OB  1,36  REPROVADONOTA  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OB  2,81  REPROVADONOTA  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  5,56  APROVADO  
+
+
+                Semestre 7
+
+MATA66  PROJETO FINAL DE CURSO I                                    51    OB  6,75  APROVADO  
+
+
+                Semestre 8
+
+MATA67  PROJETO FINAL DE CURSO II                                   136   OB  8,98  APROVADO  
+
+
+                Optativas 
+
+ADM170  ADMINISTRACAO CONTABIL I                                    68    OP  ---  NAOFEITA  
+MATC88  ADMINISTRAÇÃO DE REDES DE COMPUTADORES                      51    OP  ---  NAOFEITA  
+MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  ---  NAOFEITA  
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  ---  NAOFEITA  
+MATA71  ANÁLISE NUMÉRICA                                            68    OP  ---  NAOFEITA  
+ENG229  APLICAÇÕES  INDUSTRIAIS  DA  COMPUTAÇÃO                     68    OP  ---  NAOFEITA  
+MATC89  APLICAÇÕES PARA DISPOSITIVOS MÓVEIS                         68    OP  ---  NAOFEITA  
+MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÍDOS                       51    OP  ---  NAOFEITA  
+ENG646  AUTOMACAO DE SISTEMAS                                       51    OP  ---  NAOFEITA  
+MAT174  CALCULO NUMÉRICO  I                                         68    OP  ---  NAOFEITA  
+FCC001  CONTABILIDADE GERAL I                                       68    OP  ---  NAOFEITA  
+ENG648  CONTROLE E AUTOMACAO DE PROCESSOS                           51    OP  ---  NAOFEITA  
+MATA04  CÁLCULO C                                                   102   OP  ---  NAOFEITA  
+MATA05  CÁLCULO D                                                   102   OP  ---  NAOFEITA  
+EDC001  EDUCAÇÃO ABERTA, CONTINUADA E À DISTÂNCIA                   68    OP  ---  NAOFEITA  
+ADM171  ELEMENTOS E ANALISES DE CUSTOS                              68    OP  ---  NAOFEITA  
+ENG336  ELETRÔNICA  DIGITAL                                         68    OP  ---  NAOFEITA  
+ENGC40  ELETRÔNICA DIGITAL                                          34    OP  ---  NAOFEITA  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OP  ---  NAOFEITA  
+MATB65  EMPREENDIMENTOS E INFORMÁTICA                               68    OP  ---  NAOFEITA  
+MATB03  EVOLUÇÃO DE SOFTWARE                                        51    OP  ---  NAOFEITA  
+ECO001  FUNDAMENTOS DE ECONOMIA                                     51    OP  ---  NAOFEITA  
+ADM243  GERÊNCIA CONTEMPORÂNEA                                      68    OP  ---  NAOFEITA  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OP  ---  NAOFEITA  
+LET358  INGLES INSTRUMENTAL III  N-100                              51    OP  ---  NAOFEITA  
+LET359  INGLES INSTRUMENTAL IV  N-100                               51    OP  ---  NAOFEITA  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OP  ---  NAOFEITA  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OP  ---  NAOFEITA  
+ADM241  INTRODUCAO AO MARKETING                                     51    OP  ---  NAOFEITA  
+ADM001  INTRODUCAO À  ADMINISTRACAO                                 68    OP  ---  NAOFEITA  
+MATC93  INTRODUÇÃO A WEB SEMÂNTICA                                  51    OP  ---  NAOFEITA  
+MATB17  LAB. DE COMPUTAÇÃO GRÁFICA E PROCESSAMENTO DE IMAGENS       51    OP  ---  NAOFEITA  
+MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OP  ---  NAOFEITA  
+MATA73  LABORATÓRIO DE CIRCUITOS DIGITAIS                           51    OP  ---  NAOFEITA  
+MATB11  LABORATÓRIO DE COMPILADORES                                 51    OP  ---  NAOFEITA  
+MATB14  LABORATÓRIO DE ENGENHARIA DE SOFTWARE                       51    OP  ---  NAOFEITA  
+MATB22  LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO                      51    OP  ---  NAOFEITA  
+MATB16  LABORATÓRIO DE INTELIGÊNCIA ARTIFICIAL                      51    OP  ---  NAOFEITA  
+MATA80  LABORATÓRIO DE PROGRAMAÇÃO II                               51    OP  ---  NAOFEITA  
+MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OP  ---  NAOFEITA  
+MATB01  LABORATÓRIO DE REDES DE COMPUTADORES                        51    OP  ---  NAOFEITA  
+MATA81  LABORATÓRIO DE SISTEMAS OPERACIONAIS                        51    OP  ---  NAOFEITA  
+ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OP  ---  NAOFEITA  
+ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OP  ---  NAOFEITA  
+MATA76  LINGUAGENS PARA APLICAÇÃO COMERCIAL                         51    OP  ---  NAOFEITA  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OP  ---  NAOFEITA  
+MATB29  LÓGICA MATEMÁTICA                                           68    OP  ---  NAOFEITA  
+MATA69  MODELAGEM E SIMULAÇÃO DE SISTEMAS                           68    OP  ---  NAOFEITA  
+MATB13  MÉTODOS FORMAIS                                             51    OP  ---  NAOFEITA  
+MATC96  ORGANIZAÇÃO, GERENCIAMENTO E RECUPERAÇÃO DA INFORMAÇÃO      51    OP  ---  NAOFEITA  
+FISA76  OSCILAÇÕES E ONDAS ELETROMAGNÉTICAS                         102   OP  ---  NAOFEITA  
+ADM011  PESQUISA  OPERACIONAL                                       68    OP  ---  NAOFEITA  
+MATE13  PROGRAMAÇÃO CONCORRENTE, DISTRIBUÍDA E PARALELA             51    OP  ---  NAOFEITA  
+MATA77  PROGRAMAÇÃO FUNCIONAL                                       68    OP  ---  NAOFEITA  
+IPSA39  PSICOLOGIA DAS RELACOES HUMANAS                             68    OP  ---  NAOFEITA  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OP  ---  NAOFEITA  
+MATA85  REDES DE COMPUTADORES II                                    68    OP  ---  NAOFEITA  
+MATB24  ROBÓTICA INTELIGENTE                                        51    OP  ---  NAOFEITA  
+MATA87  SEGURANÇA DA INFORMAÇÃO                                     68    OP  ---  NAOFEITA  
+MATC99  SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO             68    OP  ---  NAOFEITA  
+MATB23  SEMINÁRIOS EM EMPREENDEDORISMO                              51    OP  ---  NAOFEITA  
+MATA75  SEMÂNTICA DE LINGUAGEM DE PROGRAMAÇÃO                       68    OP  ---  NAOFEITA  
+MATA82  SISTEMAS DE TEMPO REAL                                      68    OP  ---  NAOFEITA  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OP  ---  NAOFEITA  
+MATC82  SISTEMAS WEB                                                68    OP  ---  NAOFEITA  
+MATB27  TEORIA DAS CATEGORIAS                                       68    OP  ---  NAOFEITA  
+MATA72  TÓPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  ---  NAOFEITA  
+MATB10  TÓPICOS EM BANCO DE DADOS                                   51    OP  ---  NAOFEITA  
+MATB12  TÓPICOS EM COMPILADORES                                     51    OP  ---  NAOFEITA  
+MATA74  TÓPICOS EM COMPUTAÇÃO E ALGORITMOS                          51    OP  ---  NAOFEITA  
+MATB04  TÓPICOS EM COMPUTAÇÃO GRÁFICA E PROCESSAMENTO DE IMAGENS    0    OP  ---  NAOFEITA  
+MATB25  TÓPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  ---  NAOFEITA  
+MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  ---  NAOFEITA  
+MATA79  TÓPICOS EM PROGRAMAÇÃO                                      51    OP  ---  NAOFEITA  
+MATA86  TÓPICOS EM REDES DE COMPUTADORES                            51    OP  ---  NAOFEITA  
+MATB06  TÓPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  ---  NAOFEITA  
+MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  ---  NAOFEITA  
+MATA83  TÓPICOS EM SISTEMAS OPERACIONAIS                            51    OP  ---  NAOFEITA  
+MATB15  VALIDAÇÃO DE SOFTWARE                                       51    OP  ---  NAOFEITA  
+MATB28  ÁLGEBRA LINEAR B                                            68    OP  ---  NAOFEITA  

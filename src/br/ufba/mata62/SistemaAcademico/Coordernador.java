@@ -30,10 +30,11 @@ public class Coordernador extends Professor {
 	public void aprovaMatricula(Aluno aluno) {
 
 	};
-	
-	/*public void mudaDisciplinaCursada(Aluno aluno, DisciplinaCursada disciplinaCursada) {
-		universidade.getAlunos().
-	}*/
+
+	/*
+	 * public void mudaDisciplinaCursada(Aluno aluno, DisciplinaCursada
+	 * disciplinaCursada) { universidade.getAlunos(). }
+	 */
 
 	// Método para o Coordenador dar conceito a uma matéria de um aluno
 	public void darConceito(Aluno aluno, String codigoDisciplina, Conceito conceito) {
@@ -55,7 +56,7 @@ public class Coordernador extends Professor {
 		else {
 			disciplinaCursada.setConceito(conceito);
 			aluno.getHistorico().alteraDisciplinaCursada(index, disciplinaCursada);
-			
+
 		}
 	}
 
@@ -63,8 +64,7 @@ public class Coordernador extends Professor {
 
 		// Cria DisciplinaCursada e busca na lista do histórico
 		DisciplinaCursada disciplinaCursada = aluno.getHistorico().getDisciplinaCursada(codigoDisciplina);
-		
-		
+
 		// Faz busca na lista pela posição da disciplina que receberá a nota
 		int index = aluno.getHistorico().getDisciplinaCursadaIndex(codigoDisciplina);
 
@@ -78,12 +78,14 @@ public class Coordernador extends Professor {
 		else
 			disciplinaCursada.setConceito(Conceito.REPROVADONOTA);
 
-			
 		// Altera disciplina com nova nota
 		aluno.getHistorico().alteraDisciplinaCursada(index, disciplinaCursada);
 
 		// Tendo uma nota nova, calcula-se o score novo do aluno
 		aluno.calculaScore();
+
+		// Calcula-se novamente o ch cursado pelo aluno
+		aluno.getHistorico().calculaCHCursado();
 	}
 
 	public void criaTurma(Turma turma) {
@@ -101,7 +103,7 @@ public class Coordernador extends Professor {
 	}
 
 	public void excluiTurma(Turma turma) {
-	
+
 		int index = turmas.indexOf(turma);
 		turmas.remove(index);
 	}

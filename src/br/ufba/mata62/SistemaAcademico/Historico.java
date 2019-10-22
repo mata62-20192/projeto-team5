@@ -4,10 +4,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 import java.util.TreeSet;
+
+import enums.Conceito;
 
 public class Historico {
 	Aluno aluno;
+	int chCursada;
+	int score;
 	ArrayList<DisciplinaCursada> disciplinaCursada;
 
 	public Historico(Aluno aluno) {
@@ -22,7 +27,7 @@ public class Historico {
 
 	// Preenche histórico com disciplinas do curso
 	// Private pois só pode ser feito uma vez
-	private void preencheHistorico(ArrayList<DisciplinaCursada> lista, TreeSet<DisciplinaSelecionada> arvore) {
+	private void preencheHistorico(ArrayList<DisciplinaCursada> lista, Set<DisciplinaSelecionada> arvore) {
 		Iterator<DisciplinaSelecionada> iterator = arvore.iterator();
 
 		while (iterator.hasNext()) {
@@ -42,7 +47,24 @@ public class Historico {
 			}
 		}
 		cr /= (float) numDisciplinas;
+
+		// Trunca cr em duas casas decimais
+		cr *= 100;
+		int aux = (int) cr;
+		cr = aux;
+		cr /= 100;
+
 		return cr;
+	}
+
+	public void calculaCHCursado() {
+		chCursada = 0;
+		for (int index = 0; index < disciplinaCursada.size(); index++) {
+			DisciplinaCursada aux = disciplinaCursada.get(index);
+			if (aux.getConceito().equals(Conceito.APROVADO)) {
+				chCursada += aux.getCh();
+			}
+		}
 	}
 
 	// Muda uma disciplinaCursada na lista
@@ -69,5 +91,13 @@ public class Historico {
 
 	public List<DisciplinaCursada> getDisciplinaCursada() {
 		return Collections.unmodifiableList(disciplinaCursada);
+	}
+
+	public Aluno getAluno() {
+		return aluno;
+	}
+
+	public int getchCursada() {
+		return chCursada;
 	}
 }

@@ -1,0 +1,122 @@
+Curso: COMPUTAÇÃO - LICENCIATURA  - NOTURNO - SALVADOR
+Código: 196120
+CH: 4811 Horas
+Número de semestres: 9
+
+
+
+
+
+                IMPRESSÃO DE CURRÍCULO
+
+
+
+                Semestre 1
+
+EDCB80  FILOSOFIA DA EDUCAÇÃO                                       68    OB  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  
+
+
+                Semestre 2
+
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  
+EDC287  EDUCAÇÃO E TECNOLOGIAS CONTEMPORÂNEAS                       68    OB  
+MATD04  ESTRUTURAS DE DADOS                                         68    OB  
+MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  
+MATC81  SISTEMAS BÁSICOS DE COMPUTAÇÃO: ARQUITETURA E SOFTWARE      68    OB  
+
+
+                Semestre 3
+
+EDCA01  FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO                        68    OB  
+MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  
+
+
+                Semestre 4
+
+EDCA11  DIDÁTICA E PRAXIS PEDAGÓGICA  I                             68    OB  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OB  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OB  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  
+MATC82  SISTEMAS WEB                                                68    OB  
+
+
+                Semestre 5
+
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OB  
+EDC286  AVALIAÇÃO DA APRENDIZAGEM                                   68    OB  
+MATD05  BANCO DE DADOS E APLICAÇÕES                                 68    OB  
+EDCA12  DIDÁTICA E PRAXIS PEDAGÓGICA II                             68    OB  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  
+
+
+                Semestre 6
+
+MATC68  ESTÁGIO SUPERVISIONADO I                                    68    OB  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  
+MATB22  LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO                      51    OB  
+MATC78  PROJETO DE SOFTWARE EDUCATIVO                               68    OB  
+MATC76  PRÁTICA DE ENSINO DE COMPUTAÇÃO I                           68    OB  
+
+
+                Semestre 7
+
+MATC69  ESTÁGIO SUPERVISIONADO II                                   68    OB  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OB  
+MATC79  PROJETOS INTERDISCIPLINARES: CONCEPÇÃO E PRÁTICA            68    OB  
+MATC77  PRÁTICA DE ENSINO DE COMPUTAÇÃO II                          68    OB  
+
+
+                Semestre 8
+
+MATC70  ESTÁGIO SUPERVISIONADO III                                  102   OB  
+
+
+                Semestre 9
+
+MATC71  ESTÁGIO SUPERVISIONADO IV                                   170   OB  
+
+
+                Optativas 
+
+EDC273  ANTROPOLOGIA DA EDUCAÇÃO                                    68    OP  
+MATA02  CÁLCULO A                                                   102   OP  
+MATC83  DESENVOLVIMENTO DE OBJETOS DE APRENDIZAGEM                  68    OP  
+EDC251  DIMENSAO ESTETICA DA EDUCACAO                               102   OP  
+EDC267  EDUCACAO AMBIENTAL                                          102   OP  
+EDC248  EDUCACAO E IDENTIDADE CULTURAL                              68    OP  
+EDC001  EDUCAÇÃO ABERTA, CONTINUADA E À DISTÂNCIA                   68    OP  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OP  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OP  
+MAT198  FUNDAMENTOS DE MATEMATICA  ELEMENTAR  I-A                   102   OP  
+EDC274  HISTORIA DA EDUCACAO  1                                     68    OP  
+EDCA05  HISTÓRIA DA EDUCAÇÃO BRASILEIRA                             68    OP  
+LET358  INGLES INSTRUMENTAL III  N-100                              51    OP  
+LET359  INGLES INSTRUMENTAL IV  N-100                               51    OP  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OP  
+EDC266  INTRODUCAO A INFORMATICA  NA EDUCACAO                       102   OP  
+MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OP  
+MATB16  LABORATÓRIO DE INTELIGÊNCIA ARTIFICIAL                      51    OP  
+MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OP  
+MATC75  LABORATÓRIO DE PROGRAMAÇÃO VISUAL                           51    OP  
+MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OP  
+EDC303  METODOLOGIA DO ENSINO DA MATEMÁTICA                         68    OP  
+EDC314  METODOLOGIA DO ENSINO DE CIÊNCIAS NATURAIS                  68    OP  
+EDCA40  METODOLOGIA DO ENSINO FUNDAMENTAL                           68    OP  
+EDC272  ORGANIZAÇÃO DA EDUCACAO BRASILEIRA 1                        68    OP  
+EDC289  PESQUISA EM EDUCACAO                                        68    OP  
+MATC85  PRODUÇÃO DE MATERIAL EDUCATIVO DIGITAL                      51    OP  
+EDC200  PROJETOS DE ENSINO DE CIENCIAS                              51    OP  
+MATB24  ROBÓTICA INTELIGENTE                                        51    OP  
+EDCB81  SOCIOLOGIA DA EDUCAÇÃO                                      68    OP  
+MATC86  TECNOLOGIAS DIGITAIS COMO ESTRATÉGIAS DE APRENDIZAGEM       51    OP  
+EDC321  TEE - POLÊMICAS CONTEMPORÂNEAS                              68    OP  
+MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  
+MATC87  TÓPICOS EM PROGRAMAÇÃO PARA EDUCAÇÃO                        51    OP  
+MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  

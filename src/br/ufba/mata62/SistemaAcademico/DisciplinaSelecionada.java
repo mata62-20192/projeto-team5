@@ -51,6 +51,18 @@ public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada> 
 
 	// GETTERS E SETTERS
 
+	public String getNome() {
+		return disciplina.getNome();
+	}
+
+	public String getCodigo() {
+		return disciplina.getCodigo();
+	}
+
+	public int getCh() {
+		return disciplina.getCh();
+	}
+
 	public List<Disciplina> getPreRequisito() {
 		return Collections.unmodifiableList(preRequisitos);
 	}

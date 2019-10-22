@@ -1,0 +1,163 @@
+Curso: CIÊNCIA DA COMPUTAÇÃO - BACHARELADO  - SALVADOR
+Código: 112140
+CH: 7174 Horas
+Número de semestres: 8
+
+
+
+
+
+                IMPRESSÃO DE CURRÍCULO
+
+
+
+                Semestre 1
+
+MATA02  CÁLCULO A                                                   102   OB  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  
+MATA38  PROJETO DE CIRCUITOS LÓGICOS                                68    OB  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  
+
+
+                Semestre 2
+
+MATA48  ARQUITETURA DE COMPUTADORES                                 68    OB  
+MATA95  COMPLEMENTOS DE CÁLCULO                                     102   OB  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  
+MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OB  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  
+
+
+                Semestre 3
+
+FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS ELÉTRICOS      102   OB  
+MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OB  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  
+
+
+                Semestre 4
+
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  
+MATA61  COMPILADORES                                                68    OB  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  
+FCHC45  METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA                  68    OB  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  
+
+
+                Semestre 5
+
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  
+MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OB  
+MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO A                   68    OB  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  
+MATA53  TEORIA DOS GRAFOS                                           68    OB  
+
+
+                Semestre 6
+
+MATA60  BANCO DE DADOS                                              68    OB  
+MATA65  COMPUTAÇÃO GRÁFICA                                          68    OB  
+MATE11  ENGENHARIA DE SOFTWARE II-A                                 68    OB  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OB  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  
+
+
+                Semestre 7
+
+MATA66  PROJETO FINAL DE CURSO I                                    51    OB  
+
+
+                Semestre 8
+
+MATA67  PROJETO FINAL DE CURSO II                                   136   OB  
+
+
+                Optativas 
+
+ADM170  ADMINISTRACAO CONTABIL I                                    68    OP  
+MATC88  ADMINISTRAÇÃO DE REDES DE COMPUTADORES                      51    OP  
+MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  
+MATA71  ANÁLISE NUMÉRICA                                            68    OP  
+ENG229  APLICAÇÕES  INDUSTRIAIS  DA  COMPUTAÇÃO                     68    OP  
+MATC89  APLICAÇÕES PARA DISPOSITIVOS MÓVEIS                         68    OP  
+MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÍDOS                       51    OP  
+ENG646  AUTOMACAO DE SISTEMAS                                       51    OP  
+MAT174  CALCULO NUMÉRICO  I                                         68    OP  
+FCC001  CONTABILIDADE GERAL I                                       68    OP  
+ENG648  CONTROLE E AUTOMACAO DE PROCESSOS                           51    OP  
+MATA04  CÁLCULO C                                                   102   OP  
+MATA05  CÁLCULO D                                                   102   OP  
+EDC001  EDUCAÇÃO ABERTA, CONTINUADA E À DISTÂNCIA                   68    OP  
+ADM171  ELEMENTOS E ANALISES DE CUSTOS                              68    OP  
+ENG336  ELETRÔNICA  DIGITAL                                         68    OP  
+ENGC40  ELETRÔNICA DIGITAL                                          34    OP  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OP  
+MATB65  EMPREENDIMENTOS E INFORMÁTICA                               68    OP  
+MATB03  EVOLUÇÃO DE SOFTWARE                                        51    OP  
+ECO001  FUNDAMENTOS DE ECONOMIA                                     51    OP  
+ADM243  GERÊNCIA CONTEMPORÂNEA                                      68    OP  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OP  
+LET358  INGLES INSTRUMENTAL III  N-100                              51    OP  
+LET359  INGLES INSTRUMENTAL IV  N-100                               51    OP  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OP  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OP  
+ADM241  INTRODUCAO AO MARKETING                                     51    OP  
+ADM001  INTRODUCAO À  ADMINISTRACAO                                 68    OP  
+MATC93  INTRODUÇÃO A WEB SEMÂNTICA                                  51    OP  
+MATB17  LAB. DE COMPUTAÇÃO GRÁFICA E PROCESSAMENTO DE IMAGENS       51    OP  
+MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OP  
+MATA73  LABORATÓRIO DE CIRCUITOS DIGITAIS                           51    OP  
+MATB11  LABORATÓRIO DE COMPILADORES                                 51    OP  
+MATB14  LABORATÓRIO DE ENGENHARIA DE SOFTWARE                       51    OP  
+MATB22  LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO                      51    OP  
+MATB16  LABORATÓRIO DE INTELIGÊNCIA ARTIFICIAL                      51    OP  
+MATA80  LABORATÓRIO DE PROGRAMAÇÃO II                               51    OP  
+MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OP  
+MATB01  LABORATÓRIO DE REDES DE COMPUTADORES                        51    OP  
+MATA81  LABORATÓRIO DE SISTEMAS OPERACIONAIS                        51    OP  
+ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OP  
+ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OP  
+MATA76  LINGUAGENS PARA APLICAÇÃO COMERCIAL                         51    OP  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OP  
+MATB29  LÓGICA MATEMÁTICA                                           68    OP  
+MATA69  MODELAGEM E SIMULAÇÃO DE SISTEMAS                           68    OP  
+MATB13  MÉTODOS FORMAIS                                             51    OP  
+MATC96  ORGANIZAÇÃO, GERENCIAMENTO E RECUPERAÇÃO DA INFORMAÇÃO      51    OP  
+FISA76  OSCILAÇÕES E ONDAS ELETROMAGNÉTICAS                         102   OP  
+ADM011  PESQUISA  OPERACIONAL                                       68    OP  
+MATE13  PROGRAMAÇÃO CONCORRENTE, DISTRIBUÍDA E PARALELA             51    OP  
+MATA77  PROGRAMAÇÃO FUNCIONAL                                       68    OP  
+IPSA39  PSICOLOGIA DAS RELACOES HUMANAS                             68    OP  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OP  
+MATA85  REDES DE COMPUTADORES II                                    68    OP  
+MATB24  ROBÓTICA INTELIGENTE                                        51    OP  
+MATA87  SEGURANÇA DA INFORMAÇÃO                                     68    OP  
+MATC99  SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO             68    OP  
+MATB23  SEMINÁRIOS EM EMPREENDEDORISMO                              51    OP  
+MATA75  SEMÂNTICA DE LINGUAGEM DE PROGRAMAÇÃO                       68    OP  
+MATA82  SISTEMAS DE TEMPO REAL                                      68    OP  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OP  
+MATC82  SISTEMAS WEB                                                68    OP  
+MATB27  TEORIA DAS CATEGORIAS                                       68    OP  
+MATA72  TÓPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  
+MATB10  TÓPICOS EM BANCO DE DADOS                                   51    OP  
+MATB12  TÓPICOS EM COMPILADORES                                     51    OP  
+MATA74  TÓPICOS EM COMPUTAÇÃO E ALGORITMOS                          51    OP  
+MATB04  TÓPICOS EM COMPUTAÇÃO GRÁFICA E PROCESSAMENTO DE IMAGENS    0    OP  
+MATB25  TÓPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  
+MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  
+MATA79  TÓPICOS EM PROGRAMAÇÃO                                      51    OP  
+MATA86  TÓPICOS EM REDES DE COMPUTADORES                            51    OP  
+MATB06  TÓPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  
+MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  
+MATA83  TÓPICOS EM SISTEMAS OPERACIONAIS                            51    OP  
+MATB15  VALIDAÇÃO DE SOFTWARE                                       51    OP  
+MATB28  ÁLGEBRA LINEAR B                                            68    OP  

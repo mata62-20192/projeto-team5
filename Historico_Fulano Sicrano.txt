@@ -1,0 +1,107 @@
+Aluno: Fulano Sicrano
+Matrícula: 4
+Curso: SISTEMAS DE INFORMAÇÃO - BACHARELADO  - NOTURNO - SALVADOR
+Score: 4.75
+Carga horária cursada: 1054 Horas
+
+
+
+
+
+                IMPRESSÃO DE HISTÓRICO
+
+
+
+                Semestre 1
+
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  3,88  REPROVADONOTA  
+MATA02  CÁLCULO A                                                   102   OB  7,47  APROVADO  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  6,94  APROVADO  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  8,75  APROVADO  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  9,50  APROVADO  
+
+
+                Semestre 2
+
+MATC90  CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES            68    OB  5,85  APROVADO  
+ADME99  ECONOMIA DA INOVAÇÃO                                        68    OB  2,92  REPROVADONOTA  
+MATD04  ESTRUTURAS DE DADOS                                         68    OB  8,43  APROVADO  
+MATC92  FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO                       68    OB  4,54  REPROVADONOTA  
+MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  5,34  APROVADO  
+
+
+                Semestre 3
+
+ADM001  INTRODUCAO À  ADMINISTRACAO                                 68    OB  7,25  APROVADO  
+MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  3,81  REPROVADONOTA  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  7,24  APROVADO  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  3,49  REPROVADONOTA  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  2,81  REPROVADONOTA  
+
+
+                Semestre 4
+
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  5,75  APROVADO  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  3,40  REPROVADONOTA  
+LETA09  OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS                     68    OB  0,23  REPROVADONOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  3,01  REPROVADONOTA  
+MATC82  SISTEMAS WEB                                                68    OB  3,07  REPROVADONOTA  
+
+
+                Semestre 5
+
+MATA60  BANCO DE DADOS                                              68    OB  3,80  REPROVADONOTA  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OB  0,25  REPROVADONOTA  
+MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OB  7,55  APROVADO  
+ADM211  MÉTODOS QUANTITATIVOS APLICADOS À ADMINISTRAÇÃO             51    OB  2,50  REPROVADONOTA  
+MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OB  5,35  APROVADO  
+
+
+                Semestre 6
+
+MATC89  APLICAÇÕES PARA DISPOSITIVOS MÓVEIS                         68    OB  7,20  APROVADO  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OB  1,47  REPROVADONOTA  
+MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OB  7,28  APROVADO  
+MATA76  LINGUAGENS PARA APLICAÇÃO COMERCIAL                         51    OB  6,23  APROVADO  
+ADMF01  SISTEMAS DE APOIO À DECISÃO                                 85    OB  4,56  REPROVADONOTA  
+
+
+                Semestre 7
+
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  4,38  REPROVADONOTA  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  7,52  APROVADO  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OB  4,45  REPROVADONOTA  
+MATC99  SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO             68    OB  3,51  REPROVADONOTA  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  1,84  REPROVADONOTA  
+
+
+                Semestre 9
+
+MATC97  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO I                    51    OB  2,18  REPROVADONOTA  
+
+
+                Semestre 10
+
+MATC98  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO II                   136   OB  2,12  REPROVADONOTA  
+
+
+                Optativas 
+
+MATC88  ADMINISTRAÇÃO DE REDES DE COMPUTADORES                      51    OP  ---  NAOFEITA  
+MATC91  COMUNIDADES E AMBIENTES VIRTUAIS                            51    OP  ---  NAOFEITA  
+FCC024  CONTABILIDADE DE CUSTOS                                     68    OP  ---  NAOFEITA  
+ECO001  FUNDAMENTOS DE ECONOMIA                                     51    OP  ---  NAOFEITA  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OP  ---  NAOFEITA  
+MATD55  INFORMÁTICA EM SAÚDE PARA SISTEMAS DE INFORMAÇÃO            51    OP  ---  NAOFEITA  
+ADM241  INTRODUCAO AO MARKETING                                     51    OP  ---  NAOFEITA  
+MATC93  INTRODUÇÃO A WEB SEMÂNTICA                                  51    OP  ---  NAOFEITA  
+MATC95  LABORATÓRIO DE INFORMÁTICA MÉDICA                           51    OP  ---  NAOFEITA  
+MATB16  LABORATÓRIO DE INTELIGÊNCIA ARTIFICIAL                      51    OP  ---  NAOFEITA  
+MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OP  ---  NAOFEITA  
+LETC84  LEITURA DE TEXTOS ACADÊMICOS EM LINGUA INGLESA              68    OP  ---  NAOFEITA  
+LETA15  LEITURA DE TEXTOS EM LINGUA INGLESA                         68    OP  ---  NAOFEITA  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OP  ---  NAOFEITA  
+MATC96  ORGANIZAÇÃO, GERENCIAMENTO E RECUPERAÇÃO DA INFORMAÇÃO      51    OP  ---  NAOFEITA  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OP  ---  NAOFEITA  
+MATD01  TELEMEDICINA E IMAGENS MÉDICAS                              51    OP  ---  NAOFEITA  
+MATD02  TÓPICOS EM SISTEMAS DE INFORMAÇÃO                           51    OP  ---  NAOFEITA  

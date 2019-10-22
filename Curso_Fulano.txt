@@ -1,0 +1,185 @@
+Curso: ENGENHARIA DE COMPUTAÇÃO - BACHARELADO  - NOTURNO - SALVADOR
+Código: 186140
+CH: 7667 Horas
+Número de semestres: 12
+
+
+
+
+
+                IMPRESSÃO DE CURRÍCULO
+
+
+
+                Semestre 1
+
+MATA02  CÁLCULO A                                                   102   OB  
+FIS121  FISICA GERAL E EXPERIMENTAL  I-E                            102   OB  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  
+QUI029  QUIMICA GERAL                                               68    OB  
+
+
+                Semestre 2
+
+MATA03  CÁLCULO B                                                   102   OB  
+FIS122  FISICA  GERAL E EXPERIMENTAL  II-E                          102   OB  
+ENGG51  INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO                       34    OB  
+ENGC26  SISTEMAS LÓGICOS                                            34    OB  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  
+
+
+                Semestre 3
+
+MATA04  CÁLCULO C                                                   102   OB  
+ENGC40  ELETRÔNICA DIGITAL                                          34    OB  
+FIS123  FISICA  GERAL E EXPERIMENTAL  III-E                         102   OB  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  
+ENGA47  TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA         34    OB  
+
+
+                Semestre 4
+
+ENGC32  ANÁLISE DE CIRCUITOS  I                                     68    OB  
+ENG269  CIÊNCIAS DO AMBIENTE                                        68    OB  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  
+ENGC30  MECÂNICA DOS SÓLIDOS                                        68    OB  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  
+
+
+                Semestre 5
+
+ENGC25  ANALISE DE CIRCUITOS II                                     68    OB  
+ENGC41  DISPOSITIVOS  ELETRÔNICOS                                   68    OB  
+ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OB  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  
+ENGG62  METODOLOGIA E EXPRESSÃO  DO CONHECIMENTO CIENTÍFICO         34    OB  
+ENGC24  SINAIS E SISTEMAS I                                         68    OB  
+
+
+                Semestre 6
+
+MAT174  CALCULO NUMÉRICO  I                                         68    OB  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  
+ENG370  FENÔMENOS DE TRANSPORTES I                                  68    OB  
+ENGC33  SINAIS E SISTEMAS  II                                       68    OB  
+ENGC50  SISTEMAS MICROPROCESSADOS                                   68    OB  
+
+
+                Semestre 7
+
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  
+ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OB  
+ENGC63  PROCESSAMENTO DIGITAL DE SINAIS                             68    OB  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  
+
+
+                Semestre 8
+
+ENGG54  LABORATÓRIO INTEGRADO III-A                                 34    OB  
+ENGG56  PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS                    68    OB  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  
+
+
+                Semestre 9
+
+MATA61  COMPILADORES                                                68    OB  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  
+ENGG57  LABORATÓRIO INTEGRADO IV-A                                  34    OB  
+ENGD33  PROGRAMAÇÃO EM TEMPO REAL PARA SISTEMAS EMBARCADOS          68    OB  
+MATA82  SISTEMAS DE TEMPO REAL                                      68    OB  
+
+
+                Semestre 10
+
+ECO151  ECONOMIA E FINANÇAS                                         68    OB  
+ENGG58  INTERFACE HOMEM-MÁQUINA                                     68    OB  
+ENGG55  REDES INDUSTRIAIS                                           68    OB  
+
+
+                Semestre 11
+
+ENGG59  ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO                         170   OB  
+ENGG60  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO  I      17    OB  
+
+
+                Semestre 12
+
+ADM012  ADMINISTRACAO                                               68    OB  
+DIR175  LEGISLAÇÃO SOCIAL                                           68    OB  
+ENGG61  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II      17    OB  
+
+
+                Optativas 
+
+ENGG63  AGENTES AUTÔNOMOS E SISTEMAS MULTIAGENTES                   68    OP  
+MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  
+MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÍDOS                       51    OP  
+ENGG66  AVALIAÇÃO E DESEMPENHO DE SISTEMAS                          68    OP  
+MATA60  BANCO DE DADOS                                              68    OP  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OP  
+MATA65  COMPUTAÇÃO GRÁFICA                                          68    OP  
+ENGC67  CONTROLE DE SISTEMAS A EVENTOS DISCRETOS                    68    OP  
+MATA06  CÁLCULO E                                                   102   OP  
+ENGC34  ELETROMAGNETISMO APLICADO                                   68    OP  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OP  
+MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OP  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OP  
+FIS124  FÍSICA  GERAL E EXPERIMENTAL  IV-E                          102   OP  
+ENG295  HIGIENE E SEGURANÇA NO TRABALHO                             68    OP  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OP  
+ENGA77  INSTRUMENTACAO INDUSTRIAL                                   68    OP  
+ENGC59  INSTRUMENTAÇAO ELETRONICA                                   68    OP  
+ENGA74  INTELIGENCIA COMPUTACIONAL                                  68    OP  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OP  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OP  
+ENGC66  INTRODUÇAO AO CONTROLE DE PROCESSOS INDUSTRIAIS             68    OP  
+ENGC75  INTRODUÇAO À ROBOTICA                                       68    OP  
+MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OP  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OP  
+ENGC35  MODELAGEM E ANÁLISE DE SISTEMAS  DINÂMICOS                  68    OP  
+MATA69  MODELAGEM E SIMULAÇÃO DE SISTEMAS                           68    OP  
+MATB13  MÉTODOS FORMAIS                                             51    OP  
+ENG574  OTIMIZACAO                                                  68    OP  
+MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OP  
+ENGA84  PROCESSADORES DIGITAIS DE SINAIS                            68    OP  
+ENG577  PROCESSAMENTO DIGITAL DE SINAIS                             68    OP  
+ENGA83  PROCESSAMENTO ESTATISTICO DE SINAIS                         68    OP  
+ENG573  PROCESSOS ESTOCASTICOS                                      68    OP  
+MATA77  PROGRAMAÇÃO FUNCIONAL                                       68    OP  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OP  
+MATA85  REDES DE COMPUTADORES II                                    68    OP  
+MATB24  ROBÓTICA INTELIGENTE                                        51    OP  
+MATA87  SEGURANÇA DA INFORMAÇÃO                                     68    OP  
+MATA75  SEMÂNTICA DE LINGUAGEM DE PROGRAMAÇÃO                       68    OP  
+ENGA78  SINTESE DE CIRCUITOS DIGITAIS                               68    OP  
+ENGC61  SISTEMAS DE COMUNICAÇOES  II                                68    OP  
+ENGA48  SISTEMAS DE COMUNICAÇÃO SEM FIO                             68    OP  
+ENGC27  SISTEMAS DE COMUNICAÇÕES  I                                 68    OP  
+ENGC42  SISTEMAS DE CONTROLE  I                                     68    OP  
+ENGC64  SISTEMAS DE CONTROLE  II                                    68    OP  
+ENGC65  SISTEMAS DE CONTROLE  III                                   68    OP  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OP  
+ENGA73  SISTEMAS ROBOTICOS                                          68    OP  
+ENGC46  SÍNTESE DE CIRCUITOS                                        34    OP  
+MATA53  TEORIA DOS GRAFOS                                           68    OP  
+ENGG65  TV DIGITAL                                                  68    OP  
+MATA72  TÓPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  
+MATB10  TÓPICOS EM BANCO DE DADOS                                   51    OP  
+MATB12  TÓPICOS EM COMPILADORES                                     51    OP  
+MATA74  TÓPICOS EM COMPUTAÇÃO E ALGORITMOS                          51    OP  
+MATB25  TÓPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  
+MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  
+MATA79  TÓPICOS EM PROGRAMAÇÃO                                      51    OP  
+MATA86  TÓPICOS EM REDES DE COMPUTADORES                            51    OP  
+MATB06  TÓPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  
+MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  
+MATA83  TÓPICOS EM SISTEMAS OPERACIONAIS                            51    OP  
+ENGG67  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I             0    OP  
+ENGG68  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO II            0    OP  
+ENGG69  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO III           0    OP  
+MATB15  VALIDAÇÃO DE SOFTWARE                                       51    OP  
+ENGG64  VISÃO COMPUTACIONAL                                         68    OP  

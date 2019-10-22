@@ -110,13 +110,13 @@ public class Universidade {
 	}
 
 	public List<Disciplina> getDisciplinas() {
-		
+
 		return Collections.unmodifiableList(disciplinas);
-		
+
 	}
 
 	public List<Curso> getCursos() {
-	//	return Collections.unmodifiableList(new ArrayList<> (cursos));
+		// return Collections.unmodifiableList(new ArrayList<> (cursos));
 		return cursos;
 	}
 
