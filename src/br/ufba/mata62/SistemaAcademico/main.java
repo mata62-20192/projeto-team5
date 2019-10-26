@@ -1,6 +1,5 @@
 package br.ufba.mata62.SistemaAcademico;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -13,7 +12,7 @@ import leitorTXT.LeitorTXT;
 
 public class main {
 
-	public static void darNotas(Coordernador coordenador, List<Aluno> alunos) {
+	public static void darNotas(Coordenador coordenador, List<Aluno> alunos) {
 		// D� notas aleat�rias para os alunos nas mat�rias obrigat�rias.
 		// Utilizado apenas para teste
 
@@ -43,7 +42,7 @@ public class main {
 		// Lendo txt da universidade
 		LeitorTXT.leitor(universidade);
 
-		Coordernador coordenador = new Coordernador("Coordenador", "Matricula", "Senha", "rg", "cpf",
+		Coordenador coordenador = new Coordenador("Coordenador", "Matricula", "Senha", "rg", "cpf",
 				Contrato.DEFINITIVO, Nivel.DOUTORADO, universidade);
 
 		Integer matricula = 1;

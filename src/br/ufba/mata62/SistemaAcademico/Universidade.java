@@ -12,7 +12,7 @@ public class Universidade {
 	private String semestre;
 	private ArrayList<Aluno> alunos;
 	private ArrayList<Professor> professores;
-	private Coordernador coordenador;
+	private Coordenador coordenador;
 	private final ArrayList<Disciplina> disciplinas;
 	private ArrayList<Curso> cursos;
 
@@ -29,7 +29,7 @@ public class Universidade {
 
 	// Iniciar universidade com alunos, professores e coordenador
 	public Universidade(String nome, String sigla, String semestre, ArrayList<Disciplina> disciplinas,
-			ArrayList<Aluno> alunos, ArrayList<Professor> professores, Coordernador coordenador) {
+			ArrayList<Aluno> alunos, ArrayList<Professor> professores, Coordenador coordenador) {
 		this.nome = nome;
 		this.sigla = sigla;
 		this.semestre = semestre;
@@ -120,11 +120,11 @@ public class Universidade {
 		return cursos;
 	}
 
-	public Coordernador getCoordenador() {
+	public Coordenador getCoordenador() {
 		return coordenador;
 	}
 
-	public void setCoordenador(Coordernador coordenador) {
+	public void setCoordenador(Coordenador coordenador) {
 		this.coordenador = coordenador;
 	}
 

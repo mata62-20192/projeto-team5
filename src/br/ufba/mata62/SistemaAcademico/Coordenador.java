@@ -9,12 +9,12 @@ import enums.Conceito;
 import enums.Contrato;
 import enums.Nivel;
 
-public class Coordernador extends Professor {
+public class Coordenador extends Professor {
 
 	private Universidade universidade;
 	private static ArrayList<Turma> turmas;
 
-	public Coordernador(String nome, String matricula, String senha, String rg, String cpf, Contrato contrato,
+	public Coordenador(String nome, String matricula, String senha, String rg, String cpf, Contrato contrato,
 			Nivel nivel, Universidade universidade) {
 
 		super(nome, matricula, senha, rg, cpf, contrato, nivel);
