@@ -14,7 +14,7 @@ public class LeitorTXT {
 	public static void leitor(Universidade universidade) {
 		Scanner scanner = null;
 		try {
-			File file = new File("universidade_utf8.txt");
+			File file = new File("universidade.txt");
 			System.out.println(file.getAbsolutePath());
 			scanner = new Scanner(file);
 

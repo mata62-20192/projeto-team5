@@ -1,8 +1,8 @@
 Aluno: Beltrano
 Matrícula: 3
 Curso: CIÊNCIA DA COMPUTAÇÃO - BACHARELADO  - SALVADOR
-Score: 4.99
-Carga horária cursada: 1156 Horas
+Score: 4.29
+Carga horária cursada: 1071 Horas
 
 
 
@@ -14,70 +14,70 @@ Carga horária cursada: 1156 Horas
 
                 Semestre 1
 
-MATA02  CÁLCULO A                                                   102   OB  3,01  REPROVADO_NOTA  
-MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  2,74  REPROVADO_NOTA  
-MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  4,78  REPROVADO_NOTA  
-MATA42  MATEMÁTICA DISCRETA I                                       68    OB  3,41  REPROVADO_NOTA  
-MATA38  PROJETO DE CIRCUITOS LÓGICOS                                68    OB  5,41  APROVADO  
-MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  9,50  APROVADO  
+MATA02  CÁLCULO A                                                   102   OB  0,44  REPROVADO_NOTA  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  7,46  APROVADO  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  6,70  APROVADO  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  4,84  REPROVADO_NOTA  
+MATA38  PROJETO DE CIRCUITOS LÓGICOS                                68    OB  1,26  REPROVADO_NOTA  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  2,66  REPROVADO_NOTA  
 
 
                 Semestre 2
 
-MATA48  ARQUITETURA DE COMPUTADORES                                 68    OB  1,59  REPROVADO_NOTA  
-MATA95  COMPLEMENTOS DE CÁLCULO                                     102   OB  9,44  APROVADO  
-MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  7,54  APROVADO  
-MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OB  2,55  REPROVADO_NOTA  
-MATA97  MATEMÁTICA DISCRETA II                                      68    OB  7,26  APROVADO  
-MATA07  ÁLGEBRA LINEAR A                                            68    OB  4,03  REPROVADO_NOTA  
+MATA48  ARQUITETURA DE COMPUTADORES                                 68    OB  3,26  REPROVADO_NOTA  
+MATA95  COMPLEMENTOS DE CÁLCULO                                     102   OB  5,96  APROVADO  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  7,90  APROVADO  
+MATA57  LABORATÓRIO DE PROGRAMAÇÃO I                                51    OB  2,66  REPROVADO_NOTA  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  3,19  REPROVADO_NOTA  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  2,15  REPROVADO_NOTA  
 
 
                 Semestre 3
 
-FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS ELÉTRICOS      102   OB  3,97  REPROVADO_NOTA  
-MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OB  7,52  APROVADO  
-MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  9,37  APROVADO  
-MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  9,31  APROVADO  
-MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  3,13  REPROVADO_NOTA  
-MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  4,54  REPROVADO_NOTA  
+FISA75  ELEMENTOS DO ELETROMAGNETISMO E DE CIRCUITOS ELÉTRICOS      102   OB  6,28  APROVADO  
+MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OB  2,81  REPROVADO_NOTA  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  2,09  REPROVADO_NOTA  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  4,57  REPROVADO_NOTA  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  1,11  REPROVADO_NOTA  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  7,09  APROVADO  
 
 
                 Semestre 4
 
-MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  5,10  APROVADO  
-MATA61  COMPILADORES                                                68    OB  5,95  APROVADO  
-MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  1,48  REPROVADO_NOTA  
-FCHC45  METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA                  68    OB  1,65  REPROVADO_NOTA  
-MATA58  SISTEMAS OPERACIONAIS                                       68    OB  7,01  APROVADO  
-MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  2,61  REPROVADO_NOTA  
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  1,25  REPROVADO_NOTA  
+MATA61  COMPILADORES                                                68    OB  0,24  REPROVADO_NOTA  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  3,47  REPROVADO_NOTA  
+FCHC45  METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA                  68    OB  6,98  APROVADO  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  5,26  APROVADO  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  8,78  APROVADO  
 
 
                 Semestre 5
 
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  1,76  REPROVADO_NOTA  
-MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OB  9,65  APROVADO  
-MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO A                   68    OB  4,25  REPROVADO_NOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  1,89  REPROVADO_NOTA  
-MATA53  TEORIA DOS GRAFOS                                           68    OB  9,97  APROVADO  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  3,91  REPROVADO_NOTA  
+MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OB  0,39  REPROVADO_NOTA  
+MATE12  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO A                   68    OB  2,04  REPROVADO_NOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  3,92  REPROVADO_NOTA  
+MATA53  TEORIA DOS GRAFOS                                           68    OB  1,71  REPROVADO_NOTA  
 
 
                 Semestre 6
 
-MATA60  BANCO DE DADOS                                              68    OB  7,25  APROVADO  
-MATA65  COMPUTAÇÃO GRÁFICA                                          68    OB  4,70  REPROVADO_NOTA  
-MATE11  ENGENHARIA DE SOFTWARE II-A                                 68    OB  1,67  REPROVADO_NOTA  
-MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OB  3,26  REPROVADO_NOTA  
-MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  2,18  REPROVADO_NOTA  
+MATA60  BANCO DE DADOS                                              68    OB  2,27  REPROVADO_NOTA  
+MATA65  COMPUTAÇÃO GRÁFICA                                          68    OB  8,69  APROVADO  
+MATE11  ENGENHARIA DE SOFTWARE II-A                                 68    OB  8,88  APROVADO  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OB  8,47  APROVADO  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  6,99  APROVADO  
 
 
                 Semestre 7
 
-MATA66  PROJETO FINAL DE CURSO I                                    51    OB  5,13  APROVADO  
+MATA66  PROJETO FINAL DE CURSO I                                    51    OB  1,98  REPROVADO_NOTA  
 
 
                 Semestre 8
 
-MATA67  PROJETO FINAL DE CURSO II                                   136   OB  5,34  APROVADO  
+MATA67  PROJETO FINAL DE CURSO II                                   136   OB  7,13  APROVADO  
 
 
                 Optativas 

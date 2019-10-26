@@ -1,8 +1,8 @@
 Aluno: Sicrano
 Matrícula: 2
 Curso: COMPUTAÇÃO - LICENCIATURA  - NOTURNO - SALVADOR
-Score: 5.45
-Carga horária cursada: 1377 Horas
+Score: 4.03
+Carga horária cursada: 1020 Horas
 
 
 
@@ -14,74 +14,74 @@ Carga horária cursada: 1377 Horas
 
                 Semestre 1
 
-EDCB80  FILOSOFIA DA EDUCAÇÃO                                       68    OB  4,23  REPROVADO_NOTA  
-MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  7,90  APROVADO  
-MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  7,01  APROVADO  
-MATA42  MATEMÁTICA DISCRETA I                                       68    OB  5,27  APROVADO  
-MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  7,31  APROVADO  
+EDCB80  FILOSOFIA DA EDUCAÇÃO                                       68    OB  3,38  REPROVADO_NOTA  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  7,80  APROVADO  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  4,79  REPROVADO_NOTA  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  7,77  APROVADO  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  0,02  REPROVADO_NOTA  
 
 
                 Semestre 2
 
-MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  3,57  REPROVADO_NOTA  
-EDC287  EDUCAÇÃO E TECNOLOGIAS CONTEMPORÂNEAS                       68    OB  4,36  REPROVADO_NOTA  
-MATD04  ESTRUTURAS DE DADOS                                         68    OB  6,45  APROVADO  
-MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  6,22  APROVADO  
-MATC81  SISTEMAS BÁSICOS DE COMPUTAÇÃO: ARQUITETURA E SOFTWARE      68    OB  4,79  REPROVADO_NOTA  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  9,16  APROVADO  
+EDC287  EDUCAÇÃO E TECNOLOGIAS CONTEMPORÂNEAS                       68    OB  6,91  APROVADO  
+MATD04  ESTRUTURAS DE DADOS                                         68    OB  6,59  APROVADO  
+MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  6,54  APROVADO  
+MATC81  SISTEMAS BÁSICOS DE COMPUTAÇÃO: ARQUITETURA E SOFTWARE      68    OB  9,24  APROVADO  
 
 
                 Semestre 3
 
-EDCA01  FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO                        68    OB  2,73  REPROVADO_NOTA  
-MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  0,81  REPROVADO_NOTA  
-MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  5,86  APROVADO  
-MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  7,50  APROVADO  
+EDCA01  FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO                        68    OB  2,21  REPROVADO_NOTA  
+MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  0,29  REPROVADO_NOTA  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  2,17  REPROVADO_NOTA  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  2,33  REPROVADO_NOTA  
 
 
                 Semestre 4
 
-EDCA11  DIDÁTICA E PRAXIS PEDAGÓGICA  I                             68    OB  4,72  REPROVADO_NOTA  
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  4,66  REPROVADO_NOTA  
-MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OB  2,74  REPROVADO_NOTA  
-LETE46  Libras-Língua Brasileira de Sinais                          34    OB  3,90  REPROVADO_NOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  5,79  APROVADO  
-MATC82  SISTEMAS WEB                                                68    OB  9,31  APROVADO  
+EDCA11  DIDÁTICA E PRAXIS PEDAGÓGICA  I                             68    OB  0,70  REPROVADO_NOTA  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  6,05  APROVADO  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OB  7,47  APROVADO  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OB  3,32  REPROVADO_NOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  2,72  REPROVADO_NOTA  
+MATC82  SISTEMAS WEB                                                68    OB  2,73  REPROVADO_NOTA  
 
 
                 Semestre 5
 
-MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OB  7,98  APROVADO  
-EDC286  AVALIAÇÃO DA APRENDIZAGEM                                   68    OB  0,13  REPROVADO_NOTA  
-MATD05  BANCO DE DADOS E APLICAÇÕES                                 68    OB  7,38  APROVADO  
-EDCA12  DIDÁTICA E PRAXIS PEDAGÓGICA II                             68    OB  7,09  APROVADO  
-MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  9,05  APROVADO  
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OB  0,59  REPROVADO_NOTA  
+EDC286  AVALIAÇÃO DA APRENDIZAGEM                                   68    OB  1,40  REPROVADO_NOTA  
+MATD05  BANCO DE DADOS E APLICAÇÕES                                 68    OB  1,79  REPROVADO_NOTA  
+EDCA12  DIDÁTICA E PRAXIS PEDAGÓGICA II                             68    OB  1,70  REPROVADO_NOTA  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  0,73  REPROVADO_NOTA  
 
 
                 Semestre 6
 
-MATC68  ESTÁGIO SUPERVISIONADO I                                    68    OB  8,86  APROVADO  
-MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  3,72  REPROVADO_NOTA  
-MATB22  LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO                      51    OB  2,33  REPROVADO_NOTA  
-MATC78  PROJETO DE SOFTWARE EDUCATIVO                               68    OB  6,44  APROVADO  
-MATC76  PRÁTICA DE ENSINO DE COMPUTAÇÃO I                           68    OB  3,64  REPROVADO_NOTA  
+MATC68  ESTÁGIO SUPERVISIONADO I                                    68    OB  0,83  REPROVADO_NOTA  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  1,50  REPROVADO_NOTA  
+MATB22  LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO                      51    OB  7,49  APROVADO  
+MATC78  PROJETO DE SOFTWARE EDUCATIVO                               68    OB  5,66  APROVADO  
+MATC76  PRÁTICA DE ENSINO DE COMPUTAÇÃO I                           68    OB  4,62  REPROVADO_NOTA  
 
 
                 Semestre 7
 
-MATC69  ESTÁGIO SUPERVISIONADO II                                   68    OB  6,50  APROVADO  
-MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OB  1,62  REPROVADO_NOTA  
-MATC79  PROJETOS INTERDISCIPLINARES: CONCEPÇÃO E PRÁTICA            68    OB  9,10  APROVADO  
-MATC77  PRÁTICA DE ENSINO DE COMPUTAÇÃO II                          68    OB  5,16  APROVADO  
+MATC69  ESTÁGIO SUPERVISIONADO II                                   68    OB  6,79  APROVADO  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OB  0,81  REPROVADO_NOTA  
+MATC79  PROJETOS INTERDISCIPLINARES: CONCEPÇÃO E PRÁTICA            68    OB  5,74  APROVADO  
+MATC77  PRÁTICA DE ENSINO DE COMPUTAÇÃO II                          68    OB  2,15  REPROVADO_NOTA  
 
 
                 Semestre 8
 
-MATC70  ESTÁGIO SUPERVISIONADO III                                  102   OB  8,77  APROVADO  
+MATC70  ESTÁGIO SUPERVISIONADO III                                  102   OB  2,23  REPROVADO_NOTA  
 
 
                 Semestre 9
 
-MATC71  ESTÁGIO SUPERVISIONADO IV                                   170   OB  3,47  REPROVADO_NOTA  
+MATC71  ESTÁGIO SUPERVISIONADO IV                                   170   OB  9,15  APROVADO  
 
 
                 Optativas 

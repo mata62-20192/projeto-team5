@@ -1,8 +1,8 @@
 Aluno: Fulano Sicrano
 Matrícula: 4
 Curso: SISTEMAS DE INFORMAÇÃO - BACHARELADO  - NOTURNO - SALVADOR
-Score: 4.69
-Carga horária cursada: 1173 Horas
+Score: 4.95
+Carga horária cursada: 1258 Horas
 
 
 
@@ -14,75 +14,75 @@ Carga horária cursada: 1173 Horas
 
                 Semestre 1
 
-MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  6,40  APROVADO  
-MATA02  CÁLCULO A                                                   102   OB  1,16  REPROVADO_NOTA  
-MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  3,43  REPROVADO_NOTA  
-MATA42  MATEMÁTICA DISCRETA I                                       68    OB  1,75  REPROVADO_NOTA  
-MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  1,02  REPROVADO_NOTA  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OB  5,44  APROVADO  
+MATA02  CÁLCULO A                                                   102   OB  4,42  REPROVADO_NOTA  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  1,37  REPROVADO_NOTA  
+MATA42  MATEMÁTICA DISCRETA I                                       68    OB  3,05  REPROVADO_NOTA  
+MATA39  SEMINÁRIOS DE INTRODUÇÃO AO CURSO                           51    OB  5,52  APROVADO  
 
 
                 Semestre 2
 
-MATC90  CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES            68    OB  7,94  APROVADO  
-ADME99  ECONOMIA DA INOVAÇÃO                                        68    OB  3,90  REPROVADO_NOTA  
-MATD04  ESTRUTURAS DE DADOS                                         68    OB  6,64  APROVADO  
-MATC92  FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO                       68    OB  7,87  APROVADO  
-MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  5,52  APROVADO  
+MATC90  CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES            68    OB  6,52  APROVADO  
+ADME99  ECONOMIA DA INOVAÇÃO                                        68    OB  0,19  REPROVADO_NOTA  
+MATD04  ESTRUTURAS DE DADOS                                         68    OB  7,86  APROVADO  
+MATC92  FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO                       68    OB  1,96  REPROVADO_NOTA  
+MATC73  INTRODUÇÃO À LÓGICA MATEMÁTICA                              68    OB  3,17  REPROVADO_NOTA  
 
 
                 Semestre 3
 
-ADM001  INTRODUCAO À  ADMINISTRACAO                                 68    OB  2,11  REPROVADO_NOTA  
-MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  9,98  APROVADO  
-MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  3,26  REPROVADO_NOTA  
-MATA58  SISTEMAS OPERACIONAIS                                       68    OB  3,20  REPROVADO_NOTA  
-MATA07  ÁLGEBRA LINEAR A                                            68    OB  3,43  REPROVADO_NOTA  
+ADM001  INTRODUCAO À  ADMINISTRACAO                                 68    OB  6,03  APROVADO  
+MATC94  INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO     68    OB  8,88  APROVADO  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  3,83  REPROVADO_NOTA  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  8,47  APROVADO  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  6,37  APROVADO  
 
 
                 Semestre 4
 
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  6,84  APROVADO  
-MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  0,66  REPROVADO_NOTA  
-LETA09  OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS                     68    OB  3,92  REPROVADO_NOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  4,34  REPROVADO_NOTA  
-MATC82  SISTEMAS WEB                                                68    OB  4,76  REPROVADO_NOTA  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  0,56  REPROVADO_NOTA  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  0,95  REPROVADO_NOTA  
+LETA09  OFICINA DE LEITURA E PRODUÇÃO DE TEXTOS                     68    OB  5,71  APROVADO  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  5,55  APROVADO  
+MATC82  SISTEMAS WEB                                                68    OB  8,26  APROVADO  
 
 
                 Semestre 5
 
-MATA60  BANCO DE DADOS                                              68    OB  7,03  APROVADO  
-MATA63  ENGENHARIA DE SOFTWARE II                                   68    OB  4,03  REPROVADO_NOTA  
-MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OB  9,80  APROVADO  
-ADM211  MÉTODOS QUANTITATIVOS APLICADOS À ADMINISTRAÇÃO             51    OB  9,28  APROVADO  
-MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OB  6,88  APROVADO  
+MATA60  BANCO DE DADOS                                              68    OB  1,12  REPROVADO_NOTA  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OB  1,43  REPROVADO_NOTA  
+MATC84  LABORATÓRIO DE PROGRAMAÇÃO WEB                              51    OB  9,54  APROVADO  
+ADM211  MÉTODOS QUANTITATIVOS APLICADOS À ADMINISTRAÇÃO             51    OB  7,77  APROVADO  
+MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OB  3,62  REPROVADO_NOTA  
 
 
                 Semestre 6
 
-MATC89  APLICAÇÕES PARA DISPOSITIVOS MÓVEIS                         68    OB  5,83  APROVADO  
-MAT220  EMPREENDEDORES EM INFORMATICA                               68    OB  9,03  APROVADO  
-MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OB  4,12  REPROVADO_NOTA  
-MATA76  LINGUAGENS PARA APLICAÇÃO COMERCIAL                         51    OB  0,07  REPROVADO_NOTA  
-ADMF01  SISTEMAS DE APOIO À DECISÃO                                 85    OB  0,72  REPROVADO_NOTA  
+MATC89  APLICAÇÕES PARA DISPOSITIVOS MÓVEIS                         68    OB  3,41  REPROVADO_NOTA  
+MAT220  EMPREENDEDORES EM INFORMATICA                               68    OB  9,22  APROVADO  
+MATB09  LABORATÓRIO DE BANCO DE DADOS                               51    OB  8,70  APROVADO  
+MATA76  LINGUAGENS PARA APLICAÇÃO COMERCIAL                         51    OB  2,51  REPROVADO_NOTA  
+ADMF01  SISTEMAS DE APOIO À DECISÃO                                 85    OB  0,25  REPROVADO_NOTA  
 
 
                 Semestre 7
 
-MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  0,72  REPROVADO_NOTA  
-MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  5,74  APROVADO  
-MATB02  QUALIDADE DE SOFTWARE                                       51    OB  4,45  REPROVADO_NOTA  
-MATC99  SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO             68    OB  5,46  APROVADO  
-MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  5,40  APROVADO  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OB  7,07  APROVADO  
+MATC72  INTERAÇÃO HUMANO-COMPUTADOR                                 68    OB  4,22  REPROVADO_NOTA  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OB  2,07  REPROVADO_NOTA  
+MATC99  SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO             68    OB  8,82  APROVADO  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OB  3,08  REPROVADO_NOTA  
 
 
                 Semestre 9
 
-MATC97  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO I                    51    OB  0,48  REPROVADO_NOTA  
+MATC97  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO I                    51    OB  9,61  APROVADO  
 
 
                 Semestre 10
 
-MATC98  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO II                   136   OB  6,58  APROVADO  
+MATC98  TCC BACHARELADO SISTEMAS DE INFORMAÇÃO II                   136   OB  6,77  APROVADO  
 
 
                 Optativas 
