@@ -37,7 +37,7 @@ public class Curso {
 		return false;
 	}
 
-	// Método para retornar uma disciplinaSelecionada pelo seu código
+	// MÃ©todo para retornar uma disciplinaSelecionada pelo seu cÃ³digo
 	public DisciplinaSelecionada getDisciplinaSelecionada(String codigo) {
 
 		Iterator<DisciplinaSelecionada> iterator = disciplinaSelecionada.iterator();

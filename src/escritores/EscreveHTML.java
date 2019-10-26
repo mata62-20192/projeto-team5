@@ -1,15 +1,11 @@
 package escritores;
 
 import java.io.BufferedWriter;
-
 import java.io.FileWriter;
-import java.util.Iterator;
 import java.util.List;
 
 import br.ufba.mata62.SistemaAcademico.Aluno;
-import br.ufba.mata62.SistemaAcademico.Curso;
 import br.ufba.mata62.SistemaAcademico.DisciplinaCursada;
-import br.ufba.mata62.SistemaAcademico.DisciplinaSelecionada;
 import br.ufba.mata62.SistemaAcademico.Historico;
 
 public class EscreveHTML {
@@ -33,7 +29,7 @@ public class EscreveHTML {
         try {
             Aluno aluno = historico.getAluno();
             
-            //Cria arquivo com o nome "Historico_nomeAluno"
+            //Cria arquivo com o nome "Historico_nomeAluno.html"
             FileWriter writer = new FileWriter("Historico_" + aluno.getNome() + ".html");
 
             
@@ -41,17 +37,17 @@ public class EscreveHTML {
             
             //Onde o html será escrito
             StringBuilder string = new StringBuilder();
-            string.append("<!DOCTYPE html><html><head><title>Hist�rico "+ aluno.getNome() +"</title><style>td{padding: 5px;}</style></head><body>");
+            string.append("<!DOCTYPE html><html><head><meta charset = \"utf-8\"><title>Histórico "+ aluno.getNome() +"</title><style>td{padding: 5px;}</style></head><body>");
             string.append("<p>Aluno: " + aluno.getNome() + "</p>");
-            string.append("<p>Matr��cula: " + aluno.getMatricula() + "</p>");         
+            string.append("<p>Matrícula: " + aluno.getMatricula() + "</p>");         
             string.append("<p>Curso: " + aluno.getCurso().getNome() + "</p>");
             string.append("<p>Score: " + aluno.getScore() + "</p>");
-            string.append("<p>Carga hor�ria cursada: " + historico.getchCursada() + " Horas</p>");
+            string.append("<p>Carga horária cursada: " + historico.getchCursada() + " Horas</p>");
             
             for(int i=0; i<5; i++)
                 string.append("<br>");
  
-            string.append("<h1>IMPRESS�O DE HIST�RICO</h1>");
+            string.append("<h1>IMPRESSÃO DE HISTÓRICO</h1>");
             
             
             //código, nome, carga horária, natureza, nota e conceito 

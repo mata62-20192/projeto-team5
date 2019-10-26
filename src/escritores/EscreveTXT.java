@@ -17,7 +17,7 @@ public class EscreveTXT {
 	public static void escreveListaAlunos(List<Aluno> alunos) {
 		
 		for(int index = 0; index < alunos.size(); index++) {
-			//Escreve histórico de cada aluno
+			//Escreve histÃ³rico de cada aluno
 			escreveHistoricoTXT(alunos.get(index).getHistorico());
 			//Escreve Curso
 			escreveCursoTXT(alunos.get(index).getCurso(), alunos.get(index).getNome());
@@ -26,7 +26,7 @@ public class EscreveTXT {
 	}
 	
 	
-	//Escreve o histórico do aluno
+	//Escreve o histÃ³rico do aluno
 	public static void escreveHistoricoTXT(Historico historico) {
 		
 		BufferedWriter txt = null;
@@ -39,14 +39,14 @@ public class EscreveTXT {
 			
 			txt = new BufferedWriter(writer);
 			
-			//Onde o txt será escrito
+			//Onde o txt serï¿½ escrito
 			StringBuilder string = new StringBuilder();
 			
 			string.append("Aluno: " + aluno.getNome() + "\n");
-			string.append("Matrícula: " + aluno.getMatricula() + "\n");			
+			string.append("MatrÃ­cula: " + aluno.getMatricula() + "\n");			
 			string.append("Curso: " + aluno.getCurso().getNome() + "\n");
 			string.append("Score: " + aluno.getScore() + "\n");
-			string.append("Carga horária cursada: " + historico.getchCursada() + " Horas\n");
+			string.append("Carga horÃ¡ria cursada: " + historico.getchCursada() + " Horas\n");
 
 			
 			string.append("\n\n\n\n\n");
@@ -54,12 +54,12 @@ public class EscreveTXT {
 			for(int i = 0; i < 8; i++)
 			string.append("  ");
 			
-			string.append("IMPRESSÃO DE HISTÓRICO\n\n");
+			string.append("IMPRESSÃƒO DE HISTÃ“RICO\n\n");
 			
 			
-			//código, nome, carga horária, natureza, nota e conceito 
+			//cÃ³digo, nome, carga horÃ¡ria, natureza, nota e conceito 
 			
-			//semestreAtual é usado para escrever o semestre no txt
+			//semestreAtual Ã© usado para escrever o semestre no txt
 			int semestreAtual = 1;
 
 				string.append("\n\n");
@@ -74,8 +74,8 @@ public class EscreveTXT {
 				DisciplinaCursada aux = historico.getDisciplinaCursada().get(index);
 				
 				if(semestreAtual != aux.getSemestre() && aux.getSemestre() != 0) {
-					//Se o semestreAtual é diferente do semestre da matéria e ela não
-					//é optativa
+					//Se o semestreAtual Ã© diferente do semestre da matÃ©ria e ela nÃ£o
+					//Ã© optativa
 						string.append("\n\n");
 					for(int i = 0; i < 8; i++)
 						string.append("  ");
@@ -95,7 +95,7 @@ public class EscreveTXT {
 				string.append(aux.getCodigo() + "  ");
 				
 				//Utiliza para deixar nomes alinhados, todos os nomes de disciplina
-				//terão 60 caracteres
+				//terÃ£o 60 caracteres
 				int tam = 60 - aux.getNome().length(); 
 				
 				if(aux.getNome().length() > 60)
@@ -123,7 +123,7 @@ public class EscreveTXT {
 				string.append("OP" + "  ");
 				
 				if(aux.getNota() == -1)
-					//Aluno não tem nota
+					//Aluno nÃ£o tem nota
 					string.append("---" + "  ");
 				else {
 					//Alinhando notas					
@@ -159,7 +159,7 @@ public class EscreveTXT {
 	
 	
 	
-	//Imprimindo no txt o currículo do curso dos alunos
+	//Imprimindo no txt o currÃ­culo do curso dos alunos
 	public static void escreveCursoTXT(Curso curso, String nomeAluno) {
 
 		BufferedWriter txt = null;
@@ -171,20 +171,20 @@ public class EscreveTXT {
 			
 			txt = new BufferedWriter(writer);
 			
-			//Onde o txt será escrito
+			//Onde o txt serÃ¡ escrito
 			StringBuilder string = new StringBuilder();
 			
 			string.append("Curso: " + curso.getNome() + "\n");
-			string.append("Código: " + curso.getCodigo() + "\n");			
+			string.append("CÃ³digo: " + curso.getCodigo() + "\n");			
 			string.append("CH: " + curso.getCh() + " Horas" + "\n");
-			string.append("Número de semestres: " + curso.getNumeroSemestres() + "\n");
+			string.append("NÃºmero de semestres: " + curso.getNumeroSemestres() + "\n");
 			
 			string.append("\n\n\n\n\n");
 			
 			for(int i = 0; i < 8; i++)
 			string.append("  ");
 			
-			string.append("IMPRESSÃO DE CURRÍCULO\n\n");
+			string.append("IMPRESSÃƒO DE CURRÃCULO\n\n");
 						
 			int semestreAtual = 1;
 
@@ -221,7 +221,7 @@ public class EscreveTXT {
 				string.append(aux.getCodigo() + "  ");
 				
 				//Utiliza para deixar nomes alinhados, todos os nomes de disciplina
-				//terão no máximo 60 caracteres
+				//terÃ£o no mÃ¡ximo 60 caracteres
 				int tam = 60 - aux.getNome().length(); 
 				
 				if(aux.getNome().length() > 60)

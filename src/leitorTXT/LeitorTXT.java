@@ -1,7 +1,6 @@
 package leitorTXT;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -15,7 +14,7 @@ public class LeitorTXT {
 	public static void leitor(Universidade universidade) {
 		Scanner scanner = null;
 		try {
-			File file = new File("universidadeutf8.txt");
+			File file = new File("universidade_utf8.txt");
 			System.out.println(file.getAbsolutePath());
 			scanner = new Scanner(file);
 
@@ -25,10 +24,10 @@ public class LeitorTXT {
 			int i, j, semestre, ch, materias;
 			boolean obrigatoria;
 
-			int totalSemestres = 0; // Verifica o n�mero total de semestres do curso
+			int totalSemestres = 0; // Verifica o número total de semestres do curso
 
 			for (i = 0; i < numCursos; i++) {
-				// Informa��es do curso
+				// Informações do curso
 				scanner.nextLine();
 
 				nome = scanner.nextLine();
@@ -39,7 +38,7 @@ public class LeitorTXT {
 				totalSemestres = 0;
 
 				for (j = 0; j < materias; j++) {
-					// Informa��es da mat�ria
+					// Informações da matéria
 					scanner.nextLine();
 
 					nome = scanner.nextLine();
@@ -55,7 +54,7 @@ public class LeitorTXT {
 						universidade.adicionaDisciplina(disciplina);
 					}
 
-					// Vendo se a mat�ria � obrigat�ria ou n�o
+					// Vendo se a matéria é obrigatória ou não
 					if (natureza.equals("OB"))
 						obrigatoria = true;
 					else

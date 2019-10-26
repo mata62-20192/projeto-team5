@@ -13,7 +13,7 @@ import leitorTXT.LeitorTXT;
 public class main {
 
 	public static void darNotas(Coordenador coordenador, List<Aluno> alunos) {
-		// D� notas aleat�rias para os alunos nas mat�rias obrigat�rias.
+		// Dá notas aleatórias para os alunos nas matérias obrigatórias.
 		// Utilizado apenas para teste
 
 		for (int i = 0; i < alunos.size(); i++) {
@@ -47,8 +47,8 @@ public class main {
 
 		Integer matricula = 1;
 
-		// Criando alunos aleat�rios
-		// Criando aluno de engenharia de computa��o
+		// Criando alunos aleatórios
+		// Criando aluno de engenharia de computação
 		Aluno aluno = new Aluno("Fulano", (matricula++).toString(), "Senha", "rg", "cpf",
 				universidade.getCurso("186140"));
 
@@ -69,7 +69,7 @@ public class main {
 				universidade.getCurso("195140"));
 		coordenador.adicionarAluno(aluno4);
 
-		// Dando notas aleat�rias para as disciplinas obrigat�rias
+		// Dando notas aleatórias para as disciplinas obrigatórias
 		darNotas(coordenador, universidade.getAlunos());
 
 		EscreveTXT.escreveListaAlunos(universidade.getAlunos());

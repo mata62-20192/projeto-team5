@@ -64,19 +64,19 @@ public class Universidade {
 		disciplinas.add(disciplina);
 	}
 
-	// Método que muda um professor na lista
+	// MÃ©todo que muda um professor na lista
 	public void alteraProfessor(Professor professor, int index) {
 		this.professores.set(index, professor);
 	}
 
-	// Método que muda um aluno na lista
+	// MÃ©todo que muda um aluno na lista
 	public void alteraAluno(Aluno aluno, int index) {
 		this.alunos.set(index, aluno);
 	}
 
 	// GETTERS E SETTERS
 
-	// Pegar uma disciplina pelo código
+	// Pegar uma disciplina pelo cÃ³digo
 	public Disciplina getDisciplina(String codigoDisciplina) {
 
 		for (int index = 0; index < cursos.size(); index++) {
@@ -86,7 +86,7 @@ public class Universidade {
 		return null;
 	}
 
-	// Pegar um curso pelo código
+	// Pegar um curso pelo cÃ³digo
 	public Curso getCurso(String codigoCurso) {
 
 		for (int index = 0; index < cursos.size(); index++) {

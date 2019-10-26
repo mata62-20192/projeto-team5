@@ -27,15 +27,15 @@ public class DisciplinaSelecionada implements Comparable<DisciplinaSelecionada> 
 
 	// Implementando TreeSet
 	// Organiza por semestre. Caso o semestre seja o mesmo,
-	// organiza por ordem alfabética
+	// organiza por ordem alfabÃ©tica
 	@Override
 	public int compareTo(DisciplinaSelecionada o) {
-		if (semestre != 0) { // Se a matéria é obrigatória
+		if (semestre != 0) { // Se a matÃ©ria Ã© obrigatÃ³ria
 			if (semestre - o.semestre != 0)
 				return semestre - o.semestre;
 			else
 				return disciplina.getNome().compareTo(o.getDisciplina().getNome());
-		} else // Se for optativa, vai pro final e é organizado por nome
+		} else // Se for optativa, vai pro final e Ã© organizado por nome
 		if (semestre - o.semestre != 0)
 			return o.semestre - semestre;
 		else

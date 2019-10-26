@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
-import java.util.TreeSet;
 
 import enums.Conceito;
 
@@ -20,16 +19,16 @@ public class Historico {
 
 		disciplinaCursada = new ArrayList<DisciplinaCursada>();
 
-		// Adicionando lista de mat�riaCursada do hist�rico, que � igual a lista
-		// de mat�riaSelecionada do curso
+		// Adicionando lista de matériaCursada do histórico, que é igual a lista
+		// de matériaSelecionada do curso
 		
 		System.out.println(aluno.getCurso());
 
 		this.preencheHistorico(disciplinaCursada, aluno.getCurso().getDisciplinaSelecionada());
 	}
 
-	// Preenche hist�rico com disciplinas do curso
-	// Private pois s� pode ser feito uma vez
+	// Preenche histórico com disciplinas do curso
+	// Private pois só pode ser feito uma vez
 	private void preencheHistorico(ArrayList<DisciplinaCursada> lista, Set<DisciplinaSelecionada> arvore) {
 		Iterator<DisciplinaSelecionada> iterator = arvore.iterator();
 
@@ -75,7 +74,7 @@ public class Historico {
 		this.disciplinaCursada.set(index, disciplinaCursada);
 	}
 
-	// M�todo para achar uma disciplinaCursada pelo c�digo
+	// Método para achar uma disciplinaCursada pelo código
 	public DisciplinaCursada getDisciplinaCursada(String codigoDisciplina) {
 		for (int index = 0; index < disciplinaCursada.size(); index++) {
 			if (disciplinaCursada.get(index).equals(codigoDisciplina))
@@ -84,7 +83,7 @@ public class Historico {
 		return null;
 	}
 
-	// M�todo para achar a posi��o da disciplina na lista
+	// Método para achar a posição da disciplina na lista
 	public int getDisciplinaCursadaIndex(String codigoDisciplina) {
 
 		DisciplinaCursada aux = this.getDisciplinaCursada(codigoDisciplina);

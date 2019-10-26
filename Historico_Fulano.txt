@@ -1,8 +1,8 @@
 Aluno: Fulano
 Matrícula: 1
 Curso: ENGENHARIA DE COMPUTAÇÃO - BACHARELADO  - NOTURNO - SALVADOR
-Score: 5.44
-Carga horária cursada: 2397 Horas
+Score: 4.94
+Carga horária cursada: 1530 Horas
 
 
 
@@ -14,173 +14,173 @@ Carga horária cursada: 2397 Horas
 
                 Semestre 1
 
-MATA02  CÁLCULO A                                                   102   OB  5,95  APROVADO  
-FIS121  FISICA GERAL E EXPERIMENTAL  I-E                            102   OB  2,52  REPROVADONOTA  
-MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  8,86  APROVADO  
-QUI029  QUIMICA GERAL                                               68    OB  9,72  APROVADO  
+MATA02  CÁLCULO A                                                   102   OB  3,98  REPROVADO_NOTA  
+FIS121  FISICA GERAL E EXPERIMENTAL  I-E                            102   OB  8,45  APROVADO  
+MATA01  GEOMETRIA  ANALÍTICA                                        68    OB  9,40  APROVADO  
+QUI029  QUIMICA GERAL                                               68    OB  5,97  APROVADO  
 
 
                 Semestre 2
 
-MATA03  CÁLCULO B                                                   102   OB  5,87  APROVADO  
-FIS122  FISICA  GERAL E EXPERIMENTAL  II-E                          102   OB  6,61  APROVADO  
-ENGG51  INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO                       34    OB  2,44  REPROVADONOTA  
-ENGC26  SISTEMAS LÓGICOS                                            34    OB  0,75  REPROVADONOTA  
-MATA07  ÁLGEBRA LINEAR A                                            68    OB  8,04  APROVADO  
+MATA03  CÁLCULO B                                                   102   OB  9,03  APROVADO  
+FIS122  FISICA  GERAL E EXPERIMENTAL  II-E                          102   OB  6,70  APROVADO  
+ENGG51  INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO                       34    OB  7,28  APROVADO  
+ENGC26  SISTEMAS LÓGICOS                                            34    OB  2,08  REPROVADO_NOTA  
+MATA07  ÁLGEBRA LINEAR A                                            68    OB  3,96  REPROVADO_NOTA  
 
 
                 Semestre 3
 
-MATA04  CÁLCULO C                                                   102   OB  8,55  APROVADO  
-ENGC40  ELETRÔNICA DIGITAL                                          34    OB  5,52  APROVADO  
-FIS123  FISICA  GERAL E EXPERIMENTAL  III-E                         102   OB  1,88  REPROVADONOTA  
-MATA97  MATEMÁTICA DISCRETA II                                      68    OB  5,51  APROVADO  
-ENGA47  TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA         34    OB  3,64  REPROVADONOTA  
+MATA04  CÁLCULO C                                                   102   OB  9,98  APROVADO  
+ENGC40  ELETRÔNICA DIGITAL                                          34    OB  7,85  APROVADO  
+FIS123  FISICA  GERAL E EXPERIMENTAL  III-E                         102   OB  0,86  REPROVADO_NOTA  
+MATA97  MATEMÁTICA DISCRETA II                                      68    OB  8,57  APROVADO  
+ENGA47  TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA         34    OB  3,65  REPROVADO_NOTA  
 
 
                 Semestre 4
 
-ENGC32  ANÁLISE DE CIRCUITOS  I                                     68    OB  6,49  APROVADO  
-ENG269  CIÊNCIAS DO AMBIENTE                                        68    OB  7,26  APROVADO  
-MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  5,12  APROVADO  
-ENGC30  MECÂNICA DOS SÓLIDOS                                        68    OB  5,54  APROVADO  
-MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  1,14  REPROVADONOTA  
+ENGC32  ANÁLISE DE CIRCUITOS  I                                     68    OB  3,33  REPROVADO_NOTA  
+ENG269  CIÊNCIAS DO AMBIENTE                                        68    OB  0,56  REPROVADO_NOTA  
+MATA37  INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO                          68    OB  9,59  APROVADO  
+ENGC30  MECÂNICA DOS SÓLIDOS                                        68    OB  4,02  REPROVADO_NOTA  
+MAT236  MÉTODOS ESTATÍSTICOS                                        68    OB  9,10  APROVADO  
 
 
                 Semestre 5
 
-ENGC25  ANALISE DE CIRCUITOS II                                     68    OB  8,59  APROVADO  
-ENGC41  DISPOSITIVOS  ELETRÔNICOS                                   68    OB  2,54  REPROVADONOTA  
-ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OB  5,60  APROVADO  
-MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  7,41  APROVADO  
-ENGG62  METODOLOGIA E EXPRESSÃO  DO CONHECIMENTO CIENTÍFICO         34    OB  6,94  APROVADO  
-ENGC24  SINAIS E SISTEMAS I                                         68    OB  8,58  APROVADO  
+ENGC25  ANALISE DE CIRCUITOS II                                     68    OB  0,55  REPROVADO_NOTA  
+ENGC41  DISPOSITIVOS  ELETRÔNICOS                                   68    OB  0,63  REPROVADO_NOTA  
+ENGG52  LABORATÓRIO INTEGRADO I-A                                   34    OB  0,16  REPROVADO_NOTA  
+MATA47  LÓGICA PARA COMPUTAÇÃO                                      68    OB  0,67  REPROVADO_NOTA  
+ENGG62  METODOLOGIA E EXPRESSÃO  DO CONHECIMENTO CIENTÍFICO         34    OB  2,31  REPROVADO_NOTA  
+ENGC24  SINAIS E SISTEMAS I                                         68    OB  6,42  APROVADO  
 
 
                 Semestre 6
 
-MAT174  CALCULO NUMÉRICO  I                                         68    OB  5,27  APROVADO  
-MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  3,03  REPROVADONOTA  
-ENG370  FENÔMENOS DE TRANSPORTES I                                  68    OB  7,10  APROVADO  
-ENGC33  SINAIS E SISTEMAS  II                                       68    OB  8,59  APROVADO  
-ENGC50  SISTEMAS MICROPROCESSADOS                                   68    OB  1,58  REPROVADONOTA  
+MAT174  CALCULO NUMÉRICO  I                                         68    OB  3,60  REPROVADO_NOTA  
+MATA40  ESTRUTURAS DE DADOS E ALGORITMOS I                          68    OB  8,96  APROVADO  
+ENG370  FENÔMENOS DE TRANSPORTES I                                  68    OB  2,03  REPROVADO_NOTA  
+ENGC33  SINAIS E SISTEMAS  II                                       68    OB  6,83  APROVADO  
+ENGC50  SISTEMAS MICROPROCESSADOS                                   68    OB  4,36  REPROVADO_NOTA  
 
 
                 Semestre 7
 
-MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  8,82  APROVADO  
-ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OB  3,20  REPROVADONOTA  
-ENGC63  PROCESSAMENTO DIGITAL DE SINAIS                             68    OB  6,04  APROVADO  
-MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  8,20  APROVADO  
-MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  7,51  APROVADO  
+MATA52  ANÁLISE E PROJETO DE ALGORITMOS                             68    OB  1,86  REPROVADO_NOTA  
+ENGG53  LABORATÓRIO INTEGRADO II-A                                  34    OB  7,16  APROVADO  
+ENGC63  PROCESSAMENTO DIGITAL DE SINAIS                             68    OB  6,19  APROVADO  
+MATA49  PROGRAMAÇÃO DE SOFTWARE BÁSICO                              68    OB  2,32  REPROVADO_NOTA  
+MATA55  PROGRAMAÇÃO ORIENTADA A OBJETOS                             68    OB  1,33  REPROVADO_NOTA  
 
 
                 Semestre 8
 
-ENGG54  LABORATÓRIO INTEGRADO III-A                                 34    OB  3,19  REPROVADONOTA  
-ENGG56  PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS                    68    OB  4,55  REPROVADONOTA  
-MATA59  REDES DE COMPUTADORES I                                     68    OB  8,57  APROVADO  
-MATA58  SISTEMAS OPERACIONAIS                                       68    OB  1,59  REPROVADONOTA  
-MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  5,59  APROVADO  
+ENGG54  LABORATÓRIO INTEGRADO III-A                                 34    OB  8,32  APROVADO  
+ENGG56  PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS                    68    OB  1,66  REPROVADO_NOTA  
+MATA59  REDES DE COMPUTADORES I                                     68    OB  3,93  REPROVADO_NOTA  
+MATA58  SISTEMAS OPERACIONAIS                                       68    OB  1,76  REPROVADO_NOTA  
+MATA51  TEORIA DA COMPUTAÇÃO                                        68    OB  1,04  REPROVADO_NOTA  
 
 
                 Semestre 9
 
-MATA61  COMPILADORES                                                68    OB  7,14  APROVADO  
-MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  6,54  APROVADO  
-ENGG57  LABORATÓRIO INTEGRADO IV-A                                  34    OB  3,81  REPROVADONOTA  
-ENGD33  PROGRAMAÇÃO EM TEMPO REAL PARA SISTEMAS EMBARCADOS          68    OB  4,89  REPROVADONOTA  
-MATA82  SISTEMAS DE TEMPO REAL                                      68    OB  0,27  REPROVADONOTA  
+MATA61  COMPILADORES                                                68    OB  4,48  REPROVADO_NOTA  
+MATA62  ENGENHARIA DE SOFTWARE I                                    68    OB  4,90  REPROVADO_NOTA  
+ENGG57  LABORATÓRIO INTEGRADO IV-A                                  34    OB  7,83  APROVADO  
+ENGD33  PROGRAMAÇÃO EM TEMPO REAL PARA SISTEMAS EMBARCADOS          68    OB  4,34  REPROVADO_NOTA  
+MATA82  SISTEMAS DE TEMPO REAL                                      68    OB  3,04  REPROVADO_NOTA  
 
 
                 Semestre 10
 
-ECO151  ECONOMIA E FINANÇAS                                         68    OB  6,25  APROVADO  
-ENGG58  INTERFACE HOMEM-MÁQUINA                                     68    OB  0,44  REPROVADONOTA  
-ENGG55  REDES INDUSTRIAIS                                           68    OB  7,33  APROVADO  
+ECO151  ECONOMIA E FINANÇAS                                         68    OB  8,26  APROVADO  
+ENGG58  INTERFACE HOMEM-MÁQUINA                                     68    OB  4,32  REPROVADO_NOTA  
+ENGG55  REDES INDUSTRIAIS                                           68    OB  4,12  REPROVADO_NOTA  
 
 
                 Semestre 11
 
-ENGG59  ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO                         170   OB  8,85  APROVADO  
-ENGG60  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO  I      17    OB  5,99  APROVADO  
+ENGG59  ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO                         170   OB  8,50  APROVADO  
+ENGG60  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO  I      17    OB  5,87  APROVADO  
 
 
                 Semestre 12
 
-ADM012  ADMINISTRACAO                                               68    OB  9,76  APROVADO  
-DIR175  LEGISLAÇÃO SOCIAL                                           68    OB  1,85  REPROVADONOTA  
-ENGG61  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II      17    OB  1,49  REPROVADONOTA  
+ADM012  ADMINISTRACAO                                               68    OB  2,58  REPROVADO_NOTA  
+DIR175  LEGISLAÇÃO SOCIAL                                           68    OB  9,90  APROVADO  
+ENGG61  TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II      17    OB  7,36  APROVADO  
 
 
                 Optativas 
 
-ENGG63  AGENTES AUTÔNOMOS E SISTEMAS MULTIAGENTES                   68    OP  ---  NAOFEITA  
-MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  ---  NAOFEITA  
-MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  ---  NAOFEITA  
-MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÍDOS                       51    OP  ---  NAOFEITA  
-ENGG66  AVALIAÇÃO E DESEMPENHO DE SISTEMAS                          68    OP  ---  NAOFEITA  
-MATA60  BANCO DE DADOS                                              68    OP  ---  NAOFEITA  
-MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OP  ---  NAOFEITA  
-MATA65  COMPUTAÇÃO GRÁFICA                                          68    OP  ---  NAOFEITA  
-ENGC67  CONTROLE DE SISTEMAS A EVENTOS DISCRETOS                    68    OP  ---  NAOFEITA  
-MATA06  CÁLCULO E                                                   102   OP  ---  NAOFEITA  
-ENGC34  ELETROMAGNETISMO APLICADO                                   68    OP  ---  NAOFEITA  
-MATA63  ENGENHARIA DE SOFTWARE II                                   68    OP  ---  NAOFEITA  
-MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OP  ---  NAOFEITA  
-MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OP  ---  NAOFEITA  
-FIS124  FÍSICA  GERAL E EXPERIMENTAL  IV-E                          102   OP  ---  NAOFEITA  
-ENG295  HIGIENE E SEGURANÇA NO TRABALHO                             68    OP  ---  NAOFEITA  
-MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OP  ---  NAOFEITA  
-ENGA77  INSTRUMENTACAO INDUSTRIAL                                   68    OP  ---  NAOFEITA  
-ENGC59  INSTRUMENTAÇAO ELETRONICA                                   68    OP  ---  NAOFEITA  
-ENGA74  INTELIGENCIA COMPUTACIONAL                                  68    OP  ---  NAOFEITA  
-MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OP  ---  NAOFEITA  
-MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OP  ---  NAOFEITA  
-ENGC66  INTRODUÇAO AO CONTROLE DE PROCESSOS INDUSTRIAIS             68    OP  ---  NAOFEITA  
-ENGC75  INTRODUÇAO À ROBOTICA                                       68    OP  ---  NAOFEITA  
-MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OP  ---  NAOFEITA  
-LETE46  Libras-Língua Brasileira de Sinais                          34    OP  ---  NAOFEITA  
-ENGC35  MODELAGEM E ANÁLISE DE SISTEMAS  DINÂMICOS                  68    OP  ---  NAOFEITA  
-MATA69  MODELAGEM E SIMULAÇÃO DE SISTEMAS                           68    OP  ---  NAOFEITA  
-MATB13  MÉTODOS FORMAIS                                             51    OP  ---  NAOFEITA  
-ENG574  OTIMIZACAO                                                  68    OP  ---  NAOFEITA  
-MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OP  ---  NAOFEITA  
-ENGA84  PROCESSADORES DIGITAIS DE SINAIS                            68    OP  ---  NAOFEITA  
-ENG577  PROCESSAMENTO DIGITAL DE SINAIS                             68    OP  ---  NAOFEITA  
-ENGA83  PROCESSAMENTO ESTATISTICO DE SINAIS                         68    OP  ---  NAOFEITA  
-ENG573  PROCESSOS ESTOCASTICOS                                      68    OP  ---  NAOFEITA  
-MATA77  PROGRAMAÇÃO FUNCIONAL                                       68    OP  ---  NAOFEITA  
-MATB02  QUALIDADE DE SOFTWARE                                       51    OP  ---  NAOFEITA  
-MATA85  REDES DE COMPUTADORES II                                    68    OP  ---  NAOFEITA  
-MATB24  ROBÓTICA INTELIGENTE                                        51    OP  ---  NAOFEITA  
-MATA87  SEGURANÇA DA INFORMAÇÃO                                     68    OP  ---  NAOFEITA  
-MATA75  SEMÂNTICA DE LINGUAGEM DE PROGRAMAÇÃO                       68    OP  ---  NAOFEITA  
-ENGA78  SINTESE DE CIRCUITOS DIGITAIS                               68    OP  ---  NAOFEITA  
-ENGC61  SISTEMAS DE COMUNICAÇOES  II                                68    OP  ---  NAOFEITA  
-ENGA48  SISTEMAS DE COMUNICAÇÃO SEM FIO                             68    OP  ---  NAOFEITA  
-ENGC27  SISTEMAS DE COMUNICAÇÕES  I                                 68    OP  ---  NAOFEITA  
-ENGC42  SISTEMAS DE CONTROLE  I                                     68    OP  ---  NAOFEITA  
-ENGC64  SISTEMAS DE CONTROLE  II                                    68    OP  ---  NAOFEITA  
-ENGC65  SISTEMAS DE CONTROLE  III                                   68    OP  ---  NAOFEITA  
-MATB19  SISTEMAS MULTIMÍDIA                                         68    OP  ---  NAOFEITA  
-ENGA73  SISTEMAS ROBOTICOS                                          68    OP  ---  NAOFEITA  
-ENGC46  SÍNTESE DE CIRCUITOS                                        34    OP  ---  NAOFEITA  
-MATA53  TEORIA DOS GRAFOS                                           68    OP  ---  NAOFEITA  
-ENGG65  TV DIGITAL                                                  68    OP  ---  NAOFEITA  
-MATA72  TÓPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  ---  NAOFEITA  
-MATB10  TÓPICOS EM BANCO DE DADOS                                   51    OP  ---  NAOFEITA  
-MATB12  TÓPICOS EM COMPILADORES                                     51    OP  ---  NAOFEITA  
-MATA74  TÓPICOS EM COMPUTAÇÃO E ALGORITMOS                          51    OP  ---  NAOFEITA  
-MATB25  TÓPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  ---  NAOFEITA  
-MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  ---  NAOFEITA  
-MATA79  TÓPICOS EM PROGRAMAÇÃO                                      51    OP  ---  NAOFEITA  
-MATA86  TÓPICOS EM REDES DE COMPUTADORES                            51    OP  ---  NAOFEITA  
-MATB06  TÓPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  ---  NAOFEITA  
-MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  ---  NAOFEITA  
-MATA83  TÓPICOS EM SISTEMAS OPERACIONAIS                            51    OP  ---  NAOFEITA  
-ENGG67  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I             0    OP  ---  NAOFEITA  
-ENGG68  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO II            0    OP  ---  NAOFEITA  
-ENGG69  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO III           0    OP  ---  NAOFEITA  
-MATB15  VALIDAÇÃO DE SOFTWARE                                       51    OP  ---  NAOFEITA  
-ENGG64  VISÃO COMPUTACIONAL                                         68    OP  ---  NAOFEITA  
+ENGG63  AGENTES AUTÔNOMOS E SISTEMAS MULTIAGENTES                   68    OP  ---  NAO_FEITA  
+MATA90  ALGORITMOS DISTRIBUIDOS                                     51    OP  ---  NAO_FEITA  
+MATB21  AMBIENTES INTERATIVOS DE APRENDIZAGEM                       68    OP  ---  NAO_FEITA  
+MATA89  ARQUITETURAS DE SISTEMAS DISTRIBUÍDOS                       51    OP  ---  NAO_FEITA  
+ENGG66  AVALIAÇÃO E DESEMPENHO DE SISTEMAS                          68    OP  ---  NAO_FEITA  
+MATA60  BANCO DE DADOS                                              68    OP  ---  NAO_FEITA  
+MATA68  COMPUTADOR, ÉTICA E SOCIEDADE                               51    OP  ---  NAO_FEITA  
+MATA65  COMPUTAÇÃO GRÁFICA                                          68    OP  ---  NAO_FEITA  
+ENGC67  CONTROLE DE SISTEMAS A EVENTOS DISCRETOS                    68    OP  ---  NAO_FEITA  
+MATA06  CÁLCULO E                                                   102   OP  ---  NAO_FEITA  
+ENGC34  ELETROMAGNETISMO APLICADO                                   68    OP  ---  NAO_FEITA  
+MATA63  ENGENHARIA DE SOFTWARE II                                   68    OP  ---  NAO_FEITA  
+MATA54  ESTRUTURAS DE DADOS E ALGORITMOS II                         68    OP  ---  NAO_FEITA  
+MATA88  FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS                        51    OP  ---  NAO_FEITA  
+FIS124  FÍSICA  GERAL E EXPERIMENTAL  IV-E                          102   OP  ---  NAO_FEITA  
+ENG295  HIGIENE E SEGURANÇA NO TRABALHO                             68    OP  ---  NAO_FEITA  
+MATA41  INFORMÁTICA NA EDUCAÇÃO                                     68    OP  ---  NAO_FEITA  
+ENGA77  INSTRUMENTACAO INDUSTRIAL                                   68    OP  ---  NAO_FEITA  
+ENGC59  INSTRUMENTAÇAO ELETRONICA                                   68    OP  ---  NAO_FEITA  
+ENGA74  INTELIGENCIA COMPUTACIONAL                                  68    OP  ---  NAO_FEITA  
+MATA64  INTELIGÊNCIA ARTIFICIAL                                     68    OP  ---  NAO_FEITA  
+MATB20  INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO                         68    OP  ---  NAO_FEITA  
+ENGC66  INTRODUÇAO AO CONTROLE DE PROCESSOS INDUSTRIAIS             68    OP  ---  NAO_FEITA  
+ENGC75  INTRODUÇAO À ROBOTICA                                       68    OP  ---  NAO_FEITA  
+MATA50  LINGUAGENS FORMAIS E AUTÔMATOS                              68    OP  ---  NAO_FEITA  
+LETE46  Libras-Língua Brasileira de Sinais                          34    OP  ---  NAO_FEITA  
+ENGC35  MODELAGEM E ANÁLISE DE SISTEMAS  DINÂMICOS                  68    OP  ---  NAO_FEITA  
+MATA69  MODELAGEM E SIMULAÇÃO DE SISTEMAS                           68    OP  ---  NAO_FEITA  
+MATB13  MÉTODOS FORMAIS                                             51    OP  ---  NAO_FEITA  
+ENG574  OTIMIZACAO                                                  68    OP  ---  NAO_FEITA  
+MATA56  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO                     68    OP  ---  NAO_FEITA  
+ENGA84  PROCESSADORES DIGITAIS DE SINAIS                            68    OP  ---  NAO_FEITA  
+ENG577  PROCESSAMENTO DIGITAL DE SINAIS                             68    OP  ---  NAO_FEITA  
+ENGA83  PROCESSAMENTO ESTATISTICO DE SINAIS                         68    OP  ---  NAO_FEITA  
+ENG573  PROCESSOS ESTOCASTICOS                                      68    OP  ---  NAO_FEITA  
+MATA77  PROGRAMAÇÃO FUNCIONAL                                       68    OP  ---  NAO_FEITA  
+MATB02  QUALIDADE DE SOFTWARE                                       51    OP  ---  NAO_FEITA  
+MATA85  REDES DE COMPUTADORES II                                    68    OP  ---  NAO_FEITA  
+MATB24  ROBÓTICA INTELIGENTE                                        51    OP  ---  NAO_FEITA  
+MATA87  SEGURANÇA DA INFORMAÇÃO                                     68    OP  ---  NAO_FEITA  
+MATA75  SEMÂNTICA DE LINGUAGEM DE PROGRAMAÇÃO                       68    OP  ---  NAO_FEITA  
+ENGA78  SINTESE DE CIRCUITOS DIGITAIS                               68    OP  ---  NAO_FEITA  
+ENGC61  SISTEMAS DE COMUNICAÇOES  II                                68    OP  ---  NAO_FEITA  
+ENGA48  SISTEMAS DE COMUNICAÇÃO SEM FIO                             68    OP  ---  NAO_FEITA  
+ENGC27  SISTEMAS DE COMUNICAÇÕES  I                                 68    OP  ---  NAO_FEITA  
+ENGC42  SISTEMAS DE CONTROLE  I                                     68    OP  ---  NAO_FEITA  
+ENGC64  SISTEMAS DE CONTROLE  II                                    68    OP  ---  NAO_FEITA  
+ENGC65  SISTEMAS DE CONTROLE  III                                   68    OP  ---  NAO_FEITA  
+MATB19  SISTEMAS MULTIMÍDIA                                         68    OP  ---  NAO_FEITA  
+ENGA73  SISTEMAS ROBOTICOS                                          68    OP  ---  NAO_FEITA  
+ENGC46  SÍNTESE DE CIRCUITOS                                        34    OP  ---  NAO_FEITA  
+MATA53  TEORIA DOS GRAFOS                                           68    OP  ---  NAO_FEITA  
+ENGG65  TV DIGITAL                                                  68    OP  ---  NAO_FEITA  
+MATA72  TÓPICOS EM ARQUITETURA DE COMPUTADORES                      51    OP  ---  NAO_FEITA  
+MATB10  TÓPICOS EM BANCO DE DADOS                                   51    OP  ---  NAO_FEITA  
+MATB12  TÓPICOS EM COMPILADORES                                     51    OP  ---  NAO_FEITA  
+MATA74  TÓPICOS EM COMPUTAÇÃO E ALGORITMOS                          51    OP  ---  NAO_FEITA  
+MATB25  TÓPICOS EM ENGENHARIA DE SOFTWARE                           51    OP  ---  NAO_FEITA  
+MATB05  TÓPICOS EM INTELIGÊNCIA ARTIFICIAL                          51    OP  ---  NAO_FEITA  
+MATA79  TÓPICOS EM PROGRAMAÇÃO                                      51    OP  ---  NAO_FEITA  
+MATA86  TÓPICOS EM REDES DE COMPUTADORES                            51    OP  ---  NAO_FEITA  
+MATB06  TÓPICOS EM SISTEMAS DISTRIBUIDOS                            51    OP  ---  NAO_FEITA  
+MATB26  TÓPICOS EM SISTEMAS MULTIMÍDIA                              51    OP  ---  NAO_FEITA  
+MATA83  TÓPICOS EM SISTEMAS OPERACIONAIS                            51    OP  ---  NAO_FEITA  
+ENGG67  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I             0    OP  ---  NAO_FEITA  
+ENGG68  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO II            0    OP  ---  NAO_FEITA  
+ENGG69  TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO III           0    OP  ---  NAO_FEITA  
+MATB15  VALIDAÇÃO DE SOFTWARE                                       51    OP  ---  NAO_FEITA  
+ENGG64  VISÃO COMPUTACIONAL                                         68    OP  ---  NAO_FEITA  

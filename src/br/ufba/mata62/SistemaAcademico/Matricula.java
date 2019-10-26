@@ -9,8 +9,8 @@ public class Matricula {
 	private ArrayList<Turma> turmasEscolhidas;
 	private ArrayList<Turma> turmasDisponiveis;
 
-	// Matricula recebe histórico e curso para saber quais matérias
-	// estarão disponíveis para o aluno
+	// Matricula recebe histÃ³rico e curso para saber quais matÃ©rias
+	// estarÃ£o disponÃ­veis para o aluno
 	private Historico historico;
 	private Curso curso;
 

@@ -36,22 +36,22 @@ public class Coordenador extends Professor {
 	 * disciplinaCursada) { universidade.getAlunos(). }
 	 */
 
-	// M�todo para o Coordenador dar conceito a uma mat�ria de um aluno
+	// Método para o Coordenador dar conceito a uma matéria de um aluno
 	public void darConceito(Aluno aluno, String codigoDisciplina, Conceito conceito) {
 
-		// Cria DisciplinaCursada e busca na lista do hist�rico
+		// Cria DisciplinaCursada e busca na lista do histórico
 		DisciplinaCursada disciplinaCursada = aluno.getHistorico().getDisciplinaCursada(codigoDisciplina);
 
-		// Faz busca na lista pela posi��o da disciplina que receber� a nota
+		// Faz busca na lista pela posição da disciplina que receberá a nota
 		int index = aluno.getHistorico().getDisciplinaCursadaIndex(codigoDisciplina);
 
-		if (index == -1) // Disciplina n�o existe para o aluno
-			throw new NoSuchElementException("Disciplina n�o existe para o aluno");
+		if (index == -1) // Disciplina não existe para o aluno
+			throw new NoSuchElementException("Disciplina não existe para o aluno");
 
-		// Se o conceito for aprovado ou reprovado por nota, n�o ser� poss�vel dar o
+		// Se o conceito for aprovado ou reprovado por nota, não será possivel dar o
 		// conceito sem nota
 		if (conceito.equals(Conceito.APROVADO) || conceito.equals(Conceito.REPROVADO_NOTA))
-			System.out.println("N�o � poss�vel dar o conceito " + conceito + " sem nota");
+			System.out.println("Não é possível dar o conceito " + conceito + " sem nota");
 
 		else {
 			disciplinaCursada.setConceito(conceito);
@@ -62,14 +62,14 @@ public class Coordenador extends Professor {
 
 	public void darNota(Aluno aluno, String codigoDisciplina, float nota) {
 
-		// Cria DisciplinaCursada e busca na lista do hist�rico
+		// Cria DisciplinaCursada e busca na lista do histórico
 		DisciplinaCursada disciplinaCursada = aluno.getHistorico().getDisciplinaCursada(codigoDisciplina);
 
-		// Faz busca na lista pela posi��o da disciplina que receber� a nota
+		// Faz busca na lista pela posição da disciplina que receberá a nota
 		int index = aluno.getHistorico().getDisciplinaCursadaIndex(codigoDisciplina);
 
 		if (index == -1) // Disciplina n�o existe para o aluno
-			throw new NoSuchElementException("Disciplina n�o existe para o aluno");
+			throw new NoSuchElementException("Disciplina não existe para o aluno");
 
 		disciplinaCursada.setNota(nota);
 
@@ -93,7 +93,7 @@ public class Coordenador extends Professor {
 
 		Professor professor = turma.getProfessor();
 
-		// Buscando �ndice do professor
+		// Buscando índice do professor
 		int index = universidade.getProfessores().indexOf(professor);
 
 		// Adicionando a turma ao professor
