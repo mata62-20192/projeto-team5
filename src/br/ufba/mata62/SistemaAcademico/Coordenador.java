@@ -36,22 +36,22 @@ public class Coordenador extends Professor {
 	 * disciplinaCursada) { universidade.getAlunos(). }
 	 */
 
-	// Método para o Coordenador dar conceito a uma matéria de um aluno
+	// Mï¿½todo para o Coordenador dar conceito a uma matï¿½ria de um aluno
 	public void darConceito(Aluno aluno, String codigoDisciplina, Conceito conceito) {
 
-		// Cria DisciplinaCursada e busca na lista do histórico
+		// Cria DisciplinaCursada e busca na lista do histï¿½rico
 		DisciplinaCursada disciplinaCursada = aluno.getHistorico().getDisciplinaCursada(codigoDisciplina);
 
-		// Faz busca na lista pela posição da disciplina que receberá a nota
+		// Faz busca na lista pela posiï¿½ï¿½o da disciplina que receberï¿½ a nota
 		int index = aluno.getHistorico().getDisciplinaCursadaIndex(codigoDisciplina);
 
-		if (index == -1) // Disciplina não existe para o aluno
-			throw new NoSuchElementException("Disciplina não existe para o aluno");
+		if (index == -1) // Disciplina nï¿½o existe para o aluno
+			throw new NoSuchElementException("Disciplina nï¿½o existe para o aluno");
 
-		// Se o conceito for aprovado ou reprovado por nota, não será possível dar o
+		// Se o conceito for aprovado ou reprovado por nota, nï¿½o serï¿½ possï¿½vel dar o
 		// conceito sem nota
-		if (conceito.equals(Conceito.APROVADO) || conceito.equals(Conceito.REPROVADONOTA))
-			System.out.println("Não é possível dar o conceito " + conceito + " sem nota");
+		if (conceito.equals(Conceito.APROVADO) || conceito.equals(Conceito.REPROVADO_NOTA))
+			System.out.println("Nï¿½o ï¿½ possï¿½vel dar o conceito " + conceito + " sem nota");
 
 		else {
 			disciplinaCursada.setConceito(conceito);
@@ -62,21 +62,21 @@ public class Coordenador extends Professor {
 
 	public void darNota(Aluno aluno, String codigoDisciplina, float nota) {
 
-		// Cria DisciplinaCursada e busca na lista do histórico
+		// Cria DisciplinaCursada e busca na lista do histï¿½rico
 		DisciplinaCursada disciplinaCursada = aluno.getHistorico().getDisciplinaCursada(codigoDisciplina);
 
-		// Faz busca na lista pela posição da disciplina que receberá a nota
+		// Faz busca na lista pela posiï¿½ï¿½o da disciplina que receberï¿½ a nota
 		int index = aluno.getHistorico().getDisciplinaCursadaIndex(codigoDisciplina);
 
-		if (index == -1) // Disciplina não existe para o aluno
-			throw new NoSuchElementException("Disciplina não existe para o aluno");
+		if (index == -1) // Disciplina nï¿½o existe para o aluno
+			throw new NoSuchElementException("Disciplina nï¿½o existe para o aluno");
 
 		disciplinaCursada.setNota(nota);
 
 		if (nota >= 5.0)
 			disciplinaCursada.setConceito(Conceito.APROVADO);
 		else
-			disciplinaCursada.setConceito(Conceito.REPROVADONOTA);
+			disciplinaCursada.setConceito(Conceito.REPROVADO_NOTA);
 
 		// Altera disciplina com nova nota
 		aluno.getHistorico().alteraDisciplinaCursada(index, disciplinaCursada);
@@ -93,7 +93,7 @@ public class Coordenador extends Professor {
 
 		Professor professor = turma.getProfessor();
 
-		// Buscando índice do professor
+		// Buscando ï¿½ndice do professor
 		int index = universidade.getProfessores().indexOf(professor);
 
 		// Adicionando a turma ao professor

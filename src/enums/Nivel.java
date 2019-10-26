@@ -1,5 +1,7 @@
 package enums;
 
 public enum Nivel {
-	GRADUADO, MESTRADO, DOUTORADO;
+	GRADUADO, 
+	MESTRADO, 
+	DOUTORADO;
 }

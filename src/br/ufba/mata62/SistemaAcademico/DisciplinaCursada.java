@@ -10,7 +10,7 @@ public class DisciplinaCursada {
 
 	public DisciplinaCursada(DisciplinaSelecionada disciplinaSelecionada) {
 		this.disciplinaSelecionada = disciplinaSelecionada;
-		this.conceito = Conceito.NAOFEITA;
+		this.conceito = Conceito.NAO_FEITA;
 		this.nota = (float) -1;
 	}
 
