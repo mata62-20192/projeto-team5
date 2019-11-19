@@ -1,4 +1,4 @@
-package br.ufba.mata62.SistemaAcademico;
+package br.ufba.mata62.SistemaAcademico.domain;
 
 import java.sql.Time;
 import java.util.Date;

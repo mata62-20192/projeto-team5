@@ -1,4 +1,4 @@
-package br.ufba.mata62.SistemaAcademico;
+package br.ufba.mata62.SistemaAcademico.domain;
 
 public class Disciplina {
 

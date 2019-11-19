@@ -1,4 +1,4 @@
-package br.ufba.mata62.SistemaAcademico;
+package br.ufba.mata62.SistemaAcademico.domain;
 
 public class Aluno extends Pessoa {
 
@@ -15,18 +15,12 @@ public class Aluno extends Pessoa {
 
 		this.curso = curso;
 		this.historico = new Historico(this);
+		
+		score = (float) 0;
 	}
 
 	public void matricula() {
 		matricula = new Matricula(historico, curso);
-	}
-
-	public void calculaSemestre() {
-
-	}
-
-	public void calculaScore() {
-		score = historico.calculaScore();
 	}
 
 	// GETTERS E SETTERS
