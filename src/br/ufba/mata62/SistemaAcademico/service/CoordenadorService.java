@@ -6,22 +6,33 @@ import java.util.NoSuchElementException;
 import br.ufba.mata62.SistemaAcademico.domain.Aluno;
 import br.ufba.mata62.SistemaAcademico.domain.Coordenador;
 import br.ufba.mata62.SistemaAcademico.domain.DisciplinaCursada;
+import br.ufba.mata62.SistemaAcademico.domain.Universidade;
 import enums.Conceito;
 
 public class CoordenadorService {
 
-		private static boolean alunoExiste(List<Aluno> alunos, String matricula) {
+		public static boolean alunoExiste(Coordenador coordenador, Aluno aluno) {
+			List<Aluno> alunos = coordenador.getAlunos();
+			
+			String matricula = aluno.getMatricula();
+			String rg = aluno.getRg();
+			String cpf = aluno.getCpf();
+			
+			
 			for(int i = 0; i < alunos.size(); i++) {
-				Aluno aluno = alunos.get(i);
-				if(aluno.getMatricula().equals(matricula))
+				Aluno alunoAux = alunos.get(i);
+				if(alunoAux.getMatricula().equals(matricula) || alunoAux.getRg().equals(rg)
+						|| alunoAux.getCpf().equals(cpf))
 					return true;
 			}
 			return false;
 		}
 	
-		public static void adicionarAluno(Coordenador coordenador, Aluno aluno) throws Exception {
-			if(!alunoExiste(coordenador.getAlunos(), aluno.getMatricula()))	//Adiciona o aluno caso não exista nenhum outro com mesmo número de matrícula	
+		public static void adicionarAluno(Universidade universidade, Coordenador coordenador, Aluno aluno) throws Exception {
+			if(!alunoExiste(coordenador, aluno)) {	//Adiciona o aluno caso não exista nenhum outro com mesmo número de matrícula, rg ou cpf	
 			coordenador.adicionarAluno(aluno);
+			universidade.adicionaAluno(aluno);
+			}
 			else
 				throw new Exception("Não foi possível adicionar o aluno, matrícula já existe");
 		}
@@ -63,7 +74,7 @@ public class CoordenadorService {
 
 		public static void darNota(Coordenador coordenador, Aluno aluno, String codigoDisciplina, float nota) throws Exception {
 			//Se o aluno não existe na lista do coordenador, não será possível atribuir nota
-			if(!alunoExiste(coordenador.getAlunos(), aluno.getMatricula()))
+			if(!alunoExiste(coordenador, aluno))
 				throw new Exception("Aluno não existe ou não pertence a esse curso.");
 				
 			// Cria DisciplinaCursada e busca na lista do histórico

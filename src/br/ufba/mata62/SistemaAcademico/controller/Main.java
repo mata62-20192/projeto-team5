@@ -70,7 +70,7 @@ public class Main {
 		frame.getContentPane().setLayout(null);
 		
 		JLabel titulo = new JLabel(tituloStr);
-		titulo.setBounds(0, 0, 704, 140);
+		titulo.setBounds(28, 0, 704, 140);
 		
 		frame.getContentPane().add(titulo);
 		
@@ -86,6 +86,7 @@ public class Main {
 		textField.setBounds(240, 187, 302, 36);
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
+		textField.setFont(new Font("Times New Roman", Font.PLAIN, 22));
 		
 		JLabel lblSenha = new JLabel("Senha:");
 		lblSenha.setBounds(137, 252, 80, 36);
@@ -96,6 +97,7 @@ public class Main {
 		textField_1.setBounds(240, 254, 302, 36);
 		frame.getContentPane().add(textField_1);
 		textField_1.setColumns(10);
+		textField_1.setFont(new Font("Times New Roman", Font.PLAIN, 22));
 		
 		JButton btnLogin = new JButton("LOGIN");
 		

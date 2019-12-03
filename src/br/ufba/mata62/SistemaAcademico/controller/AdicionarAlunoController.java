@@ -140,11 +140,10 @@ public class AdicionarAlunoController extends JFrame {
 				
 				else {
 				Aluno aluno = new Aluno(nome, matricula, senha, rg, cpf, coordenador.getCurso());
-				//Adicionando Aluno
-				universidade.adicionaAluno(aluno);
 				
+				//Adicionando Aluno
 				try {
-					CoordenadorService.adicionarAluno(coordenador, aluno);
+					CoordenadorService.adicionarAluno(universidade, coordenador, aluno);
 				} catch (Exception e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();

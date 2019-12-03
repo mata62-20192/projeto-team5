@@ -24,7 +24,7 @@ public class EscalonamentoScoreService implements EscalonamentoService{
 				
 				else if(alunos.get(j).getScore() == alunos.get(i).getScore()) {
 					//Caso o score seja igual, organiza por semestre
-					if(alunos.get(j).getSemetre() > alunos.get(i).getSemetre()) {
+					if(alunos.get(j).getSemestre() > alunos.get(i).getSemestre()) {
 						Aluno aluno = alunos.get(i);
 						alunosOrdenados.set(i, alunos.get(j));
 						alunosOrdenados.set(j, aluno);						

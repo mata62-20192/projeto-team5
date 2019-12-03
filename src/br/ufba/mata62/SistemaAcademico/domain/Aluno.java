@@ -41,7 +41,7 @@ public class Aluno extends Pessoa {
 		this.score = score;
 	}
 
-	public int getSemetre() {
+	public int getSemestre() {
 		return semestre;
 	}
 

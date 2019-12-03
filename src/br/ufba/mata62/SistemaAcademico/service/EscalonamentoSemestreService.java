@@ -16,13 +16,13 @@ public class EscalonamentoSemestreService implements EscalonamentoService{
 		for(i = 0; i < alunos.size(); i++) {
 			
 			for(j = i+1; j < alunos.size(); j++) {
-				if(alunos.get(j).getSemetre() > alunos.get(i).getSemetre()) {
+				if(alunos.get(j).getSemestre() > alunos.get(i).getSemestre()) {
 					Aluno aluno = alunos.get(j);
 					alunosOrdenados.set(i, alunos.get(j));
 					alunosOrdenados.set(j, aluno);
 				}
 				
-				else if(alunos.get(j).getSemetre() == alunos.get(i).getSemetre()) {
+				else if(alunos.get(j).getSemestre() == alunos.get(i).getSemestre()) {
 					//Caso o score seja igual, organiza por semestre
 					if(alunos.get(j).getScore() > alunos.get(i).getScore()) {
 						Aluno aluno = alunos.get(j);
